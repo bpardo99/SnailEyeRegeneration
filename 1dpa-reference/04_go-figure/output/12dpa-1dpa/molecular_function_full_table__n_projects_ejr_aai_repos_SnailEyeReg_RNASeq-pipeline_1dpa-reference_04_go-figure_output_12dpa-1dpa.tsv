@@ -1,0 +1,85 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0015631	GO:0015631	tubulin binding	1.957e-14	0.000e+00	3.172e+00	6.727e-04
+GO:0015631	GO:0008017	microtubule binding	2.744e-13	0.000e+00	3.272e+00	5.341e-04
+GO:0015631	GO:0005516	calmodulin binding	5.369e-03	0.000e+00	3.503e+00	3.138e-04
+GO:0015631	GO:0051015	actin filament binding	8.189e-03	0.000e+00	3.643e+00	2.276e-04
+GO:0015631	GO:0030165	PDZ domain binding	1.246e-03	0.000e+00	5.051e+00	8.900e-06
+GO:0015631	GO:0097110	scaffold protein binding	8.700e-03	0.000e+00	5.241e+00	5.744e-06
+GO:0015631	GO:0001965	G-protein alpha-subunit binding	7.499e-06	0.000e+00	4.910e+00	1.231e-05
+GO:0015631	GO:0051018	protein kinase A binding	9.337e-04	0.000e+00	4.892e+00	1.282e-05
+GO:0015631	GO:0045503	dynein light chain binding	7.903e-04	0.000e+00	5.341e+00	4.558e-06
+GO:0015631	GO:0051959	dynein light intermediate chain binding	4.753e-03	0.000e+00	4.015e+00	9.667e-05
+GO:0015631	GO:0008179	adenylate cyclase binding	1.880e-03	0.000e+00	5.735e+00	1.841e-06
+GO:0015631	GO:0031681	G-protein beta-subunit binding	6.429e-04	0.000e+00	4.681e+00	2.083e-05
+GO:0015631	GO:0045504	dynein heavy chain binding	9.946e-03	0.000e+00	5.290e+00	5.124e-06
+GO:0015631	GO:0031690	adrenergic receptor binding	9.650e-04	0.000e+00	5.821e+00	1.511e-06
+GO:0015631	GO:0001664	G protein-coupled receptor binding	5.016e-04	0.000e+00	3.900e+00	1.258e-04
+GO:0015631	GO:0031698	beta-2 adrenergic receptor binding	9.667e-03	0.000e+00	6.489e+00	3.241e-07
+GO:0015631	GO:0070700	BMP receptor binding	9.667e-03	0.000e+00	5.844e+00	1.433e-06
+GO:0015631	GO:0033612	receptor serine/threonine kinase binding	9.667e-03	0.000e+00	5.260e+00	5.492e-06
+GO:0022836	GO:0022836	gated channel activity	1.518e-17	0.000e+00	2.763e+00	1.727e-03
+GO:0022836	GO:0022839	monoatomic ion gated channel activity	2.533e-16	0.000e+00	2.765e+00	1.718e-03
+GO:0022836	GO:0005261	monoatomic cation channel activity	2.548e-16	0.000e+00	2.503e+00	3.142e-03
+GO:0022836	GO:0005216	monoatomic ion channel activity	3.771e-14	0.000e+00	2.261e+00	5.486e-03
+GO:0022836	GO:0015267	channel activity	3.771e-14	0.000e+00	2.200e+00	6.313e-03
+GO:0022836	GO:0022803	passive transmembrane transporter activity	5.506e-14	0.000e+00	2.200e+00	6.313e-03
+GO:0022836	GO:0005267	potassium channel activity	1.984e-12	0.000e+00	3.284e+00	5.196e-04
+GO:0022836	GO:0022843	voltage-gated monoatomic cation channel activity	2.214e-11	0.000e+00	3.490e+00	3.235e-04
+GO:0022836	GO:0005244	voltage-gated monoatomic ion channel activity	1.934e-10	0.000e+00	3.122e+00	7.548e-04
+GO:0022836	GO:0022832	voltage-gated channel activity	1.934e-10	0.000e+00	3.117e+00	7.633e-04
+GO:0022836	GO:0015271	outward rectifier potassium channel activity	1.357e-05	0.000e+00	5.857e+00	1.391e-06
+GO:0022836	GO:0099094	ligand-gated monoatomic cation channel activity	7.244e-10	0.000e+00	3.731e+00	1.856e-04
+GO:0022836	GO:0015276	ligand-gated monoatomic ion channel activity	5.974e-10	0.000e+00	3.183e+00	6.561e-04
+GO:0022836	GO:0022834	ligand-gated channel activity	5.974e-10	0.000e+00	3.183e+00	6.562e-04
+GO:0022836	GO:0005231	excitatory extracellular ligand-gated monoatomic ion channel activity	8.558e-08	0.000e+00	4.098e+00	7.977e-05
+GO:0022836	GO:0004970	ionotropic glutamate receptor activity	2.380e-06	0.000e+00	4.075e+00	8.420e-05
+GO:0022836	GO:0005230	extracellular ligand-gated monoatomic ion channel activity	1.384e-06	0.000e+00	3.456e+00	3.500e-04
+GO:0022836	GO:0005234	extracellularly glutamate-gated ion channel activity	1.223e-05	0.000e+00	6.721e+00	1.901e-07
+GO:0022836	GO:0005227	calcium activated cation channel activity	6.457e-04	0.000e+00	4.091e+00	8.109e-05
+GO:0022836	GO:0015269	calcium-activated potassium channel activity	9.667e-03	0.000e+00	4.454e+00	3.519e-05
+GO:0030594	GO:0030594	neurotransmitter receptor activity	5.162e-12	0.000e+00	3.725e+00	1.882e-04
+GO:0030594	GO:0022824	transmitter-gated monoatomic ion channel activity	7.244e-10	0.000e+00	3.825e+00	1.496e-04
+GO:0030594	GO:0022835	transmitter-gated channel activity	7.244e-10	0.000e+00	3.825e+00	1.496e-04
+GO:0030594	GO:0099528	G protein-coupled neurotransmitter receptor activity	8.905e-04	0.000e+00	4.665e+00	2.162e-05
+GO:0030594	GO:0099529	neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential	7.244e-10	0.000e+00	4.255e+00	5.556e-05
+GO:0030594	GO:0098960	postsynaptic neurotransmitter receptor activity	2.338e-09	0.000e+00	4.048e+00	8.961e-05
+GO:0030594	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	1.205e-08	0.000e+00	4.257e+00	5.538e-05
+GO:0030594	GO:0099583	neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration	2.276e-04	0.000e+00	6.287e+00	5.162e-07
+GO:0030594	GO:0008188	neuropeptide receptor activity	2.598e-11	0.000e+00	4.108e+00	7.793e-05
+GO:0030594	GO:0008528	G protein-coupled peptide receptor activity	1.234e-04	0.000e+00	3.687e+00	2.054e-04
+GO:0030594	GO:0001653	peptide receptor activity	4.287e-04	0.000e+00	3.670e+00	2.139e-04
+GO:0030594	GO:0004983	neuropeptide Y receptor activity	6.723e-05	0.000e+00	4.589e+00	2.577e-05
+GO:0030594	GO:0005000	vasopressin receptor activity	9.667e-03	0.000e+00	4.869e+00	1.352e-05
+GO:0030594	GO:0008066	glutamate receptor activity	3.531e-06	0.000e+00	4.056e+00	8.785e-05
+GO:0030594	GO:0015277	kainate selective glutamate receptor activity	1.357e-05	0.000e+00	6.084e+00	8.243e-07
+GO:0030594	GO:0009881	photoreceptor activity	4.217e-05	0.000e+00	3.792e+00	1.614e-04
+GO:0030594	GO:0008020	G protein-coupled photoreceptor activity	8.779e-05	0.000e+00	5.705e+00	1.973e-06
+GO:0003774	GO:0003774	cytoskeletal motor activity	7.244e-10	0.000e+00	2.915e+00	1.216e-03
+GO:0003774	GO:0003777	microtubule motor activity	1.603e-09	0.000e+00	3.442e+00	3.618e-04
+GO:0003774	GO:0008569	minus-end-directed microtubule motor activity	9.477e-04	0.000e+00	4.012e+00	9.728e-05
+GO:0003774	GO:0008574	plus-end-directed microtubule motor activity	5.350e-05	0.000e+00	5.344e+00	4.532e-06
+GO:0015079	GO:0015079	potassium ion transmembrane transporter activity	9.593e-10	0.000e+00	2.993e+00	1.017e-03
+GO:0015079	GO:0005249	voltage-gated potassium channel activity	1.205e-08	0.000e+00	3.656e+00	2.209e-04
+GO:0015079	GO:0005272	sodium channel activity	3.332e-08	0.000e+00	3.759e+00	1.741e-04
+GO:0015079	GO:0015081	sodium ion transmembrane transporter activity	5.016e-04	0.000e+00	3.204e+00	6.250e-04
+GO:0015079	GO:0005248	voltage-gated sodium channel activity	8.111e-04	0.000e+00	4.461e+00	3.460e-05
+GO:0008201	GO:0008201	heparin binding	1.683e-04	0.000e+00	4.049e+00	8.943e-05
+GO:0042165	GO:0042165	neurotransmitter binding	3.326e-07	0.000e+00	5.945e+00	1.134e-06
+GO:0017046	GO:0042277	peptide binding	5.083e-05	0.000e+00	3.856e+00	1.392e-04
+GO:0017046	GO:0017046	peptide hormone binding	8.456e-06	0.000e+00	5.068e+00	8.558e-06
+GO:0017046	GO:0033218	amide binding	1.420e-03	0.000e+00	2.923e+00	1.193e-03
+GO:0017046	GO:0042562	hormone binding	7.008e-04	0.000e+00	4.446e+00	3.579e-05
+GO:0017046	GO:0042923	neuropeptide binding	3.097e-03	0.000e+00	5.835e+00	1.461e-06
+GO:0017046	GO:0016595	glutamate binding	1.505e-03	0.000e+00	6.274e+00	5.322e-07
+GO:0017046	GO:0016594	glycine binding	6.146e-03	0.000e+00	5.031e+00	9.308e-06
+GO:0017046	GO:0016597	amino acid binding	5.369e-03	0.000e+00	3.586e+00	2.594e-04
+GO:0005544	GO:0005544	calcium-dependent phospholipid binding	6.162e-03	0.000e+00	3.866e+00	1.362e-04
+GO:0004796	GO:0004796	thromboxane-A synthase activity	2.735e-03	0.000e+00	6.418e+00	3.822e-07
+GO:0101021	GO:0101021	estrogen 2-hydroxylase activity	4.203e-03	0.000e+00	6.448e+00	3.561e-07
+GO:0008401	GO:0008401	retinoic acid 4-hydroxylase activity	6.013e-03	0.000e+00	6.153e+00	7.023e-07
+GO:0062183	GO:0062183	all-trans retinoic acid 18-hydroxylase activity	4.838e-03	0.000e+00	6.866e+00	1.361e-07
+GO:0030552	GO:0030552	cAMP binding	8.189e-03	0.000e+00	4.791e+00	1.619e-05
+GO:0051378	GO:0043176	amine binding	3.262e-04	0.000e+00	5.157e+00	6.971e-06
+GO:0051378	GO:0051378	serotonin binding	5.229e-04	0.000e+00	5.854e+00	1.399e-06
+GO:0004550	GO:0016776	phosphotransferase activity, phosphate group as acceptor	6.529e-03	0.000e+00	2.523e+00	2.997e-03
+GO:0004550	GO:0004550	nucleoside diphosphate kinase activity	9.667e-03	0.000e+00	3.596e+00	2.535e-04

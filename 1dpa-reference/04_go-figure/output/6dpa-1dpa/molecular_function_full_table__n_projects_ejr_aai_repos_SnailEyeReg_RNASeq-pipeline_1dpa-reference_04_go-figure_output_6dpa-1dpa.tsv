@@ -1,0 +1,35 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0000978	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	9.654e-04	0.000e+00	3.656e+00	2.208e-04
+GO:0000978	GO:0000987	cis-regulatory region sequence-specific DNA binding	2.994e-03	0.000e+00	3.592e+00	2.560e-04
+GO:0008017	GO:0015631	tubulin binding	1.984e-16	0.000e+00	3.172e+00	6.727e-04
+GO:0008017	GO:0008017	microtubule binding	1.219e-16	0.000e+00	3.272e+00	5.341e-04
+GO:0008017	GO:0051959	dynein light intermediate chain binding	3.656e-03	0.000e+00	4.015e+00	9.667e-05
+GO:0008017	GO:0051018	protein kinase A binding	6.831e-03	0.000e+00	4.892e+00	1.282e-05
+GO:0008017	GO:0045503	dynein light chain binding	4.816e-04	0.000e+00	5.341e+00	4.558e-06
+GO:0008017	GO:0045504	dynein heavy chain binding	4.326e-03	0.000e+00	5.290e+00	5.124e-06
+GO:0005261	GO:0005216	monoatomic ion channel activity	3.130e-04	0.000e+00	2.261e+00	5.486e-03
+GO:0005261	GO:0005261	monoatomic cation channel activity	3.272e-06	0.000e+00	2.503e+00	3.142e-03
+GO:0005261	GO:0015267	channel activity	3.130e-04	0.000e+00	2.200e+00	6.313e-03
+GO:0005261	GO:0022803	passive transmembrane transporter activity	2.721e-04	0.000e+00	2.200e+00	6.313e-03
+GO:0005261	GO:0005267	potassium channel activity	1.153e-05	0.000e+00	3.284e+00	5.196e-04
+GO:0005261	GO:0005272	sodium channel activity	1.645e-04	0.000e+00	3.759e+00	1.741e-04
+GO:0005261	GO:0022836	gated channel activity	7.926e-06	0.000e+00	2.763e+00	1.727e-03
+GO:0005261	GO:0022839	monoatomic ion gated channel activity	1.859e-05	0.000e+00	2.765e+00	1.718e-03
+GO:0005261	GO:0099094	ligand-gated monoatomic cation channel activity	6.326e-05	0.000e+00	3.731e+00	1.856e-04
+GO:0005261	GO:0015276	ligand-gated monoatomic ion channel activity	5.695e-03	0.000e+00	3.183e+00	6.561e-04
+GO:0005261	GO:0022834	ligand-gated channel activity	5.695e-03	0.000e+00	3.183e+00	6.562e-04
+GO:0005261	GO:0005249	voltage-gated potassium channel activity	9.885e-05	0.000e+00	3.656e+00	2.209e-04
+GO:0005261	GO:0015079	potassium ion transmembrane transporter activity	3.130e-04	0.000e+00	2.993e+00	1.017e-03
+GO:0005261	GO:0022843	voltage-gated monoatomic cation channel activity	6.326e-05	0.000e+00	3.490e+00	3.235e-04
+GO:0005261	GO:0005244	voltage-gated monoatomic ion channel activity	2.391e-04	0.000e+00	3.122e+00	7.548e-04
+GO:0005261	GO:0022832	voltage-gated channel activity	2.391e-04	0.000e+00	3.117e+00	7.633e-04
+GO:0003774	GO:0003774	cytoskeletal motor activity	1.053e-11	0.000e+00	2.915e+00	1.216e-03
+GO:0003774	GO:0003777	microtubule motor activity	1.676e-10	0.000e+00	3.442e+00	3.618e-04
+GO:0003774	GO:0008569	minus-end-directed microtubule motor activity	1.153e-05	0.000e+00	4.012e+00	9.728e-05
+GO:0003774	GO:0008574	plus-end-directed microtubule motor activity	1.740e-04	0.000e+00	5.344e+00	4.532e-06
+GO:0001227	GO:0001217	DNA-binding transcription repressor activity	8.247e-04	0.000e+00	4.421e+00	3.796e-05
+GO:0001227	GO:0001227	DNA-binding transcription repressor activity, RNA polymerase II-specific	8.247e-04	0.000e+00	4.439e+00	3.636e-05
+GO:0001227	GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	5.141e-03	0.000e+00	4.028e+00	9.372e-05
+GO:0001227	GO:0001216	DNA-binding transcription activator activity	5.554e-03	0.000e+00	3.809e+00	1.552e-04
+GO:0008201	GO:0008201	heparin binding	8.383e-03	0.000e+00	4.049e+00	8.943e-05
+GO:0003950	GO:0003950	NAD+ ADP-ribosyltransferase activity	6.411e-03	0.000e+00	3.855e+00	1.398e-04
