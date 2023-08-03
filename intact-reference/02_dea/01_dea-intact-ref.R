@@ -285,7 +285,7 @@ mds_plot <- ggplot(mds_df, aes(x=x, y=y, color=factor(timepoint, level=plot_orde
   xlab("Dimension 1") +
   ylab("Dimension 2") +
   ggtitle(paste0("MDS PLOT: top 1000 genes")) +
-  xlim(NA, 2.5)
+  xlim(NA, 2.7)
 ggsave(filename =here(paste0("intact-reference/02_dea/figures/mds-eric-top1000.pdf")), width=6, height=5)
 
 #Plot NO labels
@@ -297,7 +297,7 @@ mds_plot <- ggplot(mds_df, aes(x=x, y=y, color=factor(timepoint, level=plot_orde
   xlab("Dimension 1") +
   ylab("Dimension 2") +
   ggtitle(paste0("MDS PLOT: top 1000 genes")) +
-  xlim(NA, 2.5)
+  xlim(NA, 2.7)
 ggsave(filename = here("intact-reference/02_dea/figures/mds-eric-nlab-top1000.pdf"), width=6, height=5)
 
 
@@ -321,4 +321,5 @@ df.lfc <- map(lfc_list, function(lfc){
             file=here(paste0("intact-reference/02_dea/tables/de-up_lfc", lfc, ".csv.gz")))
   
 })
+
   

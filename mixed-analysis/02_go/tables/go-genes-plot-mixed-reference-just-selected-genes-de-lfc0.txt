@@ -1,0 +1,91 @@
+gene_id	desc
+LOC112571170	neurogenic differentiation factor 6
+LOC112560509	tryptophan 2,3-dioxygenase
+LOC112556014	zinc finger protein GLI2
+LOC112555259	retinal homeobox protein Rx
+LOC112562743	T-box transcription factor TBX2-B
+LOC112571301	homeobox protein six1a
+LOC112557726	forkhead box protein G1
+LOC112575298	paired box protein Pax-6
+LOC112554782	transcription factor SOX-2
+LOC112575485	retina and anterior neural fold homeobox protein 2
+LOC112571029	visual system homeobox 2
+LOC112570559	transcription factor Sp9
+LOC112557455	homeobox protein Dlx6a
+LOC112554665	photoreceptor-specific nuclear receptor
+LOC112554355	insulin gene enhancer protein isl-1
+LOC112571127	forkhead box protein G1
+LOC112557554	transcription factor HES-1
+LOC112561153	T-box transcription factor TBX2-B
+LOC112557919	paired box protein Pax-2a
+LOC112570915	homeobox protein SIX6
+LOC112560122	forkhead box protein N4
+LOC112572019	protein Wnt-2b
+LOC112571089	visual system homeobox 1
+LOC112564753	ventral anterior homeobox 1
+LOC112566813	nuclear receptor subfamily 2 group E member 1
+LOC112554359	retinal homeobox protein Rx2
+LOC112577001	forkhead box protein C2-B
+LOC112567991	neurogenin-1
+LOC112569079	retinoic acid receptor RXR
+LOC112567296	oligodendrocyte transcription factor 2
+LOC112562800	homeobox protein six1
+LOC112559099	dachshund homolog 1
+LOC112573813	transcription factor SOX-4
+LOC112567041	neurogenin-2
+LOC112562885	hairy/enhancer-of-split related with YRPW motif protein 1
+LOC112566147	nuclear receptor subfamily 2 group E member 1
+LOC112564260	neurogenic differentiation factor 1
+LOC112553496	transcription factor Sp9
+LOC112556162	cell division cycle-associated protein 3
+LOC112553650	G2/mitotic-specific cyclin-B
+LOC112564198	mitotic spindle assembly checkpoint protein MAD2A
+LOC112560487	G2/mitotic-specific cyclin-A
+LOC112555046	G2/mitotic-specific cyclin-B3
+LOC112565364	kinetochore protein Spc25
+LOC112561080	kinesin protein KIF22
+LOC112563571	proliferation marker protein Ki-67
+LOC112558160	kinesin protein KIF23
+LOC112557770	condensin complex subunit 1
+LOC112559185	cyclin-G2
+LOC112566303	chromatin assembly factor 1 subunit B
+LOC112561342	cell division control protein 45 homolog
+LOC112555129	retinoblastoma-associated protein
+LOC112576592	transcription factor E2F4
+LOC112568392	retinoic acid receptor RXR-alpha-B
+LOC112562916	bone morphogenetic protein 7
+LOC112555961	beta-arrestin-1
+LOC112576899	hairy and enhancer of split-related protein helt
+LOC112560315	POU domain, class 4, transcription factor 3
+LOC112557712	transcription factor HES-4
+LOC112567380	rhodopsin, GQ-coupled
+LOC112555761	NT-3 growth factor receptor
+LOC112564308	early growth response protein 1
+LOC112571709	forkhead box protein P1
+LOC112562913	bone morphogenetic protein 7
+LOC112559435	retinoic acid receptor alpha-A
+LOC112553488	transcription factor MafB
+LOC112559942	paired box protein Pax-6
+LOC112559235	protein mab-21 2
+LOC112570544	melanopsin
+LOC112554644	opsin, ultraviolet-sensitive
+LOC112575597	LIM/homeobox protein Lhx9
+LOC112571885	protein Wnt-7b
+LOC112572084	visual pigment receptor peropsin
+LOC112558777	diencephalon/mesencephalon homeobox protein 1
+LOC112565132	integrin alpha-IIb
+LOC112555801	tumor necrosis factor ligand superfamily member 11
+LOC112571507	microphthalmia-associated transcription factor
+LOC112567589	neural cell adhesion molecule 1
+LOC112554498	collagen alpha-4(VI) chain
+LOC112554477	collagen alpha-1(XXII) chain
+LOC112562988	matrix metalloproteinase-19
+LOC112555926	zinc metalloproteinase nas-13
+LOC112568932	plasminogen
+LOC112575914	photoreceptor-specific nuclear receptor
+LOC112572170	Krueppel factor 16
+LOC112562304	transcription factor SOX-8
+LOC112566205	POU domain, class 3, transcription factor 4
+LOC112571962	guanine nucleotide-binding protein 3 homolog
+LOC112557550	transcription factor HES-1-A
+LOC112553445	iroquois-class homeodomain protein irx-1

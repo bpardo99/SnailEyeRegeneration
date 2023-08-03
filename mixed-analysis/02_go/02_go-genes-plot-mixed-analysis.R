@@ -11,19 +11,20 @@ library(RColorBrewer)
 library(ggplot2)
 library(purrr)
 library(ggpubr)
-library(here)
+library(cowplot)
+library(readr)
 
 
 #Load selected go terms
-bp.df<- read.xlsx(here("01_raw-data/20230401-terms-from-gofigure-selection-BP.xlsx"))
+bp.df<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/20230401-terms-from-gofigure-selection-BP.xlsx")
 bp<- bp.df$go_id #IDs
 bp.tit<- bp.df$term #Terms
 
-mf.df<- read.xlsx(here("01_raw-data/20230401-terms-from-gofigure-selection-MF.xlsx"))
+mf.df<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/20230401-terms-from-gofigure-selection-MF.xlsx")
 mf<- mf.df$go_id #IDs
 mf.tit<- mf.df$term #Terms
 
-cc.df<- read.xlsx(here("01_raw-data/20230401-terms-from-gofigure-selection-MF.xlsx"))
+cc.df<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/20230401-terms-from-gofigure-selection-CC.xlsx")
 cc<- cc.df$go_id #IDs
 cc.tit<- cc.df$term #Terms
 
@@ -31,19 +32,38 @@ term.cat<- list(bp, mf, cc)
 term.catn<- c("BP", "MF", "CC")
 tit.cat<- list(bp.tit, mf.tit, cc.tit)
 
+#All go enriched
+#references<- c("1dpa", "intact", "sequential")
+references<- c("1dpa", "sequential")
+breakdown<- map(references, function(x) {
+  # read in GO enrichment
+  go <- read_tsv(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/", x, "-reference/03_go/output/go-breakdown_lfc0.txt"))
+})
+breakdown2<- do.call("rbind", breakdown)
+
+enriched<- map(term.cat, function(t){
+  enr<- breakdown2 %>%
+    filter(ID %in% t)
+})
+enriched2<- do.call("rbind", enriched)
+enriched3<- enriched2$ID %>%
+  unique() %>%
+  length() #all the list of go terms form part of the enriched in 1dpa and sequential analysis
+l.bp.cc.mf<- c(bp.tit, mf.tit, cc.tit)
+
 
 #Load selected list of genes
 #Wound and division
-wound.div<- read.xlsx(here("01_raw-data/selection-woundhealing-celldivision-aai.xlsx"), colNames = FALSE)
+wound.div<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/1dpa-reference/02_dea/selection-woundhealing-celldivision-aai.xlsx", colNames = FALSE)
 wound.div<- wound.div$X1
 #TFs
-tf<- read.xlsx(here("01_raw-data/selection-markers-tfs-aai.xlsx"), colNames = FALSE)
+tf<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/1dpa-reference/02_dea/selection-markers-tfs-aai.xlsx", colNames = FALSE)
 tf<- tf$X1
 genl<- unique(c(wound.div, tf))
 #Filter gene selection by if they are DE
 references<- c("1dpa", "intact", "sequential")
 de.l<- map(references, function(reference){
-  file<-read.table(here(paste0(reference, "-reference/02_dea/tables/de-up_lfc0.csv.gz")), sep="\t", quote = "", header= TRUE)
+  file<-read.table(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/", reference, "-reference/02_dea/tables/de-up_lfc2.csv"), sep="\t", quote = "", header= TRUE)
 })
 de.l<- do.call("rbind", de.l) %>%
   unique()
@@ -56,18 +76,18 @@ genl<- genl.d.f$gene_id
 
 
 #Load de go-gene data base
-go.db<- read.table(here("01_raw-data/pcan_go_20210924_with_ancestors.txt.gz"), sep="\t", quote = "", header= TRUE)
+go.db<- read.table("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/pcan_go_20210924_with_ancestors.txt", sep="\t", quote = "", header= TRUE)
 
 
 
 #Read references
-ref<- read.table(here("01_raw-data/gene-ref.txt.gz"), sep="\t", quote = "", header= TRUE)
+ref<- read.table("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/01_raw-data/gene-ref.txt", sep="\t", quote = "", header= TRUE)
 ref$id.desc= paste0(ref$gene_id,"_", ref$description)
 ref <- ref %>%
   select(gene_id, id.desc)
 
 #Load zscore table with reference
-tpm.z<- read.csv(here("02_processed-data/tpm-zscores.csv.gz"), header = TRUE)
+tpm.z<- read.csv("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/02_processed-data/tpm-zscores.csv", header = TRUE)
 zsc <- tpm.z %>%
   left_join(y=ref, by= "gene_id") %>%
   na.omit()
@@ -178,15 +198,16 @@ g<-  pmap(list(term.cat, tit.cat, term.catn), function(term.c, tit.c, term.cn){
   plot <- ggplot(f, aes(y=factor(st, levels = lev), x=order)) +
     geom_tile(aes(fill= zscore)) +
     scale_fill_gradientn(colors=mypalette) +
-    theme(axis.text.x = element_text(angle=90)) +
+    theme_cowplot()+
+    theme(axis.text.x = element_text(angle= 90, hjust= 0.99, vjust = 0.95), panel.spacing.x = unit(0.5, "pt")) +
     facet_grid(~go_term, scales = "free_x", space = "free_x") +
-    ylab("Genes") +
-    xlab("Stages") +
-    theme(
-      strip.text.x = element_text(
-        size = 3, color = "black"))
+    ylab("Stages") +
+    xlab("Genes") #+
+    #theme(
+      #strip.text.x = element_text(
+        #size = 3, color = "black"))
   
-  ggsave(here(paste0("mixed-analysis/02_go/figures/go-genes-plot-", term.cn, "-mixed-reference.pdf")), plot, height=10, width=20)
+  ggsave(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/figures/go-genes-plot-", term.cn, "-mixed-reference-lfc2.pdf"), plot, height=10, width=20, limitsize=FALSE)
     
 })
   

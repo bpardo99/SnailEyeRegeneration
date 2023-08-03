@@ -14,16 +14,15 @@ library(RColorBrewer)
 library(ggplot2)
 library(cowplot)
 library(purrr)
-library(here)
 
 
 #Load data
 ##BP terms
-bp<- read.xlsx(here("01_raw-data/20230401-terms-from-gofigure-selection-BP.xlsx"))
+bp<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/20230401-terms-from-gofigure-selection-BP.xlsx")
 ##CC terms
-cc<- read.xlsx(here("01_raw-data/20230401-terms-from-gofigure-selection-CC.xlsx"))
+cc<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/20230401-terms-from-gofigure-selection-CC.xlsx")
 ##MF terms
-mf<- read.xlsx(here("01_raw-data/20230401-terms-from-gofigure-selection-MF.xlsx"))
+mf<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/20230401-terms-from-gofigure-selection-MF.xlsx")
 
 #List of data
 go.list<- list(bp, cc, mf)
@@ -61,11 +60,11 @@ go.func<- pmap(list(go.list, go.names), function(go, go.name){
   lfc<- purrr::map(thresholds, function(x) {
     
     # read in GO enrichment INTACT VS 1 <- to use as first timepoint
-    go.br.int_1dpa <- read_tsv(here(paste0("intact-reference/03_go/output/go-breakdown_lfc", x, ".txt.gz"))) %>%
-      filter(cluster=="de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt.gz") 
+    go.br.int_1dpa <- read_tsv(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc", x, ".txt")) %>%
+      filter(cluster=="de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt") 
     
     # read in GO enrichment vs 1dpa all comparisons
-    go.br.vs1 <- read_tsv(here(paste0("1dpa-reference/03_go/output/go-breakdown_lfc", x, ".txt.gz")))
+    go.br.vs1 <- read_tsv(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/1dpa-reference/03_go/output/go-breakdown_lfc", x, ".txt"))
     
     go.br<- rbind(go.br.int_1dpa, go.br.vs1)
     
@@ -127,7 +126,7 @@ go.func<- pmap(list(go.list, go.names), function(go, go.name){
       theme(axis.text.x = element_text(angle = 45, vjust = 1.1, hjust=1.1)) +
       scale_x_discrete(limits = plot_order)
     
-    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_id_fc", x, "-selection-", go.name, ".pdf")),p2, height=10, width=11.5)
+    ggsave(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/figures/GO_id_fc", x, "-selection-", go.name, ".pdf"),p2, height=10, width=11.5)
     
     
     
@@ -141,7 +140,7 @@ go.func<- pmap(list(go.list, go.names), function(go, go.name){
       theme(axis.text.x = element_text(angle = 45, vjust = 1.1, hjust=1.1))+
       scale_x_discrete(limits = plot_order)
     
-    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_noid_fc", x, "-selection-", go.name, ".pdf")), p3, height=10, width=10.5)
+    ggsave(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/figures/GO_noid_fc", x, "-selection-", go.name, ".pdf"), p3, height=10, width=10.5)
     
   })
 })
