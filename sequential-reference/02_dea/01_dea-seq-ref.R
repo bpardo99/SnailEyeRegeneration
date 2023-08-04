@@ -223,8 +223,14 @@ df.lfc <- map(lfc_list, function(lfc){
   de.ct <- do.call("rbind", df) %>%
     data.frame() 
   names(de.ct)=c("tag", "de.ct.up", "de.ct.down")
-  write_csv(de.ct, 
-            file=here(paste0("sequential-reference/02_dea/tables/number-de-genes-lfc", lfc,"_seq-ref.csv.gz")))
+  
+  #Calculate percentages
+  de.ct<- de.ct %>%
+    mutate(de.ct.up.perc= ((as.numeric(de.ct.up)*100)/dim(dge$counts)[1]),
+           de.ct.down.perc= (as.numeric(de.ct.down)*100/dim(dge$counts)[1]))
+  write.table(de.ct, 
+              file=here(paste0("sequential-reference/02_dea/tables/number-de-genes-lfc", lfc,"_seq-ref.txt")),
+              sep = "\t", row.names = FALSE, col.names = TRUE, quote = FALSE)
 })
 
 

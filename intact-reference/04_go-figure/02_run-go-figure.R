@@ -34,7 +34,7 @@ for(input_file in input_files) {
   
   cmd = c(
     'python', args[1],  '-i', input_file.c, 
-    '-v 0.05 -a 20 -m 20 -si 0.4 -e 60 -o', out_folder
+    '-v 0.05 -a 20 -m 20 -si 0.4 -e 60 -q "pdf" -o', out_folder
   )
   cmd = paste(cmd, collapse=' ')
   system(cmd)
