@@ -269,7 +269,7 @@ dev.off()
 ##Dimension reduction plot, MDS plot
 
 #With all genes
-mds <- plotMDS(dge,  plot=FALSE, top=1000)
+mds <- plotMDS(dge,  plot=FALSE)
 
 #Order data
 mds_df <- data.frame(replicate = rownames(mds$distance.matrix), x=mds$x, y=mds$y) %>%
@@ -294,9 +294,9 @@ mds_plot <- ggplot(mds_df, aes(x=x, y=y, color=factor(timepoint, level=plot_orde
   scale_color_manual(values = myPalette)  +
   xlab("Dimension 1") +
   ylab("Dimension 2") +
-  ggtitle(paste0("MDS PLOT: top 1000 genes")) +
-  xlim(NA, 2.7)
-ggsave(filename = here("sequential-reference/02_dea/figures/mds-eric-top1000.pdf"), width=6, height=5)
+  ggtitle(paste0("MDS PLOT: all genes")) +
+  xlim(NA, 3.5)
+ggsave(filename = here("sequential-reference/02_dea/figures/mds-eric-allgenes.pdf"), width=6, height=5)
 
 #Plot NO labels
 mds_plot <- ggplot(mds_df, aes(x=x, y=y, color=factor(timepoint, level=plot_order))) +
@@ -306,9 +306,9 @@ mds_plot <- ggplot(mds_df, aes(x=x, y=y, color=factor(timepoint, level=plot_orde
   scale_color_manual(values = myPalette)  +
   xlab("Dimension 1") +
   ylab("Dimension 2") +
-  ggtitle(paste0("MDS PLOT: top 1000 genes")) +
+  ggtitle(paste0("MDS PLOT: all genes")) +
   xlim(NA, 2.7)
-ggsave(filename = here("sequential-reference/02_dea/figures/mds-eric-nlab-top1000.pdf"), width=6, height=5)
+ggsave(filename = here("sequential-reference/02_dea/figures/mds-eric-nlab-allgenes.pdf"), width=6, height=5)
 
 
 
