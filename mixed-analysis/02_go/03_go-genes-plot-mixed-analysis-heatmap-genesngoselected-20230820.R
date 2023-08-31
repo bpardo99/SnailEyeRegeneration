@@ -43,7 +43,7 @@ genl<- genl.d.f$gene_id
 
 
 #Read selected go terms
-sel.go<- read_excel(here("mixed-analysis/20230807_per_cluster_go_counts_Selected_AAI.xlsx"))
+sel.go<- read_excel(here("mixed-analysis/02_go/20230807_per_cluster_go_counts_Selected_AAI.xlsx"))
 sel.go<- sel.go$go_term
 #Go-gene reference 
 go.gen.ref<- read.table(here("01_raw-data/genes2go-ref.txt.gz"), sep="\t", quote = "", header= TRUE)
