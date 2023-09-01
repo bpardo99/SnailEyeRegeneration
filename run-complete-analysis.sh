@@ -57,6 +57,8 @@ Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
 Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
+mkdir -p ${DIR}/03_go/input
+mkdir -p ${DIR}/03_go/output
 Rscript ${DIR}/03_go/01_go-input.R
 Rscript ${DIR}/03_go/02_clusterProfiler.R
 Rscript ${DIR}/03_go/03_go-degenes-search.R
@@ -82,6 +84,8 @@ Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
 Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
+mkdir -p ${DIR}/03_go/input
+mkdir -p ${DIR}/03_go/output
 Rscript ${DIR}/03_go/01_go-input.R
 Rscript ${DIR}/03_go/02_clusterProfiler.R
 Rscript ${DIR}/03_go/03_go-degenes-search.R
@@ -106,6 +110,8 @@ Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
 Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
+mkdir -p ${DIR}/03_go/input
+mkdir -p ${DIR}/03_go/output
 Rscript ${DIR}/03_go/01_go-input.R
 Rscript ${DIR}/03_go/02_clusterProfiler.R
 Rscript ${DIR}/03_go/03_go-degenes-search.R

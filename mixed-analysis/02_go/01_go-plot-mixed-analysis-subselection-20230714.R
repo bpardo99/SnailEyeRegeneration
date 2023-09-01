@@ -14,10 +14,11 @@ library(RColorBrewer)
 library(ggplot2)
 library(cowplot)
 library(purrr)
+library(here)
 
 
 #Load data
-go<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/20230706_GO_id_fc0-selection-Combined-AAI.xlsx")
+go<- read.xlsx(here("mixed-analysis/02_go/20230706_GO_id_fc0-selection-Combined-AAI.xlsx"))
 
 
 #List of tresholds
@@ -45,11 +46,11 @@ plot_order <- c(
   x=0
     
     # read in GO enrichment INTACT VS 1 <- to use as first timepoint
-    go.br.int_1dpa <- read_tsv(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc", x, ".txt")) %>%
+    go.br.int_1dpa <- read_tsv(here(paste0("intact-reference/03_go/output/go-breakdown_lfc", x, ".txt"))) %>%
       filter(cluster=="de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt") 
     
     # read in GO enrichment vs 1dpa all comparisons
-    go.br.vs1 <- read_tsv(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/1dpa-reference/03_go/output/go-breakdown_lfc", x, ".txt"))
+    go.br.vs1 <- read_tsv(here(paste0("1dpa-reference/03_go/output/go-breakdown_lfc", x, ".txt")))
     
     go.br<- rbind(go.br.int_1dpa, go.br.vs1)
     
@@ -103,7 +104,7 @@ plot_order <- c(
       theme(axis.text.x = element_text(angle = 45, vjust = 1.1, hjust=1.1)) +
       scale_x_discrete(limits = plot_order)
     
-    ggsave(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/figures/GO_id_fc", x, "-selection-subselection-20230714.pdf"),p2, height=10, width=11.5)
+    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_id_fc", x, "-selection-subselection-20230714.pdf")),p2, height=10, width=11.5)
     
     
     
@@ -117,6 +118,6 @@ plot_order <- c(
       theme(axis.text.x = element_text(angle = 45, vjust = 1.1, hjust=1.1))+
       scale_x_discrete(limits = plot_order)
     
-    ggsave(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/figures/GO_noid_fc", x, "-selection-subselection-20230714.pdf"), p3, height=10, width=10.5)
+    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_noid_fc", x, "-selection-subselection-20230714.pdf")), p3, height=10, width=10.5)
     
 

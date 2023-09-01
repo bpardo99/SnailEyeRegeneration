@@ -20,7 +20,7 @@ library(tidyverse)
 ##Plot number of DE genes across comparisons
 
 lfc<- paste0("lfc", 0:2)
-files <-here(paste0("1dpa-reference/02_dea/tables/number-de-genes-", lfc, "_1dpa-ref.csv.gz"))
+files <-here(paste0("1dpa-reference/02_dea/tables/number-de-genes-", lfc, "_1dpa-ref.txt"))
 
 de.ct <- map(files, function(x){
   read.csv(x, header=TRUE)

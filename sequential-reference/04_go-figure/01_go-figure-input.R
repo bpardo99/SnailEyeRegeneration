@@ -9,6 +9,7 @@ library(tidyr)
 #library(xlsx)
 library(readr)
 library(stringr)
+library(here)
 
 
 ##Divide GO terms by comparison and create input for GO-figure algoritm

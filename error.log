@@ -11,9 +11,7 @@ The following objects are masked from ‘package:base’:
     intersect, setdiff, setequal, union
 
 corrplot 0.92 loaded
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 null device 
           1 
 Using classic mode.
@@ -29,11 +27,8 @@ chr (2): gene_id, description
 Selecting by Mean
 pdf 
   2 
-Warning messages:
-1: Removed 3 rows containing missing values (`geom_point()`). 
-2: Removed 28 rows containing missing values (`geom_text_repel()`). 
 Warning message:
-Removed 3 rows containing missing values (`geom_point()`). 
+Removed 27 rows containing missing values (`geom_text_repel()`). 
 Rows: 2178 Columns: 5
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: ","
@@ -237,9 +232,7 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Rows: 17431 Columns: 5
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: ","
@@ -315,9 +308,7 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Rows: 17431 Columns: 5
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: ","
@@ -393,41 +384,84 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ forcats   0.5.2     ✔ readr     2.1.3
-✔ lubridate 1.9.2     ✔ tibble    3.1.8
+✔ forcats   1.0.0     ✔ readr     2.1.4
+✔ lubridate 1.9.2     ✔ tibble    3.2.1
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter()    masks stats::filter()
 ✖ dplyr::lag()       masks stats::lag()
 ✖ lubridate::stamp() masks cowplot::stamp()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
-Error in read_csv(here("02_processed-data/tpm-mean.csv.gz"), header = TRUE) : 
-  unused argument (header = TRUE)
+Error in `map()`:
+ℹ In index: 1.
+Caused by error in `mutate()`:
+ℹ In argument: `tag = factor(tag, levels = de.ct[[x]]$tag)`.
+Caused by error in `factor()`:
+! object 'tag' not found
+Backtrace:
+     ▆
+  1. ├─purrr::map(...)
+  2. │ └─purrr:::map_("list", .x, .f, ..., .progress = .progress)
+  3. │   ├─purrr:::with_indexed_errors(...)
+  4. │   │ └─base::withCallingHandlers(...)
+  5. │   ├─purrr:::call_with_cleanup(...)
+  6. │   └─global .f(.x[[i]], ...)
+  7. │     └─... %>% ...
+  8. ├─tidyr::pivot_longer(...)
+  9. ├─dplyr::mutate(., tag = factor(tag, levels = de.ct[[x]]$tag))
+ 10. ├─dplyr:::mutate.data.frame(., tag = factor(tag, levels = de.ct[[x]]$tag))
+ 11. │ └─dplyr:::mutate_cols(.data, dplyr_quosures(...), by)
+ 12. │   ├─base::withCallingHandlers(...)
+ 13. │   └─dplyr:::mutate_col(dots[[i]], data, mask, new_columns)
+ 14. │     └─mask$eval_all_mutate(quo)
+ 15. │       └─dplyr (local) eval()
+ 16. ├─base::factor(tag, levels = de.ct[[x]]$tag)
+ 17. └─base::.handleSimpleError(...)
+ 18.   └─dplyr (local) h(simpleError(msg, call))
+ 19.     └─rlang::abort(message, class = error_class, parent = parent, call = error_call)
 Execution halted
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.0.10     ✔ readr     2.1.3 
-✔ forcats   0.5.2      ✔ stringr   1.5.0 
-✔ ggplot2   3.4.0      ✔ tibble    3.1.8 
-✔ lubridate 1.9.2      ✔ tidyr     1.2.1 
-✔ purrr     1.0.1      
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.1     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 
-clusterProfiler v4.6.0  For help: https://yulab-smu.top/biomedical-knowledge-mining-book/
+Registered S3 methods overwritten by 'treeio':
+  method              from    
+  MRCA.phylo          tidytree
+  MRCA.treedata       tidytree
+  Nnode.treedata      tidytree
+  Ntip.treedata       tidytree
+  ancestor.phylo      tidytree
+  ancestor.treedata   tidytree
+  child.phylo         tidytree
+  child.treedata      tidytree
+  full_join.phylo     tidytree
+  full_join.treedata  tidytree
+  groupClade.phylo    tidytree
+  groupClade.treedata tidytree
+  groupOTU.phylo      tidytree
+  groupOTU.treedata   tidytree
+  is.rooted.treedata  tidytree
+  nodeid.phylo        tidytree
+  nodeid.treedata     tidytree
+  nodelab.phylo       tidytree
+  nodelab.treedata    tidytree
+  offspring.phylo     tidytree
+  offspring.treedata  tidytree
+  parent.phylo        tidytree
+  parent.treedata     tidytree
+  root.treedata       tidytree
+  rootnode.phylo      tidytree
+  sibling.phylo       tidytree
+clusterProfiler v4.6.2  For help: https://yulab-smu.top/biomedical-knowledge-mining-book/
 
 If you use clusterProfiler in published research, please cite:
 T Wu, E Hu, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo, and G Yu. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141
@@ -546,9 +580,7 @@ The following object is masked from ‘package:dplyr’:
     select
 
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Rows: 2178 Columns: 1
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -800,36 +832,28 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ forcats   0.5.2     ✔ readr     2.1.3
-✔ ggplot2   3.4.0     ✔ tibble    3.1.8
-✔ lubridate 1.9.2     ✔ tidyr     1.2.1
+✔ forcats   1.0.0     ✔ readr     2.1.4
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 Error in read_tsv(here("1dpa-reference/03_go/output/go-breakdown_lfc0.txt.gz"),  : 
   unused arguments (header = TRUE, comment.char = "")
 Execution halted
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.0.10     ✔ readr     2.1.3 
-✔ forcats   0.5.2      ✔ stringr   1.5.0 
-✔ ggplot2   3.4.0      ✔ tibble    3.1.8 
-✔ lubridate 1.9.2      ✔ tidyr     1.2.1 
-✔ purrr     1.0.1      
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.1     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 
 Attaching package: ‘cowplot’
 
@@ -837,9 +861,7 @@ The following object is masked from ‘package:lubridate’:
 
     stamp
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Rows: 72 Columns: 2
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -856,8 +878,8 @@ dbl (4): pvalue, p.adjust, qvalue, Count
 
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-Joining, by = "go_id"
-Joining, by = "go_id"
+Joining with `by = join_by(go_id)`
+Joining with `by = join_by(go_id)`
 Rows: 4683 Columns: 11
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -866,8 +888,8 @@ dbl (4): pvalue, p.adjust, qvalue, Count
 
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-Joining, by = "go_id"
-Joining, by = "go_id"
+Joining with `by = join_by(go_id)`
+Joining with `by = join_by(go_id)`
 Rows: 2900 Columns: 11
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -876,16 +898,16 @@ dbl (4): pvalue, p.adjust, qvalue, Count
 
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-Joining, by = "go_id"
-Joining, by = "go_id"
+Joining with `by = join_by(go_id)`
+Joining with `by = join_by(go_id)`
 [[1]]
-[1] "/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/1dpa-reference/03_go/figures/select_GO_noid_lfc0-1dpa-ref.pdf"
+[1] "/n/projects/ejr/aai/repos/SnailEyeRegeneration/1dpa-reference/03_go/figures/select_GO_noid_lfc0-1dpa-ref.pdf"
 
 [[2]]
-[1] "/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/1dpa-reference/03_go/figures/select_GO_noid_lfc1-1dpa-ref.pdf"
+[1] "/n/projects/ejr/aai/repos/SnailEyeRegeneration/1dpa-reference/03_go/figures/select_GO_noid_lfc1-1dpa-ref.pdf"
 
 [[3]]
-[1] "/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/1dpa-reference/03_go/figures/select_GO_noid_lfc2-1dpa-ref.pdf"
+[1] "/n/projects/ejr/aai/repos/SnailEyeRegeneration/1dpa-reference/03_go/figures/select_GO_noid_lfc2-1dpa-ref.pdf"
 
 
 Attaching package: ‘dplyr’
@@ -898,34 +920,27 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ forcats   0.5.2     ✔ readr     2.1.3
-✔ ggplot2   3.4.0     ✔ tibble    3.1.8
+✔ forcats   1.0.0     ✔ readr     2.1.4
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
 ✔ lubridate 1.9.2     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 Error in read_tsv(here("1dpa-reference/03_go/output/go-breakdown_lfc0.txt.gz"),  : 
   unused arguments (header = TRUE, comment.char = "")
 Execution halted
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
-sh: 1: python: not found
-sh: 1: python: not found
-sh: 1: python: not found
-sh: 1: python: not found
-sh: 1: python: not found
-sh: 1: python: not found
-sh: 1: python: not found
-sh: 1: python: not found
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
+sh: python: command not found
+sh: python: command not found
+sh: python: command not found
+sh: python: command not found
+sh: python: command not found
+sh: python: command not found
+sh: python: command not found
+sh: python: command not found
 Warning messages:
 1: In system(cmd) : error in running command
 2: In system(cmd) : error in running command
@@ -948,9 +963,7 @@ The following objects are masked from ‘package:base’:
     intersect, setdiff, setequal, union
 
 corrplot 0.92 loaded
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 null device 
           1 
 Using classic mode.
@@ -959,11 +972,8 @@ null device
 Selecting by Mean
 pdf 
   2 
-Warning messages:
-1: Removed 3 rows containing missing values (`geom_point()`). 
-2: Removed 28 rows containing missing values (`geom_text_repel()`). 
 Warning message:
-Removed 3 rows containing missing values (`geom_point()`). 
+Removed 27 rows containing missing values (`geom_text_repel()`). 
 
 Attaching package: ‘dplyr’
 
@@ -975,9 +985,7 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 
 Attaching package: ‘dplyr’
 
@@ -989,9 +997,7 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 
 Attaching package: ‘dplyr’
 
@@ -1003,35 +1009,13 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
-[[1]]
-
-[[2]]
-
-[[3]]
-
-null device 
-          1 
-$`1`
-
-$`2`
-
-$`1`
-
-$`2`
-
-$`1`
-
-$`2`
-
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Error in `map()`:
 ℹ In index: 1.
-Caused by error in `map()`:
-ℹ In index: 1.
-Caused by error in `file()`:
-! cannot open the connection
+Caused by error in `mutate()`:
+ℹ In argument: `tag = factor(tag, levels = de.ct[[x]]$tag)`.
+Caused by error in `factor()`:
+! object 'tag' not found
 Backtrace:
      ▆
   1. ├─purrr::map(...)
@@ -1040,26 +1024,21 @@ Backtrace:
   4. │   │ └─base::withCallingHandlers(...)
   5. │   ├─purrr:::call_with_cleanup(...)
   6. │   └─global .f(.x[[i]], ...)
-  7. │     └─purrr::map(...)
-  8. │       └─purrr:::map_("list", .x, .f, ..., .progress = .progress)
-  9. │         ├─purrr:::with_indexed_errors(...)
- 10. │         │ └─base::withCallingHandlers(...)
- 11. │         ├─purrr:::call_with_cleanup(...)
- 12. │         └─.f(.x[[i]], ...)
- 13. │           └─utils::read.csv(f)
- 14. │             └─utils::read.table(...)
- 15. │               └─base::file(file, "rt")
- 16. └─base::.handleSimpleError(...)
- 17.   └─purrr (local) h(simpleError(msg, call))
- 18.     └─cli::cli_abort(...)
- 19.       └─rlang::abort(...)
-Warning message:
-In file(file, "rt") :
-  cannot open file '/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/02_dea/tables/de-up_s_1dpa-s_intact-intact-ref_lfc0.csv': No such file or directory
+  7. │     └─... %>% ...
+  8. ├─tidyr::pivot_longer(...)
+  9. ├─dplyr::mutate(., tag = factor(tag, levels = de.ct[[x]]$tag))
+ 10. ├─dplyr:::mutate.data.frame(., tag = factor(tag, levels = de.ct[[x]]$tag))
+ 11. │ └─dplyr:::mutate_cols(.data, dplyr_quosures(...), by)
+ 12. │   ├─base::withCallingHandlers(...)
+ 13. │   └─dplyr:::mutate_col(dots[[i]], data, mask, new_columns)
+ 14. │     └─mask$eval_all_mutate(quo)
+ 15. │       └─dplyr (local) eval()
+ 16. ├─base::factor(tag, levels = de.ct[[x]]$tag)
+ 17. └─base::.handleSimpleError(...)
+ 18.   └─dplyr (local) h(simpleError(msg, call))
+ 19.     └─rlang::abort(message, class = error_class, parent = parent, call = error_call)
 Execution halted
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Error in `map()`:
 ℹ In index: 1.
 Caused by error in `file()`:
@@ -1081,23 +1060,48 @@ Backtrace:
  13.       └─rlang::abort(...)
 Warning message:
 In file(file, "rt") :
-  cannot open file '/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/02_dea/tables/de-up_s_1dpa-s_intact-intact-ref_lfc0.csv': No such file or directory
+  cannot open file '/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/02_dea/tables/de-up_s_1dpa-s_intact-intact-ref_lfc0.csv': No such file or directory
 Execution halted
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.0.10     ✔ readr     2.1.3 
-✔ forcats   0.5.2      ✔ stringr   1.5.0 
-✔ ggplot2   3.4.0      ✔ tibble    3.1.8 
-✔ lubridate 1.9.2      ✔ tidyr     1.2.1 
-✔ purrr     1.0.1      
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.1     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 
-clusterProfiler v4.6.0  For help: https://yulab-smu.top/biomedical-knowledge-mining-book/
+Registered S3 methods overwritten by 'treeio':
+  method              from    
+  MRCA.phylo          tidytree
+  MRCA.treedata       tidytree
+  Nnode.treedata      tidytree
+  Ntip.treedata       tidytree
+  ancestor.phylo      tidytree
+  ancestor.treedata   tidytree
+  child.phylo         tidytree
+  child.treedata      tidytree
+  full_join.phylo     tidytree
+  full_join.treedata  tidytree
+  groupClade.phylo    tidytree
+  groupClade.treedata tidytree
+  groupOTU.phylo      tidytree
+  groupOTU.treedata   tidytree
+  is.rooted.treedata  tidytree
+  nodeid.phylo        tidytree
+  nodeid.treedata     tidytree
+  nodelab.phylo       tidytree
+  nodelab.treedata    tidytree
+  offspring.phylo     tidytree
+  offspring.treedata  tidytree
+  parent.phylo        tidytree
+  parent.treedata     tidytree
+  root.treedata       tidytree
+  rootnode.phylo      tidytree
+  sibling.phylo       tidytree
+clusterProfiler v4.6.2  For help: https://yulab-smu.top/biomedical-knowledge-mining-book/
 
 If you use clusterProfiler in published research, please cite:
 T Wu, E Hu, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo, and G Yu. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141
@@ -1216,15 +1220,13 @@ The following object is masked from ‘package:dplyr’:
     select
 
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Error in `map()`:
 ℹ In index: 1.
 Caused by error in `map()`:
 ℹ In index: 1.
 Caused by error:
-! 'de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt' does not exist in current working directory ('/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/input').
+! 'de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt' does not exist in current working directory ('/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/03_go/input').
 Backtrace:
      ▆
   1. ├─purrr::map(...)
@@ -1261,28 +1263,23 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Error in file(file, "rt") : cannot open the connection
 Calls: read.table -> file
 In addition: Warning message:
 In file(file, "rt") :
-  cannot open file '/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz': No such file or directory
+  cannot open file '/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz': No such file or directory
 Execution halted
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.0.10     ✔ readr     2.1.3 
-✔ forcats   0.5.2      ✔ stringr   1.5.0 
-✔ ggplot2   3.4.0      ✔ tibble    3.1.8 
-✔ lubridate 1.9.2      ✔ tidyr     1.2.1 
-✔ purrr     1.0.1      
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.1     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 
 Attaching package: ‘cowplot’
 
@@ -1290,9 +1287,7 @@ The following object is masked from ‘package:lubridate’:
 
     stamp
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Rows: 72 Columns: 2
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -1304,7 +1299,7 @@ dbl (1): order
 Error in `map()`:
 ℹ In index: 1.
 Caused by error:
-! '/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz' does not exist.
+! '/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz' does not exist.
 Backtrace:
      ▆
   1. ├─purrr::map(...)
@@ -1326,7 +1321,7 @@ Backtrace:
  17. ├─dplyr::rename(., go_id = ID)
  18. ├─dplyr::filter(., str_detect(file, "de-up"))
  19. ├─dplyr::mutate(., file = cluster)
- 20. ├─vroom (local) `<fn>`("/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz")
+ 20. ├─vroom (local) `<fn>`("/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz")
  21. │ └─vroom:::check_path(path)
  22. │   └─base::stop(...)
  23. └─base::.handleSimpleError(...)
@@ -1345,18 +1340,14 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Error in file(file, "rt") : cannot open the connection
 Calls: read.table -> file
 In addition: Warning message:
 In file(file, "rt") :
-  cannot open file '/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz': No such file or directory
+  cannot open file '/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz': No such file or directory
 Execution halted
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Loading required package: limma
 
 Attaching package: ‘dplyr’
@@ -1370,9 +1361,7 @@ The following objects are masked from ‘package:base’:
     intersect, setdiff, setequal, union
 
 corrplot 0.92 loaded
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 null device 
           1 
 Using classic mode.
@@ -1381,11 +1370,8 @@ null device
 Selecting by Mean
 null device 
           1 
-Warning messages:
-1: Removed 3 rows containing missing values (`geom_point()`). 
-2: Removed 28 rows containing missing values (`geom_text_repel()`). 
 Warning message:
-Removed 3 rows containing missing values (`geom_point()`). 
+Removed 27 rows containing missing values (`geom_text_repel()`). 
 
 Attaching package: ‘dplyr’
 
@@ -1397,9 +1383,7 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 
 Attaching package: ‘dplyr’
 
@@ -1411,9 +1395,7 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 
 Attaching package: ‘dplyr’
 
@@ -1425,41 +1407,13 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
-[[1]]
-
-[[2]]
-
-[[3]]
-
-null device 
-          1 
-$`1`
-
-$`2`
-
-$`3`
-
-$`1`
-
-$`2`
-
-$`3`
-
-$`1`
-
-$`2`
-
-$`3`
-
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Error in `map()`:
 ℹ In index: 1.
-Caused by error in `map()`:
-ℹ In index: 1.
-Caused by error in `file()`:
-! cannot open the connection
+Caused by error in `mutate()`:
+ℹ In argument: `tag = factor(tag, levels = de.ct[[x]]$tag)`.
+Caused by error in `factor()`:
+! object 'tag' not found
 Backtrace:
      ▆
   1. ├─purrr::map(...)
@@ -1468,41 +1422,61 @@ Backtrace:
   4. │   │ └─base::withCallingHandlers(...)
   5. │   ├─purrr:::call_with_cleanup(...)
   6. │   └─global .f(.x[[i]], ...)
-  7. │     └─purrr::map(...)
-  8. │       └─purrr:::map_("list", .x, .f, ..., .progress = .progress)
-  9. │         ├─purrr:::with_indexed_errors(...)
- 10. │         │ └─base::withCallingHandlers(...)
- 11. │         ├─purrr:::call_with_cleanup(...)
- 12. │         └─.f(.x[[i]], ...)
- 13. │           └─utils::read.csv(f)
- 14. │             └─utils::read.table(...)
- 15. │               └─base::file(file, "rt")
- 16. └─base::.handleSimpleError(...)
- 17.   └─purrr (local) h(simpleError(msg, call))
- 18.     └─cli::cli_abort(...)
- 19.       └─rlang::abort(...)
-Warning message:
-In file(file, "rt") :
-  cannot open file '/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/sequential-reference/02_dea/tables/de-up_s_3dpa-s_1dpa-seq-ref_lfc0.csv': No such file or directory
+  7. │     └─... %>% ...
+  8. ├─tidyr::pivot_longer(...)
+  9. ├─dplyr::mutate(., tag = factor(tag, levels = de.ct[[x]]$tag))
+ 10. ├─dplyr:::mutate.data.frame(., tag = factor(tag, levels = de.ct[[x]]$tag))
+ 11. │ └─dplyr:::mutate_cols(.data, dplyr_quosures(...), by)
+ 12. │   ├─base::withCallingHandlers(...)
+ 13. │   └─dplyr:::mutate_col(dots[[i]], data, mask, new_columns)
+ 14. │     └─mask$eval_all_mutate(quo)
+ 15. │       └─dplyr (local) eval()
+ 16. ├─base::factor(tag, levels = de.ct[[x]]$tag)
+ 17. └─base::.handleSimpleError(...)
+ 18.   └─dplyr (local) h(simpleError(msg, call))
+ 19.     └─rlang::abort(message, class = error_class, parent = parent, call = error_call)
 Execution halted
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.0.10     ✔ readr     2.1.3 
-✔ forcats   0.5.2      ✔ stringr   1.5.0 
-✔ ggplot2   3.4.0      ✔ tibble    3.1.8 
-✔ lubridate 1.9.2      ✔ tidyr     1.2.1 
-✔ purrr     1.0.1      
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.1     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 
-clusterProfiler v4.6.0  For help: https://yulab-smu.top/biomedical-knowledge-mining-book/
+Registered S3 methods overwritten by 'treeio':
+  method              from    
+  MRCA.phylo          tidytree
+  MRCA.treedata       tidytree
+  Nnode.treedata      tidytree
+  Ntip.treedata       tidytree
+  ancestor.phylo      tidytree
+  ancestor.treedata   tidytree
+  child.phylo         tidytree
+  child.treedata      tidytree
+  full_join.phylo     tidytree
+  full_join.treedata  tidytree
+  groupClade.phylo    tidytree
+  groupClade.treedata tidytree
+  groupOTU.phylo      tidytree
+  groupOTU.treedata   tidytree
+  is.rooted.treedata  tidytree
+  nodeid.phylo        tidytree
+  nodeid.treedata     tidytree
+  nodelab.phylo       tidytree
+  nodelab.treedata    tidytree
+  offspring.phylo     tidytree
+  offspring.treedata  tidytree
+  parent.phylo        tidytree
+  parent.treedata     tidytree
+  root.treedata       tidytree
+  rootnode.phylo      tidytree
+  sibling.phylo       tidytree
+clusterProfiler v4.6.2  For help: https://yulab-smu.top/biomedical-knowledge-mining-book/
 
 If you use clusterProfiler in published research, please cite:
 T Wu, E Hu, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo, and G Yu. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141
@@ -1621,9 +1595,7 @@ The following object is masked from ‘package:dplyr’:
     select
 
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Rows: 2178 Columns: 1
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -1772,15 +1744,15 @@ chr (1): gene_id
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
 --> No gene can be mapped....
---> Expected input gene ID: LOC112557649,LOC112572482,LOC112556926,LOC112572542,LOC112577054,LOC112573474
+--> Expected input gene ID: LOC112564981,LOC112569961,LOC112554653,LOC112567001,LOC112559750,LOC112557649
 --> return NULL...
 [1] "de-up-go_s_28dpa-s_21dpa-seq-ref_lfc1.txt.gz_MF"
 --> No gene can be mapped....
---> Expected input gene ID: LOC112569735,LOC112556468,LOC112577079,LOC112576549,LOC112565784,LOC112576370
+--> Expected input gene ID: LOC112554227,LOC112576156,LOC112553612,LOC112574018,LOC112570196,LOC112555637
 --> return NULL...
 [1] "de-up-go_s_28dpa-s_21dpa-seq-ref_lfc1.txt.gz_CC"
 --> No gene can be mapped....
---> Expected input gene ID: LOC112564658,LOC112563833,LOC112564940,LOC112561185,LOC112561340,LOC112553997
+--> Expected input gene ID: LOC112577242,LOC112568965,LOC112576515,LOC112570937,LOC112555711,LOC112560095
 --> return NULL...
 [1] "de-up-go_s_28dpa-s_21dpa-seq-ref_lfc1.txt.gz_BP"
 Rows: 382 Columns: 1
@@ -1861,15 +1833,15 @@ chr (1): gene_id
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
 --> No gene can be mapped....
---> Expected input gene ID: LOC112562451,LOC112565680,LOC112577054,LOC112554653,LOC112573070,LOC112555681
+--> Expected input gene ID: LOC112554653,LOC112568206,LOC112561857,LOC112555250,LOC112565680,LOC112555681
 --> return NULL...
 [1] "de-up-go_s_28dpa-s_21dpa-seq-ref_lfc2.txt.gz_MF"
 --> No gene can be mapped....
---> Expected input gene ID: LOC112558293,LOC112574336,LOC112558817,LOC112555874,LOC112570364,LOC112573826
+--> Expected input gene ID: LOC112557342,LOC112557045,LOC112573116,LOC112571800,LOC112571842,LOC112556013
 --> return NULL...
 [1] "de-up-go_s_28dpa-s_21dpa-seq-ref_lfc2.txt.gz_CC"
 --> No gene can be mapped....
---> Expected input gene ID: LOC112562918,LOC112573354,LOC112570852,LOC112554780,LOC112572638,LOC112570874
+--> Expected input gene ID: LOC112560185,LOC112554203,LOC112560020,LOC112563991,LOC112560989,LOC112562424
 --> return NULL...
 [1] "de-up-go_s_28dpa-s_21dpa-seq-ref_lfc2.txt.gz_BP"
 Rows: 101 Columns: 1
@@ -1893,22 +1865,17 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
-✔ dplyr     1.0.10     ✔ readr     2.1.3 
-✔ forcats   0.5.2      ✔ stringr   1.5.0 
-✔ ggplot2   3.4.0      ✔ tibble    3.1.8 
-✔ lubridate 1.9.2      ✔ tidyr     1.2.1 
-✔ purrr     1.0.1      
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.1     
 ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ✖ dplyr::filter() masks stats::filter()
 ✖ dplyr::lag()    masks stats::lag()
 ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-Warning messages:
-1: package ‘tidyverse’ was built under R version 4.2.3 
-2: package ‘lubridate’ was built under R version 4.2.3 
 
 Attaching package: ‘cowplot’
 
@@ -1916,9 +1883,7 @@ The following object is masked from ‘package:lubridate’:
 
     stamp
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Rows: 72 Columns: 2
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -1935,8 +1900,8 @@ dbl (4): pvalue, p.adjust, qvalue, Count
 
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-Joining, by = "go_id"
-Joining, by = "go_id"
+Joining with `by = join_by(go_id)`
+Joining with `by = join_by(go_id)`
 Rows: 639 Columns: 11
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -1945,8 +1910,8 @@ dbl (4): pvalue, p.adjust, qvalue, Count
 
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-Joining, by = "go_id"
-Joining, by = "go_id"
+Joining with `by = join_by(go_id)`
+Joining with `by = join_by(go_id)`
 Rows: 200 Columns: 11
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: "\t"
@@ -1955,16 +1920,16 @@ dbl (4): pvalue, p.adjust, qvalue, Count
 
 ℹ Use `spec()` to retrieve the full column specification for this data.
 ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
-Joining, by = "go_id"
-Joining, by = "go_id"
+Joining with `by = join_by(go_id)`
+Joining with `by = join_by(go_id)`
 [[1]]
-[1] "/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/sequential-reference/03_go/figures/select_GO_noid_lfc0-seq-ref.pdf"
+[1] "/n/projects/ejr/aai/repos/SnailEyeRegeneration/sequential-reference/03_go/figures/select_GO_noid_lfc0-seq-ref.pdf"
 
 [[2]]
-[1] "/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/sequential-reference/03_go/figures/select_GO_noid_lfc1-seq-ref.pdf"
+[1] "/n/projects/ejr/aai/repos/SnailEyeRegeneration/sequential-reference/03_go/figures/select_GO_noid_lfc1-seq-ref.pdf"
 
 [[3]]
-[1] "/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/sequential-reference/03_go/figures/select_GO_noid_lfc2-seq-ref.pdf"
+[1] "/n/projects/ejr/aai/repos/SnailEyeRegeneration/sequential-reference/03_go/figures/select_GO_noid_lfc2-seq-ref.pdf"
 
 
 Attaching package: ‘dplyr’
@@ -1977,13 +1942,30 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-Error in here("sequential-reference/03_go/output/go-breakdown_lfc0.txt.gz") : 
-  could not find function "here"
-Calls: read.table
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
+Error in `map()`:
+ℹ In index: 1.
+Caused by error in `file()`:
+! cannot open the connection
+Backtrace:
+     ▆
+  1. ├─purrr::map(...)
+  2. │ └─purrr:::map_("list", .x, .f, ..., .progress = .progress)
+  3. │   ├─purrr:::with_indexed_errors(...)
+  4. │   │ └─base::withCallingHandlers(...)
+  5. │   ├─purrr:::call_with_cleanup(...)
+  6. │   └─global .f(.x[[i]], ...)
+  7. │     └─utils::write.table(...)
+  8. │       └─base::file(file, ifelse(append, "a", "w"))
+  9. └─base::.handleSimpleError(...)
+ 10.   └─purrr (local) h(simpleError(msg, call))
+ 11.     └─cli::cli_abort(...)
+ 12.       └─rlang::abort(...)
+Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  cannot open file '/n/projects/ejr/aai/repos/SnailEyeRegeneration/sequential-reference/04_go-figure/input/go-breakdown_de-up-go_s_3dpa-s_1dpa-seq-ref_lfc0.txt.gz': No such file or directory
 Execution halted
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 
 Attaching package: ‘dplyr’
 
@@ -1995,15 +1977,13 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
 Error in `pmap()`:
 ℹ In index: 1.
 Caused by error in `purrr::map()`:
 ℹ In index: 1.
 Caused by error:
-! '/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz' does not exist.
+! '/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/03_go/output/go-breakdown_lfc0.txt' does not exist.
 Backtrace:
      ▆
   1. ├─purrr::pmap(...)
@@ -2022,8 +2002,8 @@ Backtrace:
  14. │           └─readr::read_tsv(...)
  15. │             └─vroom::vroom(...)
  16. │               └─vroom:::vroom_(...)
- 17. ├─dplyr::filter(., cluster == "de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt.gz")
- 18. ├─vroom (local) `<fn>`("/n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline/intact-reference/03_go/output/go-breakdown_lfc0.txt.gz")
+ 17. ├─dplyr::filter(., cluster == "de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt")
+ 18. ├─vroom (local) `<fn>`("/n/projects/ejr/aai/repos/SnailEyeRegeneration/intact-reference/03_go/output/go-breakdown_lfc0.txt")
  19. │ └─vroom:::check_path(path)
  20. │   └─base::stop(...)
  21. └─base::.handleSimpleError(...)
@@ -2042,63 +2022,34 @@ The following objects are masked from ‘package:base’:
 
     intersect, setdiff, setequal, union
 
-here() starts at /n/projects/ejr/aai/repos/SnailEyeReg_RNASeq-pipeline
-Warning message:
-package ‘here’ was built under R version 4.2.3 
-[1] "dimension is 0-action potential"
-[1] "we have a plot-central nervous system neuron differentiation"
-[1] "we have a plot-cilium assembly"
-[1] "dimension is 0-cilium movement"
-[1] "dimension is 0-cilium-dependent cell motility"
-[1] "we have a plot-detection of visible light"
-[1] "we have a plot-DNA replication"
-[1] "we have a plot-forebrain development"
-[1] "dimension is 0-intracellular protein transmembrane transport"
-[1] "we have a plot-neuron fate commitment"
-[1] "dimension is < 2-neuropeptide signaling pathway"
-[1] "dimension is < 2-neurotransmitter transport"
-[1] "we have a plot-nuclear chromosome segregation"
-[1] "dimension is 0-protein folding"
-[1] "we have a plot-regulation of axon guidance"
-[1] "we have a plot-regulation of G2/M transition of mitotic cell cycle"
-[1] "we have a plot-regulation of membrane potential"
-[1] "we have a plot-regulation of Notch signaling pathway"
-[1] "dimension is 0-regulation of rhodopsin mediated signaling pathway"
-[1] "dimension is 0-ribonucleoprotein complex assembly"
-[1] "dimension is < 2-rRNA processing"
-[1] "dimension is < 2-sensory organ boundary specification"
-[1] "dimension is < 2-sensory organ precursor cell fate determination"
-[1] "we have a plot-synaptic vesicle cycle"
-[1] "dimension is 0-synaptic vesicle localization"
-[1] "dimension is 0-calcitonin family receptor activity"
-[1] "dimension is < 2-gated channel activity"
-[1] "dimension is 0-hormone activity"
-[1] "dimension is 0-ionotropic glutamate receptor activity"
-[1] "we have a plot-microtubule motor activity"
-[1] "dimension is 0-minus-end-directed microtubule motor activity"
-[1] "dimension is 0-monoatomic cation channel activity"
-[1] "dimension is 0-neuropeptide receptor activity"
-[1] "dimension is 0-neurotransmitter binding"
-[1] "dimension is 0-Notch binding"
-[1] "we have a plot-photoreceptor activity"
-[1] "dimension is 0-potassium channel activity"
-[1] "dimension is 0-protein folding chaperone"
-[1] "dimension is 0-ribonucleoprotein complex binding"
-[1] "dimension is 0-translation initiation factor activity"
-[1] "dimension is < 2-unfolded protein binding"
-[1] "dimension is 0-calcitonin family receptor activity"
-[1] "dimension is < 2-gated channel activity"
-[1] "dimension is 0-hormone activity"
-[1] "dimension is 0-ionotropic glutamate receptor activity"
-[1] "we have a plot-microtubule motor activity"
-[1] "dimension is 0-minus-end-directed microtubule motor activity"
-[1] "dimension is 0-monoatomic cation channel activity"
-[1] "dimension is 0-neuropeptide receptor activity"
-[1] "dimension is 0-neurotransmitter binding"
-[1] "dimension is 0-Notch binding"
-[1] "we have a plot-photoreceptor activity"
-[1] "dimension is 0-potassium channel activity"
-[1] "dimension is 0-protein folding chaperone"
-[1] "dimension is 0-ribonucleoprotein complex binding"
-[1] "dimension is 0-translation initiation factor activity"
-[1] "dimension is < 2-unfolded protein binding"
+
+Attaching package: ‘cowplot’
+
+The following object is masked from ‘package:ggpubr’:
+
+    get_legend
+
+here() starts at /n/projects/ejr/aai/repos/SnailEyeRegeneration
+Error in `map()`:
+ℹ In index: 1.
+Caused by error:
+! '/n/projects/ejr/aai/repos/SnailEyeRegeneration/1dpa-reference/03_go/output/go-breakdown_lfc0.txt' does not exist.
+Backtrace:
+     ▆
+  1. ├─purrr::map(...)
+  2. │ └─purrr:::map_("list", .x, .f, ..., .progress = .progress)
+  3. │   ├─purrr:::with_indexed_errors(...)
+  4. │   │ └─base::withCallingHandlers(...)
+  5. │   ├─purrr:::call_with_cleanup(...)
+  6. │   └─global .f(.x[[i]], ...)
+  7. │     └─readr::read_tsv(here(paste0(x, "-reference/03_go/output/go-breakdown_lfc0.txt")))
+  8. │       └─vroom::vroom(...)
+  9. │         └─vroom:::vroom_(...)
+ 10. ├─vroom (local) `<fn>`("/n/projects/ejr/aai/repos/SnailEyeRegeneration/1dpa-reference/03_go/output/go-breakdown_lfc0.txt")
+ 11. │ └─vroom:::check_path(path)
+ 12. │   └─base::stop(...)
+ 13. └─base::.handleSimpleError(...)
+ 14.   └─purrr (local) h(simpleError(msg, call))
+ 15.     └─cli::cli_abort(...)
+ 16.       └─rlang::abort(...)
+Execution halted
