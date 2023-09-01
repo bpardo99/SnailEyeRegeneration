@@ -41,6 +41,7 @@
 source /home/ejr/anaconda3/etc/profile.d/conda.sh
 conda activate snail-pipeline
 GOFIGURE="/n/projects/ejr/aai/brenda_pipeline/GO-Figure/gofigure.py"
+PYTHON="/home/ejr/anaconda3/envs/snail-pipeline/bin/python"
 ###############################################
 
 ###############################################
@@ -48,15 +49,18 @@ GOFIGURE="/n/projects/ejr/aai/brenda_pipeline/GO-Figure/gofigure.py"
 ###############################################
 if [ ! -e 1dp1-reference.finished ]
 then
+echo "Start 1dp1-reference"
 DIR=1dpa-reference
 
 #Run Differential Expression Analysis
+echo "Run Differential Expression Analysis"
 Rscript ${DIR}/02_dea/01_dea-1dpa-ref.R
 Rscript ${DIR}/02_dea/02_create-logFC-table.R
 Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
 Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
+echo "Run GO enrichment Analysis"
 mkdir -p ${DIR}/03_go/input
 mkdir -p ${DIR}/03_go/output
 Rscript ${DIR}/03_go/01_go-input.R
@@ -65,8 +69,9 @@ Rscript ${DIR}/03_go/03_go-degenes-search.R
 Rscript ${DIR}/03_go/04_go-plot.R
 
 #GO-figure
+echo "Run GO-figure"
 Rscript ${DIR}/04_go-figure/01_go-figure-input.R
-Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE}
+Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
 touch 1dp1-reference.finished
 fi
 
@@ -76,14 +81,17 @@ fi
 if [ ! -e intact-reference.finished ]
 then
 DIR=intact-reference
+echo "Start intact-reference"
 
 #Run Differential Expression Analysis
+echo "Run Differential Expression Analysis"
 Rscript ${DIR}/02_dea/01_dea-intact-ref.R
 Rscript ${DIR}/02_dea/02_create-logFC-table.R
 Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
 Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
+echo "Run GO enrichment Analysis"
 mkdir -p ${DIR}/03_go/input
 mkdir -p ${DIR}/03_go/output
 Rscript ${DIR}/03_go/01_go-input.R
@@ -92,8 +100,9 @@ Rscript ${DIR}/03_go/03_go-degenes-search.R
 Rscript ${DIR}/03_go/04_go-plot.R
 
 #GO-figure
+echo "Run GO-figure"
 Rscript ${DIR}/04_go-figure/01_go-figure-input.R
-Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE}
+Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
 touch intact-reference.finished
 fi
 ###############################################
@@ -102,14 +111,17 @@ fi
 if [ ! -e sequential-reference.finished ]
 then
 DIR=sequential-reference
+echo "Start sequential-reference"
 
 #Run Differential Expression Analysis
+echo "Run Differential Expression Analysis"
 Rscript ${DIR}/02_dea/01_dea-seq-ref.R
 Rscript ${DIR}/02_dea/02_create-logFC-table.R
 Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
 Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
+echo "Run GO enrichment Analysis"
 mkdir -p ${DIR}/03_go/input
 mkdir -p ${DIR}/03_go/output
 Rscript ${DIR}/03_go/01_go-input.R
@@ -118,8 +130,9 @@ Rscript ${DIR}/03_go/03_go-degenes-search.R
 Rscript ${DIR}/03_go/04_go-plot.R
 
 #GO-figure
+echo "Run GO-figure"
 Rscript ${DIR}/04_go-figure/01_go-figure-input.R
-Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE}
+Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
 touch sequential-reference.finished
 fi
 ###############################################
@@ -128,6 +141,7 @@ fi
 if [ ! -e mixed.finished ]
 then
 DIR=mixed-analysis
+echo "Start mixed-analysis"
 #Make go plots
 Rscript ${DIR}/02_go/01_go-plot-mixed-analysis.R
 Rscript ${DIR}/02_go/02_go-genes-plot-mixed-analysis.R

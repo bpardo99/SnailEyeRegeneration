@@ -1,0 +1,36 @@
+GO-Figure! version: 1.0.1
+
+Date run: 2023-09-01
+
+Command line input: ['/n/projects/ejr/aai/brenda_pipeline/GO-Figure/gofigure.py', '-i', '/n/projects/ejr/aai/repos/SnailEyeRegeneration/1dpa-reference/04_go-figure/input/input_file_12dpa-1dpa.tsv', '-v', '0.05', '-a', '20', '-m', '20', '-si', '0.4', '-e', '60', '-q', 'pdf', '-o', '/n/projects/ejr/aai/repos/SnailEyeRegeneration/1dpa-reference/04_go-figure/output/12dpa-1dpa']
+
+go.obo version used: releases/2023-04-01
+
+go.obo version used to create GO relations: releases/2023-04-01
+
+
+Calculating biological process
+
+The following GO terms are converted or deleted because either they are an alt_id and not a primary id in the go.obo, because they are obsolete in the go.obo, or because they can't be found in the go.obo: 
+
+Original GO	New GO(s)	Reason
+	GO:0035637	removed
+	GO:0099240	removed
+	GO:0099699	removed
+	GO:0098936	removed
+	GO:0099055	removed
+	GO:0098948	removed
+	GO:0099060	removed
+	GO:0099146	removed
+	GO:0099061	removed
+	GO:0098889	removed
+	GO:0055083	removed
+	GO:0110151	removed
+	GO:0099056	removed
+	GO:0033483	removed
+
+Calculating molecular function
+
+
+Calculating cellular component
+

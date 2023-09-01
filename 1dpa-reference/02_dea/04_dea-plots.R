@@ -23,7 +23,7 @@ lfc<- paste0("lfc", 0:2)
 files <-here(paste0("1dpa-reference/02_dea/tables/number-de-genes-", lfc, "_1dpa-ref.txt"))
 
 de.ct <- map(files, function(x){
-  read.csv(x, header=TRUE)
+  read_tsv(x)
 })
 names(de.ct) <- lfc
 
@@ -103,9 +103,9 @@ p.count <- map(lfc, function(x){
 ##Pax Piwi Rho expression, lineplot
 
 #Expression tables
-tpm<- read_csv(here("02_processed-data/tpm-mean.csv.gz"), header = TRUE)
-tpm.l1p<- read_csv(here("02_processed-data/tpm-mean-log1p.csv.gz"), header = TRUE)
-tpm.z<- read_csv(here("02_processed-data/tpm-zscores.csv.gz"), header = TRUE)
+tpm<- read_csv(here("02_processed-data/tpm-mean.csv.gz"))
+tpm.l1p<- read_csv(here("02_processed-data/tpm-mean-log1p.csv.gz"))
+tpm.z<- read_csv(here("02_processed-data/tpm-zscores.csv.gz"))
 exp.tab<- list(tpm, tpm.l1p, tpm.z)
 exp.nam<- c("tpm", "log1p-tpm", "zscore")
 
@@ -197,7 +197,7 @@ exp.tab<- list(lfc.1dpa, tpm.l1p, tpm.z)
 exp.nam<- c("logFC", "log1p-tpm", "zscore")
 
 #Reaf references
-ref<- read_tsv(here("01_raw-data/gene-ref.txt.gz"), sep="\t", quote = "", header= TRUE)
+ref<- read_tsv(here("01_raw-data/gene-ref.txt.gz"))
 
 ref$id.desc= paste0(ref$gene_id,"_", ref$description)
 ref <- ref %>%
