@@ -51,7 +51,7 @@ write_csv(tpm.f, here("02_processed-data/tpm-mean.csv.gz"))
 
 ##Z-score(tpm) table
 
-z.tpm<- tpm.f
+z.tpm<- as.data.frame(tpm.f)
 rownames(z.tpm)= z.tpm$gene_id
 z.tpm$gene_id <- NULL
 

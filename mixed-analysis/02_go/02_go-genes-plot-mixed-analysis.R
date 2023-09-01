@@ -38,7 +38,7 @@ tit.cat<- list(bp.tit, mf.tit, cc.tit)
 references<- c("1dpa", "sequential")
 breakdown<- map(references, function(x) {
   # read in GO enrichment
-  go <- read_tsv(here(paste0(x, "-reference/03_go/output/go-breakdown_lfc0.txt")))
+  go <- read_tsv(here(paste0(x, "-reference/03_go/output/go-breakdown_lfc0.txt.gz")))
 })
 breakdown2<- do.call("rbind", breakdown)
 
@@ -55,16 +55,16 @@ l.bp.cc.mf<- c(bp.tit, mf.tit, cc.tit)
 
 #Load selected list of genes
 #Wound and division
-wound.div<- read.xlsx(here("1dpa-reference/02_dea/selection-woundhealing-celldivision-aai.xlsx"), colNames = FALSE)
+wound.div<- read.xlsx(here("01_raw-data/selection-woundhealing-celldivision-aai.xlsx"), colNames = FALSE)
 wound.div<- wound.div$X1
 #TFs
-tf<- read.xlsx(here("1dpa-reference/02_dea/selection-markers-tfs-aai.xlsx"), colNames = FALSE)
+tf<- read.xlsx(here("01_raw-data/selection-markers-tfs-aai.xlsx"), colNames = FALSE)
 tf<- tf$X1
 genl<- unique(c(wound.div, tf))
 #Filter gene selection by if they are DE
 references<- c("1dpa", "intact", "sequential")
 de.l<- map(references, function(reference){
-  file<-read.table(here(paste0(reference, "-reference/02_dea/tables/de-up_lfc2.csv")), sep="\t", quote = "", header= TRUE)
+  file<-read_csv(here(paste0(reference, "-reference/02_dea/tables/de-up_lfc2.csv.gz")))
 })
 de.l<- do.call("rbind", de.l) %>%
   unique()
@@ -77,18 +77,18 @@ genl<- genl.d.f$gene_id
 
 
 #Load de go-gene data base
-go.db<- read.table(here("mixed-analysis/02_go/pcan_go_20210924_with_ancestors.txt"), sep="\t", quote = "", header= TRUE)
+go.db<- read.table(here("mixed-analysis/02_go/pcan_go_20210924_with_ancestors.txt.gz"), sep="\t", quote = "", header= TRUE)
 
 
 
 #Read references
-ref<- read.table(here("01_raw-data/gene-ref.txt"), sep="\t", quote = "", header= TRUE)
+ref<- read.table(here("01_raw-data/gene-ref.txt.gz"), sep="\t", quote = "", header= TRUE)
 ref$id.desc= paste0(ref$gene_id,"_", ref$description)
 ref <- ref %>%
   select(gene_id, id.desc)
 
 #Load zscore table with reference
-tpm.z<- read.csv(here("02_processed-data/tpm-zscores.csv"), header = TRUE)
+tpm.z<- read.csv(here("02_processed-data/tpm-zscores.csv.gz"), header = TRUE)
 zsc <- tpm.z %>%
   left_join(y=ref, by= "gene_id") %>%
   na.omit()
@@ -164,7 +164,7 @@ g<-  pmap(list(term.cat, tit.cat, term.catn), function(term.c, tit.c, term.cn){
     } else{
       print(paste0("we have a plot-", tit))
       
-      m<- d.p
+      m<- as.data.frame(d.p)
       rownames(m)<- m$id.desc
       m$gene_id<- m$id.desc<- NULL
       m <- as.matrix(m)

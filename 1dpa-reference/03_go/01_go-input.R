@@ -25,7 +25,7 @@ go.input<- map(files, function(x){
   
   nam.fil<- x %>%
     str_replace(pattern = "de-up", replacement = "de-up-go")%>%
-    str_replace(pattern = ".csv", replacement = ".txt")
+    str_replace(pattern = ".csv.gz", replacement = ".txt.gz")
   
   write_csv(de, 
             file=here(paste0("1dpa-reference/03_go/input/", nam.fil)))

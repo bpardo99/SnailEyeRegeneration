@@ -53,7 +53,7 @@ dge <- dge[keep, , keep.lib.sizes=FALSE]
 
 ##Boxplot counts distrib per sample, PRE-NORMALIZATION
 
-pdf(here("intact-reference/02_dea/figures/boxplot-counts-prenorm.pdf"))
+pdf(file=here("intact-reference/02_dea/figures/boxplot-counts-prenorm.pdf"))
 boxplot(log2(dge$counts +1), las=2, main="Log2 read counts per sample, prenormalization")
 dev.off()
 
@@ -74,7 +74,7 @@ dge <- estimateDisp(dge)
 
 ##Boxplot counts distrib per sample, POST-NORMALIZATION
 dge.norm<- dge$counts*dge$samples$norm.factors
-pdf(here("intact-reference/02_dea/figures/boxplot-counts-postnorm.pdf"))
+pdf(file=here("intact-reference/02_dea/figures/boxplot-counts-postnorm.pdf"))
 boxplot(log2(dge.norm +1), las=2, main="Log2 read counts per sample, post-normalization")
 dev.off()
 

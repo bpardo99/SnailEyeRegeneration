@@ -28,7 +28,7 @@ files<- paste0("de-up-go_s_", comp,"-intact-ref_lfc")
 lfc_list <- c(0:2)
 
 go.lfc <-map(lfc_list, function(lfc){
-  file_list<- paste0(files, lfc, ".txt")
+  file_list<- paste0(files, lfc, ".txt.gz")
                 
   go <- map(file_list, function(x) {
     

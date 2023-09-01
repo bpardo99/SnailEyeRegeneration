@@ -89,7 +89,7 @@ exp<- pmap(list(reg.exp, dev.exp, exp.lbl, lv), function(reg.exp, dev.exp, exp.l
       na.omit() #I HAD TO RESTRICT TO PLOT GENES THAT ARE PRESENT IN BOTH LISTS
     
     #Matrix for clustering based on development and regeneration
-    m<- d.p
+    m<- as.data.frame(d.p)
     rownames(m)<- m$id.desc
     m$gene_id<- m$id.desc<- NULL
     m <- as.matrix(m)

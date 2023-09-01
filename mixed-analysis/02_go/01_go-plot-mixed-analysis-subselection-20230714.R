@@ -46,11 +46,11 @@ plot_order <- c(
   x=0
     
     # read in GO enrichment INTACT VS 1 <- to use as first timepoint
-    go.br.int_1dpa <- read_tsv(here(paste0("intact-reference/03_go/output/go-breakdown_lfc", x, ".txt"))) %>%
-      filter(cluster=="de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt") 
+    go.br.int_1dpa <- read_tsv(here(paste0("intact-reference/03_go/output/go-breakdown_lfc", x, ".txt.gz"))) %>%
+      filter(cluster=="de-up-go_s_1dpa-s_intact-intact-ref_lfc0.txt.gz") 
     
     # read in GO enrichment vs 1dpa all comparisons
-    go.br.vs1 <- read_tsv(here(paste0("1dpa-reference/03_go/output/go-breakdown_lfc", x, ".txt")))
+    go.br.vs1 <- read_tsv(here(paste0("1dpa-reference/03_go/output/go-breakdown_lfc", x, ".txt.gz")))
     
     go.br<- rbind(go.br.int_1dpa, go.br.vs1)
     
@@ -61,7 +61,7 @@ plot_order <- c(
       mutate(file = str_replace(file, "de-", "")) %>%
       mutate(file = str_replace(file, "-go_s", "")) %>%
       mutate(file = str_replace(file, "-s_", "-")) %>%
-      mutate(file = str_replace(file, ".txt", "")) %>%
+      mutate(file = str_replace(file, ".txt.gz", "")) %>%
       mutate(file = ifelse(str_detect(file, "-1dpa-ref_lfc"), 
                            str_replace(file, "-1dpa-ref_lfc", "_lfc_"), str_replace(file, "-intact-ref_lfc", "_lfc_"))) %>%
       separate(file, c("direction", "timepoint","none", "lfc"), sep="_")

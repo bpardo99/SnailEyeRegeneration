@@ -18,10 +18,11 @@ cpm<- d %>%
 cpm.max<- cpm %>%
   mutate(max.cpm = rowMaxs(as.matrix(cpm[,st])))
 
-cpm.f<- cpm.max %>% 
+cpm.f <- cpm.max %>% 
   filter (max.cpm > 0.1) %>%
   select(!max.cpm)
 
+cpm.f <- as.data.frame(cpm.f)
 rownames(cpm.f)= cpm.f$gene_id
 cpm.f$gene_id <- NULL
 

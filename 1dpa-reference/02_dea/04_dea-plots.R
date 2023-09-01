@@ -216,7 +216,7 @@ a<- pmap(list(exp.tab, exp.nam, limscal), function(exp.t, exp.n, lsc){
       filter(gene_id %in% tfs.s)
     
     #Matrix for clustering
-    m= p
+    m= as.data.frame(p)
     rownames(m)<- m$id.desc
     m$gene_id<- m$id.desc<- NULL
     m <- as.matrix(m)
