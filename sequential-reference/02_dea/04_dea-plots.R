@@ -281,7 +281,7 @@ a<- pmap(list(exp.tab, exp.nam, limscal), function(exp.t, exp.n, lsc){
     filter(gene_id %in% eymk.filt)
   
   #Matrix for clustering
-  m= p
+  m= as.data.frame(p)
   rownames(m)<- m$id.desc
   m$gene_id<- m$id.desc<- NULL
   m <- as.matrix(m)
@@ -407,7 +407,7 @@ d.p<- zsc %>%
   filter(gene_id %in% genes)
 
 ##Matrix for clustering
-m<- d.p
+m<- as.data.frame(d.p)
 rownames(m)<- m$id.desc
 m$gene_id<- m$id.desc<- NULL
 m <- as.matrix(m)
