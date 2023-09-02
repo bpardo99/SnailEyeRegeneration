@@ -44,7 +44,7 @@ go.br<- read_tsv(here("1dpa-reference/03_go/output/go-breakdown_lfc0.txt.gz"), h
       str_replace("-go", "") %>%
       str_replace("txt", "csv.gz")
     
-    de.sub<- read_csv(here(paste0("1dpa-reference/02_dea/tables/", comp.de)), header = TRUE)
+    de.sub<- read_csv(here(paste0("1dpa-reference/02_dea/tables/", comp.de)))
     de.sub<- unique(de.sub$gene_id)
     
     #Get number of genes

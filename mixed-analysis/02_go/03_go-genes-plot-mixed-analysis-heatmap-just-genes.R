@@ -13,6 +13,8 @@ library(purrr)
 library(ggpubr)
 library(cowplot)
 library(readr)
+library(here)
+library(tidyverse)
 
 #Load selected list of genes
 #Wound and division
@@ -22,7 +24,7 @@ library(readr)
 # tf<- read.xlsx("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/1dpa-reference/02_dea/selection-markers-tfs-aai.xlsx", colNames = FALSE)
 # tf<- tf$X1
 
-aai<- read.table("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/go-genes-plot-mixed-reference-just-selected-genes-de-lfc0_AAI_selection.txt", sep="\t", quote = "", header= TRUE)
+aai<- read_tsv(here("mixed-analysis/02_go/go-genes-plot-mixed-reference-just-selected-genes-de-lfc0_AAI_selection.txt.gz"))
 aai<- aai$gene_id
 
 #genl<- unique(c(wound.div, tf))
@@ -30,7 +32,7 @@ genl<- unique(aai)
 #Filter gene selection by if they are DE
 references<- c("1dpa", "intact", "sequential")
 de.l<- map(references, function(reference){
-  file<-read.table(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/", reference, "-reference/02_dea/tables/de-up_lfc0.csv"), sep="\t", quote = "", header= TRUE)
+  file<-read.table(here(paste0(reference, "-reference/02_dea/tables/de-up_lfc0.csv.gz")), sep="\t", quote = "", header= TRUE)
 })
 de.l<- do.call("rbind", de.l) %>%
   unique()
@@ -43,15 +45,15 @@ genl<- genl.d.f$gene_id
 
 
 #Read references
-ref<- read.table("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/01_raw-data/gene-ref.txt", sep="\t", quote = "", header= TRUE)
+ref<- read_tsv(here("01_raw-data/gene-ref.txt.gz"))
 ref$id.desc= paste0(ref$gene_id,"_", ref$description)
 ref <- ref %>%
   select(gene_id, id.desc) %>%
   mutate(id.desc = str_replace(id.desc, "-like", ""))
 
 #Load zscore table with reference
-tpm.z<- read.csv("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/02_processed-data/tpm-zscores.csv", header = TRUE)
-tpm.lp<- read.csv("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/02_processed-data/tpm-mean-log1p.csv", header = TRUE)
+tpm.z<- read_csv(here("02_processed-data/tpm-zscores.csv.gz"))
+tpm.lp<- read_csv(here("02_processed-data/tpm-mean-log1p.csv.gz"))
 
 exp.list<- list(tpm.lp, tpm.z)
 exp.nam<- list("log1p.tpm", "zscore")
@@ -64,7 +66,7 @@ l<- pmap(list(exp.list, exp.nam), function(exp, nam){
 d.p<- zsc %>%
   filter(gene_id %in% genl)
 
-m<- d.p
+m<- as.data.frame(d.p)
 rownames(m)<- m$id.desc
 m$gene_id<- m$id.desc<- NULL
 m <- as.matrix(m)
@@ -99,7 +101,7 @@ plot <- ggplot(d.p3, aes(x=factor(st, levels = lev), y=order)) +
   labs(fill=nam)
 
 
-ggsave(paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/figures/go-genes-plot-mixed-reference-just-selected-genes-de-lfc0-", nam, ".pdf"), plot, height=20, width=10, limitsize=FALSE)
+ggsave(here(paste0("mixed-analysis/02_go/figures/go-genes-plot-mixed-reference-just-selected-genes-de-lfc0-", nam, ".pdf")), plot, height=20, width=10, limitsize=FALSE)
 
 return(row.order)
 })
@@ -107,5 +109,4 @@ return(row.order)
 
 g.to.wr<- l[[2]] 
 
-write.table(g.to.wr, file=paste0("/home/bp2582/projects/eye-reg_rnaseq/github/SnailEyeReg_RNASeq-pipeline/mixed-analysis/02_go/tables/go-genes-plot-mixed-reference-just-selected-genes-de-lfc0.txt"), row.names = FALSE, col.names= FALSE, 
-            quote = FALSE, sep = '\t')
+write_tsv(as.data.frame(g.to.wr), here(paste0("mixed-analysis/02_go/tables/go-genes-plot-mixed-reference-just-selected-genes-de-lfc0.txt.gz")))

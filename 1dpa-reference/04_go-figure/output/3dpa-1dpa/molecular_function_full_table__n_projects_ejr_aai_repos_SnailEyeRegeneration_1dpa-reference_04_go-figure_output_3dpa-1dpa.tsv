@@ -1,0 +1,44 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0008017	GO:0015631	tubulin binding	1.493e-08	0.000e+00	3.172e+00	6.727e-04
+GO:0008017	GO:0008017	microtubule binding	3.280e-10	0.000e+00	3.272e+00	5.341e-04
+GO:0140097	GO:0140097	catalytic activity, acting on DNA	6.257e-05	0.000e+00	1.802e+00	1.576e-02
+GO:0140097	GO:0004536	DNA nuclease activity	1.216e-03	0.000e+00	2.760e+00	1.739e-03
+GO:0140097	GO:0016888	endodeoxyribonuclease activity, producing 5'-phosphomonoesters	9.477e-03	0.000e+00	3.454e+00	3.517e-04
+GO:0140097	GO:0004520	DNA endonuclease activity	4.740e-03	0.000e+00	3.013e+00	9.702e-04
+GO:0016829	GO:0016829	lyase activity	2.176e-03	0.000e+00	1.490e+00	3.239e-02
+GO:0001228	GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	7.337e-03	0.000e+00	4.028e+00	9.372e-05
+GO:0001228	GO:0001216	DNA-binding transcription activator activity	7.607e-03	0.000e+00	3.809e+00	1.552e-04
+GO:0003697	GO:0003697	single-stranded DNA binding	6.494e-04	0.000e+00	3.045e+00	9.024e-04
+GO:0003774	GO:0003774	cytoskeletal motor activity	6.494e-04	0.000e+00	2.915e+00	1.216e-03
+GO:0003774	GO:0003777	microtubule motor activity	1.758e-03	0.000e+00	3.442e+00	3.618e-04
+GO:0003774	GO:0008574	plus-end-directed microtubule motor activity	1.758e-03	0.000e+00	5.344e+00	4.532e-06
+GO:0000217	GO:0000217	DNA secondary structure binding	9.474e-06	0.000e+00	3.679e+00	2.096e-04
+GO:0000217	GO:0000400	four-way junction DNA binding	5.746e-05	0.000e+00	3.774e+00	1.684e-04
+GO:0003684	GO:0003684	damaged DNA binding	6.810e-03	0.000e+00	3.179e+00	6.627e-04
+GO:0008307	GO:0008307	structural constituent of muscle	2.176e-03	0.000e+00	5.372e+00	4.246e-06
+GO:0016713	GO:0016713	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen	3.574e-04	0.000e+00	4.842e+00	1.437e-05
+GO:0016713	GO:0018685	alkane 1-monooxygenase activity	1.365e-03	0.000e+00	5.564e+00	2.731e-06
+GO:0016713	GO:0070576	vitamin D 24-hydroxylase activity	4.740e-03	0.000e+00	6.225e+00	5.962e-07
+GO:0016713	GO:0008401	retinoic acid 4-hydroxylase activity	2.176e-03	0.000e+00	6.153e+00	7.023e-07
+GO:0016713	GO:0062183	all-trans retinoic acid 18-hydroxylase activity	2.176e-03	0.000e+00	6.866e+00	1.361e-07
+GO:0016713	GO:0062181	1-alpha,25-dihydroxyvitamin D3 23-hydroxylase activity	4.032e-03	0.000e+00	6.830e+00	1.481e-07
+GO:0016713	GO:0062179	vitamin D 23-hydroxylase activity	4.032e-03	0.000e+00	6.565e+00	2.721e-07
+GO:0016713	GO:0030343	vitamin D3 25-hydroxylase activity	2.176e-03	0.000e+00	6.375e+00	4.222e-07
+GO:0016713	GO:0070643	vitamin D 25-hydroxylase activity	2.662e-03	0.000e+00	6.232e+00	5.862e-07
+GO:0016713	GO:0008390	testosterone 16-alpha-hydroxylase activity	5.400e-03	0.000e+00	7.076e+00	8.404e-08
+GO:0016713	GO:0050649	testosterone 6-beta-hydroxylase activity	7.607e-03	0.000e+00	6.807e+00	1.561e-07
+GO:0016713	GO:0101020	estrogen 16-alpha-hydroxylase activity	4.740e-03	0.000e+00	6.284e+00	5.202e-07
+GO:0016713	GO:0101021	estrogen 2-hydroxylase activity	4.740e-03	0.000e+00	6.448e+00	3.561e-07
+GO:0004364	GO:0004364	glutathione transferase activity	2.662e-03	0.000e+00	3.766e+00	1.712e-04
+GO:0034875	GO:0033695	oxidoreductase activity, acting on CH or CH2 groups, quinone or similar compound as acceptor	5.631e-03	0.000e+00	5.456e+00	3.501e-06
+GO:0034875	GO:0034875	caffeine oxidase activity	5.631e-03	0.000e+00	5.926e+00	1.186e-06
+GO:0034875	GO:0016725	oxidoreductase activity, acting on CH or CH2 groups	4.464e-03	0.000e+00	3.020e+00	9.549e-04
+GO:1900750	GO:1900750	oligopeptide binding	4.740e-03	0.000e+00	7.009e+00	9.804e-08
+GO:0004796	GO:0004796	thromboxane-A synthase activity	1.365e-03	0.000e+00	6.418e+00	3.822e-07
+GO:0043295	GO:0043295	glutathione binding	3.793e-03	0.000e+00	5.024e+00	9.458e-06
+GO:0050591	GO:0050591	quinine 3-monooxygenase activity	6.235e-03	0.000e+00	8.398e+00	4.002e-09
+GO:0050591	GO:0062186	anandamide epoxidase activity	6.235e-03	0.000e+00	6.244e+00	5.702e-07
+GO:0050591	GO:0102320	1,8-cineole 2-exo-monooxygenase activity	6.235e-03	0.000e+00	8.398e+00	4.002e-09
+GO:0050591	GO:0062188	anandamide 11,12 epoxidase activity	6.235e-03	0.000e+00	6.801e+00	1.581e-07
+GO:0050591	GO:0062187	anandamide 8,9 epoxidase activity	6.235e-03	0.000e+00	6.801e+00	1.581e-07
+GO:0050591	GO:0062189	anandamide 14,15 epoxidase activity	6.235e-03	0.000e+00	6.595e+00	2.541e-07

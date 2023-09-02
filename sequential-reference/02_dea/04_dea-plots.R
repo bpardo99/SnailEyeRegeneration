@@ -1,4 +1,4 @@
-# DE gene plots
+#number-de-genes-lfc", lfc,"_seq-ref.txt" DE gene plots
 # Variety of plots from DEA output
 # Brenda Pardo
 # 2023-05-15
@@ -14,15 +14,16 @@ library(cowplot)
 library(openxlsx)
 library(RColorBrewer)
 library(here)
+library(tidyverse)
 
 
 ##Plot number of DE genes across comparisons
 
 lfc<- paste0("lfc", 0:2)
-files <-here(paste0("sequential-reference/02_dea/tables/number-de-genes-", lfc, "_seq-ref.csv.gz"))
+files <-here(paste0("sequential-reference/02_dea/tables/number-de-genes-", lfc, "_seq-ref.txt"))
 
 de.ct <- map(files, function(x){
-  read.csv(x, header=TRUE)
+  read_tsv(x)
 })
 names(de.ct) <- lfc
 
@@ -102,9 +103,9 @@ p.count <- map(lfc, function(x){
 ##Pax Piwi Rho expression, lineplot
 
 #Expression tables
-tpm<- read.csv(here("02_processed-data/tpm-mean.csv.gz"), header = TRUE)
-tpm.l1p<- read.csv(here("02_processed-data/tpm-mean-log1p.csv.gz"), header = TRUE)
-tpm.z<- read.csv(here("02_processed-data/tpm-zscores.csv.gz"), header = TRUE)
+tpm<- read_csv(here("02_processed-data/tpm-mean.csv.gz"))
+tpm.l1p<- read_csv(here("02_processed-data/tpm-mean-log1p.csv.gz"))
+tpm.z<- read_csv(here("02_processed-data/tpm-zscores.csv.gz"))
 exp.tab<- list(tpm, tpm.l1p, tpm.z)
 exp.nam<- c("tpm", "log1p-tpm", "zscore")
 
@@ -197,7 +198,7 @@ exp.tab<- list(lfc.seq, tpm.l1p, tpm.z)
 exp.nam<- c("logFC", "log1p-tpm", "zscore")
 
 #Reaf references
-ref<- read.table(here("01_raw-data/gene-ref.txt.gz"), sep="\t", quote = "", header= TRUE)
+ref<- read_tsv(here("01_raw-data/gene-ref.txt.gz"))
 
 ref$id.desc= paste0(ref$gene_id,"_", ref$description)
 ref <- ref %>%
@@ -216,7 +217,7 @@ a<- pmap(list(exp.tab, exp.nam, limscal), function(exp.t, exp.n, lsc){
       filter(gene_id %in% tfs.s)
     
     #Matrix for clustering
-    m= p
+    m= as.data.frame(p)
     rownames(m)<- m$id.desc
     m$gene_id<- m$id.desc<- NULL
     m <- as.matrix(m)
@@ -280,7 +281,7 @@ a<- pmap(list(exp.tab, exp.nam, limscal), function(exp.t, exp.n, lsc){
     filter(gene_id %in% eymk.filt)
   
   #Matrix for clustering
-  m= p
+  m= as.data.frame(p)
   rownames(m)<- m$id.desc
   m$gene_id<- m$id.desc<- NULL
   m <- as.matrix(m)
@@ -326,7 +327,7 @@ path<- here("sequential-reference/02_dea/tables/")
 files<- paste0("de-up_", comp,"-seq-ref_")
 
 boolean.marker<-map(lfc, function(lf){
-  f <- paste0(path, files, lf, ".csv")
+  f <- paste0(path, files, lf, ".csv.gz")
   
   de <- map(f, function(f){
     read.csv(f)
@@ -406,7 +407,7 @@ d.p<- zsc %>%
   filter(gene_id %in% genes)
 
 ##Matrix for clustering
-m<- d.p
+m<- as.data.frame(d.p)
 rownames(m)<- m$id.desc
 m$gene_id<- m$id.desc<- NULL
 m <- as.matrix(m)

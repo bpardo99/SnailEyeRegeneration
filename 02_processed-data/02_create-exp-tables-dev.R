@@ -2,6 +2,7 @@
 # Brenda Pardo
 # 2023-05-15
 library(tidyverse)
+library(here)
 #Get tpms
 d<-read_tsv(here("01_raw-data/development_cpms.tsv.gz"),  header=TRUE)
 
@@ -17,10 +18,11 @@ cpm<- d %>%
 cpm.max<- cpm %>%
   mutate(max.cpm = rowMaxs(as.matrix(cpm[,st])))
 
-cpm.f<- cpm.max %>% 
+cpm.f <- cpm.max %>% 
   filter (max.cpm > 0.1) %>%
   select(!max.cpm)
 
+cpm.f <- as.data.frame(cpm.f)
 rownames(cpm.f)= cpm.f$gene_id
 cpm.f$gene_id <- NULL
 
