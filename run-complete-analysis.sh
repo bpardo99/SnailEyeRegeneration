@@ -38,10 +38,10 @@
 ###############################################
 
 # if you need to activate a conda environment for gofigure to run do it here.
-source /home/ejr/anaconda3/etc/profile.d/conda.sh
-conda activate snail-pipeline
-GOFIGURE="/n/projects/ejr/aai/brenda_pipeline/GO-Figure/gofigure.py"
-PYTHON="/home/ejr/anaconda3/envs/snail-pipeline/bin/python"
+source /home/ejr/miniconda3/etc/profile.d/conda.sh
+conda activate go-figure
+GOFIGURE="/home/ejr/miniconda3/envs/go-figure/bin/gofigure.py"
+PYTHON="/home/ejr/miniconda3/envs/go-figure/bin/python3.11"
 ###############################################
 
 ###############################################
