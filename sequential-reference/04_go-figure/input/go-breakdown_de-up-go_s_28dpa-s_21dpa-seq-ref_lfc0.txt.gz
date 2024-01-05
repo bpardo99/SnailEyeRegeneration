@@ -1,7 +1,0 @@
-ID	Description	no.gen	tot.gen	BgRatio	pvalue	p.adjust	qvalue	geneID	Count	ont	cluster	rat.gen
-GO:0004948	calcitonin receptor activity	1	1	14/15404	0.000908854842897711	0.00730329784471517	NA	LOC112563614	1	MF	de-up-go_s_28dpa-s_21dpa-seq-ref_lfc0.txt.gz	100
-GO:0097642	calcitonin family receptor activity	1	1	15/15404	0.000973773045962023	0.00730329784471517	NA	LOC112563614	1	MF	de-up-go_s_28dpa-s_21dpa-seq-ref_lfc0.txt.gz	100
-GO:0005179	hormone activity	1	1	36/15404	0.00233705531030892	0.00973773045962065	NA	LOC112563614	1	MF	de-up-go_s_28dpa-s_21dpa-seq-ref_lfc0.txt.gz	100
-GO:0001965	G-protein alpha-subunit binding	1	1	40/15404	0.00259672812256551	0.00973773045962065	NA	LOC112563614	1	MF	de-up-go_s_28dpa-s_21dpa-seq-ref_lfc0.txt.gz	100
-GO:0043196	varicosity	1	1	14/14434	0.000969932104752602	0.0080019398642105	NA	LOC112563614	1	CC	de-up-go_s_28dpa-s_21dpa-seq-ref_lfc0.txt.gz	100
-GO:0070852	cell body fiber	1	1	21/14434	0.00145489815712918	0.0080019398642105	NA	LOC112563614	1	CC	de-up-go_s_28dpa-s_21dpa-seq-ref_lfc0.txt.gz	100

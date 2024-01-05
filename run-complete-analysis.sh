@@ -70,6 +70,8 @@ Rscript ${DIR}/03_go/04_go-plot.R
 
 #GO-figure
 echo "Run GO-figure"
+mkdir -p ${DIR}/04_go-figure/input
+mkdir -p ${DIR}/04_go-figure/output
 Rscript ${DIR}/04_go-figure/01_go-figure-input.R
 Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
 touch 1dp1-reference.finished
@@ -101,6 +103,8 @@ Rscript ${DIR}/03_go/04_go-plot.R
 
 #GO-figure
 echo "Run GO-figure"
+mkdir -p ${DIR}/04_go-figure/input
+mkdir -p ${DIR}/04_go-figure/output
 Rscript ${DIR}/04_go-figure/01_go-figure-input.R
 Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
 touch intact-reference.finished
@@ -131,6 +135,8 @@ Rscript ${DIR}/03_go/04_go-plot.R
 
 #GO-figure
 echo "Run GO-figure"
+mkdir -p ${DIR}/04_go-figure/input
+mkdir -p ${DIR}/04_go-figure/output
 Rscript ${DIR}/04_go-figure/01_go-figure-input.R
 Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
 touch sequential-reference.finished
