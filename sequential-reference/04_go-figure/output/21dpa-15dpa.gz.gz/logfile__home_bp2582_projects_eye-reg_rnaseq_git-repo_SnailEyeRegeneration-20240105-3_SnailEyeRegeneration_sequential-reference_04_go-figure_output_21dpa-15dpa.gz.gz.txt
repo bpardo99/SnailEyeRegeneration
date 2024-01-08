@@ -1,0 +1,25 @@
+GO-Figure! version: 1.0.1
+
+Date run: 2024-01-06
+
+Command line input: ['/home/ejr/miniconda3/envs/go-figure/bin/gofigure.py', '-i', '/home/bp2582/projects/eye-reg_rnaseq/git-repo/SnailEyeRegeneration-20240105-3/SnailEyeRegeneration/sequential-reference/04_go-figure/input/input_file_21dpa-15dpa.gz.tsv.gz', '-v', '0.05', '-a', '20', '-m', '20', '-si', '0.4', '-e', '60', '-q', 'pdf', '-o', '/home/bp2582/projects/eye-reg_rnaseq/git-repo/SnailEyeRegeneration-20240105-3/SnailEyeRegeneration/sequential-reference/04_go-figure/output/21dpa-15dpa.gz.gz']
+
+go.obo version used: releases/2023-04-01
+
+go.obo version used to create GO relations: releases/2023-04-01
+
+
+Calculating biological process
+
+No GO terms for ontology found: biological_process
+
+
+Calculating molecular function
+
+No GO terms for ontology found: molecular_function
+
+
+Calculating cellular component
+
+No GO terms for ontology found: cellular_component
+

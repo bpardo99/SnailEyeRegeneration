@@ -1,0 +1,556 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0042391	GO:0042391	regulation of membrane potential	1.232e-14	0.000e+00	3.475e+00	3.347e-04
+GO:0042391	GO:0060078	regulation of postsynaptic membrane potential	1.460e-09	0.000e+00	3.636e+00	2.314e-04
+GO:0042391	GO:0007204	positive regulation of cytosolic calcium ion concentration	9.328e-05	0.000e+00	4.654e+00	2.220e-05
+GO:0042391	GO:0060079	excitatory postsynaptic potential	1.003e-08	0.000e+00	3.865e+00	1.366e-04
+GO:0042391	GO:0030322	stabilization of membrane potential	8.074e-05	0.000e+00	5.501e+00	3.154e-06
+GO:0042391	GO:0060080	inhibitory postsynaptic potential	7.138e-04	0.000e+00	5.838e+00	1.451e-06
+GO:0042391	GO:0060081	membrane hyperpolarization	9.961e-03	0.000e+00	5.852e+00	1.407e-06
+GO:0042391	GO:0001508	action potential	1.955e-09	0.000e+00	4.770e+00	1.698e-05
+GO:0042391	GO:0019228	neuronal action potential	1.710e-03	0.000e+00	5.346e+00	4.504e-06
+GO:0042391	GO:0050803	regulation of synapse structure or activity	4.166e-04	0.000e+00	5.792e+00	1.616e-06
+GO:0042391	GO:0042445	hormone metabolic process	5.776e-03	0.000e+00	3.227e+00	5.934e-04
+GO:0042391	GO:0035150	regulation of tube size	4.113e-07	0.000e+00	3.875e+00	1.335e-04
+GO:0042391	GO:0035296	regulation of tube diameter	5.310e-03	0.000e+00	3.884e+00	1.305e-04
+GO:0042391	GO:0097746	blood vessel diameter maintenance	2.201e-03	0.000e+00	3.887e+00	1.298e-04
+GO:0042391	GO:0003018	vascular process in circulatory system	4.561e-03	0.000e+00	3.846e+00	1.425e-04
+GO:0042391	GO:0035151	regulation of tube size, open tracheal system	1.440e-05	0.000e+00	5.499e+00	3.167e-06
+GO:0042391	GO:0035152	regulation of tube architecture, open tracheal system	1.215e-05	0.000e+00	5.277e+00	5.290e-06
+GO:0042391	GO:0042310	vasoconstriction	2.910e-04	0.000e+00	4.384e+00	4.133e-05
+GO:0042391	GO:0019229	regulation of vasoconstriction	9.435e-04	0.000e+00	4.435e+00	3.669e-05
+GO:0042391	GO:0008217	regulation of blood pressure	2.240e-04	0.000e+00	4.309e+00	4.906e-05
+GO:0042391	GO:0003073	regulation of systemic arterial blood pressure	9.707e-03	0.000e+00	5.006e+00	9.868e-06
+GO:0042391	GO:0051899	membrane depolarization	3.246e-03	0.000e+00	5.083e+00	8.256e-06
+GO:0042391	GO:0086010	membrane depolarization during action potential	8.193e-03	0.000e+00	5.280e+00	5.247e-06
+GO:0019932	GO:0019932	second-messenger-mediated signaling	9.559e-20	0.000e+00	3.637e+00	2.305e-04
+GO:0019932	GO:0019722	calcium-mediated signaling	4.632e-09	0.000e+00	3.992e+00	1.018e-04
+GO:0019932	GO:0070371	ERK1 and ERK2 cascade	3.457e-03	0.000e+00	5.071e+00	8.488e-06
+GO:0019932	GO:0048016	inositol phosphate-mediated signaling	1.710e-03	0.000e+00	4.333e+00	4.650e-05
+GO:0019932	GO:0010737	protein kinase A signaling	2.599e-04	0.000e+00	5.540e+00	2.885e-06
+GO:0019932	GO:0007263	nitric oxide mediated signal transduction	5.618e-03	0.000e+00	5.536e+00	2.912e-06
+GO:0019932	GO:0019935	cyclic-nucleotide-mediated signaling	2.466e-12	0.000e+00	5.055e+00	8.817e-06
+GO:0019932	GO:0019933	cAMP-mediated signaling	2.189e-07	0.000e+00	5.338e+00	4.595e-06
+GO:0019932	GO:0019934	cGMP-mediated signaling	2.578e-05	0.000e+00	5.383e+00	4.138e-06
+GO:0060271	GO:0060271	cilium assembly	2.220e-15	0.000e+00	3.614e+00	2.433e-04
+GO:0060271	GO:1905515	non-motile cilium assembly	6.568e-03	0.000e+00	4.432e+00	3.697e-05
+GO:0060271	GO:0008045	motor neuron axon guidance	4.749e-03	0.000e+00	5.012e+00	9.724e-06
+GO:0060271	GO:0044458	motile cilium assembly	2.381e-04	0.000e+00	5.182e+00	6.570e-06
+GO:0060271	GO:0099054	presynapse assembly	8.799e-04	0.000e+00	5.659e+00	2.193e-06
+GO:0060271	GO:0099172	presynapse organization	8.009e-04	0.000e+00	5.486e+00	3.265e-06
+GO:0060271	GO:0060122	inner ear receptor cell stereocilium organization	4.496e-04	0.000e+00	5.088e+00	8.169e-06
+GO:0060271	GO:0072499	photoreceptor cell axon guidance	2.379e-03	0.000e+00	6.090e+00	8.128e-07
+GO:0060271	GO:0033564	anterior/posterior axon guidance	3.095e-03	0.000e+00	5.819e+00	1.518e-06
+GO:0060271	GO:0070286	axonemal dynein complex assembly	3.905e-07	0.000e+00	4.266e+00	5.414e-05
+GO:0060271	GO:0036158	outer dynein arm assembly	1.304e-03	0.000e+00	4.917e+00	1.212e-05
+GO:0050954	GO:0050954	sensory perception of mechanical stimulus	2.081e-16	0.000e+00	4.173e+00	6.712e-05
+GO:0050954	GO:0007605	sensory perception of sound	2.312e-14	0.000e+00	4.184e+00	6.541e-05
+GO:0050954	GO:0007606	sensory perception of chemical stimulus	2.906e-13	0.000e+00	3.190e+00	6.460e-04
+GO:0050954	GO:0006936	muscle contraction	1.639e-07	0.000e+00	4.265e+00	5.436e-05
+GO:0050954	GO:0003012	muscle system process	4.046e-06	0.000e+00	4.184e+00	6.546e-05
+GO:0050954	GO:0001503	ossification	4.293e-05	0.000e+00	4.395e+00	4.026e-05
+GO:0050954	GO:0007608	sensory perception of smell	2.224e-06	0.000e+00	3.277e+00	5.286e-04
+GO:0050954	GO:0019233	sensory perception of pain	7.159e-09	0.000e+00	5.274e+00	5.320e-06
+GO:0050954	GO:0099565	chemical synaptic transmission, postsynaptic	1.460e-09	0.000e+00	6.571e+00	2.687e-07
+GO:0050954	GO:0048771	tissue remodeling	4.505e-03	0.000e+00	4.623e+00	2.380e-05
+GO:0050954	GO:0019226	transmission of nerve impulse	6.498e-06	0.000e+00	5.432e+00	3.701e-06
+GO:0050954	GO:0001895	retina homeostasis	8.444e-04	0.000e+00	5.426e+00	3.752e-06
+GO:0050954	GO:0007591	molting cycle, chitin-based cuticle	7.891e-03	0.000e+00	6.127e+00	7.457e-07
+GO:0050954	GO:0050886	endocrine process	3.248e-04	0.000e+00	5.145e+00	7.164e-06
+GO:0050954	GO:0045494	photoreceptor cell maintenance	4.054e-05	0.000e+00	4.820e+00	1.512e-05
+GO:0050954	GO:0050909	sensory perception of taste	1.698e-03	0.000e+00	4.079e+00	8.336e-05
+GO:0050954	GO:0032941	secretion by tissue	1.208e-03	0.000e+00	5.159e+00	6.933e-06
+GO:0050954	GO:0060384	innervation	5.848e-03	0.000e+00	5.231e+00	5.881e-06
+GO:0050954	GO:0003016	respiratory system process	4.642e-03	0.000e+00	5.443e+00	3.607e-06
+GO:0050954	GO:0050953	sensory perception of light stimulus	1.460e-09	0.000e+00	3.653e+00	2.221e-04
+GO:0050954	GO:0007601	visual perception	1.816e-08	0.000e+00	3.668e+00	2.148e-04
+GO:0050954	GO:0003015	heart process	2.128e-04	0.000e+00	5.010e+00	9.778e-06
+GO:0050954	GO:0060047	heart contraction	2.962e-03	0.000e+00	5.116e+00	7.662e-06
+GO:0050954	GO:0030431	sleep	2.367e-07	0.000e+00	4.593e+00	2.554e-05
+GO:0050954	GO:0050802	circadian sleep/wake cycle, sleep	2.719e-06	0.000e+00	6.593e+00	2.553e-07
+GO:0050954	GO:0007588	excretion	2.146e-05	0.000e+00	5.422e+00	3.782e-06
+GO:0050954	GO:0030421	defecation	2.379e-03	0.000e+00	6.052e+00	8.867e-07
+GO:0050954	GO:0035812	renal sodium excretion	2.893e-04	0.000e+00	6.256e+00	5.542e-07
+GO:0050954	GO:0003014	renal system process	6.601e-03	0.000e+00	4.658e+00	2.197e-05
+GO:0050954	GO:0033555	multicellular organismal response to stress	3.509e-08	0.000e+00	4.995e+00	1.012e-05
+GO:0050954	GO:0042596	fear response	8.469e-04	0.000e+00	5.245e+00	5.687e-06
+GO:0050954	GO:0048265	response to pain	5.816e-04	0.000e+00	5.663e+00	2.173e-06
+GO:0050954	GO:0010092	specification of animal organ identity	1.887e-04	0.000e+00	5.460e+00	3.466e-06
+GO:0050954	GO:0007368	determination of left/right symmetry	1.753e-03	0.000e+00	4.446e+00	3.580e-05
+GO:0050954	GO:0009855	determination of bilateral symmetry	1.585e-03	0.000e+00	4.436e+00	3.664e-05
+GO:0050954	GO:0009799	specification of symmetry	1.760e-03	0.000e+00	4.433e+00	3.691e-05
+GO:0050954	GO:0007367	segment polarity determination	4.133e-03	0.000e+00	5.520e+00	3.023e-06
+GO:0050954	GO:0007365	periodic partitioning	2.725e-03	0.000e+00	5.317e+00	4.820e-06
+GO:0050954	GO:0071910	determination of liver left/right asymmetry	2.330e-03	0.000e+00	5.704e+00	1.978e-06
+GO:0050954	GO:0001964	startle response	6.057e-04	0.000e+00	5.420e+00	3.799e-06
+GO:0050954	GO:0050884	neuromuscular process controlling posture	7.610e-03	0.000e+00	5.624e+00	2.375e-06
+GO:0034765	GO:0034762	regulation of transmembrane transport	1.898e-09	0.000e+00	3.238e+00	5.783e-04
+GO:0034765	GO:0034765	regulation of monoatomic ion transmembrane transport	2.637e-12	0.000e+00	3.268e+00	5.393e-04
+GO:0034765	GO:0010959	regulation of metal ion transport	9.856e-06	0.000e+00	3.805e+00	1.566e-04
+GO:0034765	GO:0044070	regulation of monoatomic anion transport	9.844e-03	0.000e+00	5.312e+00	4.880e-06
+GO:0034765	GO:1904062	regulation of monoatomic cation transmembrane transport	2.853e-07	0.000e+00	3.930e+00	1.176e-04
+GO:0034765	GO:2001257	regulation of cation channel activity	4.064e-06	0.000e+00	4.211e+00	6.155e-05
+GO:0034765	GO:0032412	regulation of monoatomic ion transmembrane transporter activity	1.260e-06	0.000e+00	4.011e+00	9.748e-05
+GO:0034765	GO:0022898	regulation of transmembrane transporter activity	4.279e-06	0.000e+00	4.000e+00	1.001e-04
+GO:0034765	GO:0032409	regulation of transporter activity	4.380e-05	0.000e+00	3.988e+00	1.029e-04
+GO:0034765	GO:0099601	regulation of neurotransmitter receptor activity	6.292e-04	0.000e+00	4.868e+00	1.356e-05
+GO:0034765	GO:0014059	regulation of dopamine secretion	9.132e-09	0.000e+00	5.252e+00	5.599e-06
+GO:0034765	GO:0050433	regulation of catecholamine secretion	9.370e-08	0.000e+00	5.138e+00	7.282e-06
+GO:0034765	GO:0051952	regulation of amine transport	7.159e-09	0.000e+00	4.584e+00	2.603e-05
+GO:0034765	GO:0051955	regulation of amino acid transport	3.235e-04	0.000e+00	4.768e+00	1.707e-05
+GO:0034765	GO:0014048	regulation of glutamate secretion	5.968e-03	0.000e+00	6.008e+00	9.808e-07
+GO:0034765	GO:0051954	positive regulation of amine transport	3.952e-06	0.000e+00	5.402e+00	3.963e-06
+GO:0034765	GO:0051957	positive regulation of amino acid transport	1.304e-03	0.000e+00	5.623e+00	2.385e-06
+GO:0034765	GO:0033605	positive regulation of catecholamine secretion	2.705e-04	0.000e+00	6.036e+00	9.203e-07
+GO:0043270	GO:0043270	positive regulation of monoatomic ion transport	4.367e-11	0.000e+00	4.098e+00	7.971e-05
+GO:0043270	GO:0034767	positive regulation of monoatomic ion transmembrane transport	1.460e-09	0.000e+00	4.150e+00	7.081e-05
+GO:0043270	GO:1904064	positive regulation of cation transmembrane transport	1.346e-08	0.000e+00	4.245e+00	5.691e-05
+GO:0043270	GO:0034764	positive regulation of transmembrane transport	6.079e-07	0.000e+00	4.087e+00	8.177e-05
+GO:0043270	GO:0010765	positive regulation of sodium ion transport	5.641e-03	0.000e+00	5.248e+00	5.646e-06
+GO:0043270	GO:1901381	positive regulation of potassium ion transmembrane transport	3.889e-04	0.000e+00	4.419e+00	3.814e-05
+GO:0043270	GO:0043268	positive regulation of potassium ion transport	6.292e-04	0.000e+00	4.407e+00	3.914e-05
+GO:0043270	GO:0043266	regulation of potassium ion transport	1.798e-03	0.000e+00	4.262e+00	5.475e-05
+GO:0043270	GO:0032414	positive regulation of ion transmembrane transporter activity	5.604e-05	0.000e+00	4.290e+00	5.129e-05
+GO:0043270	GO:0032411	positive regulation of transporter activity	3.552e-04	0.000e+00	4.276e+00	5.298e-05
+GO:0043270	GO:2001259	positive regulation of cation channel activity	1.086e-03	0.000e+00	4.473e+00	3.368e-05
+GO:0043270	GO:0090280	positive regulation of calcium ion import	8.562e-04	0.000e+00	5.771e+00	1.696e-06
+GO:0043270	GO:0090279	regulation of calcium ion import	6.021e-04	0.000e+00	5.390e+00	4.078e-06
+GO:0043270	GO:0051924	regulation of calcium ion transport	2.810e-03	0.000e+00	4.141e+00	7.224e-05
+GO:0043270	GO:0051928	positive regulation of calcium ion transport	6.795e-03	0.000e+00	4.722e+00	1.897e-05
+GO:0043270	GO:1904427	positive regulation of calcium ion transmembrane transport	8.193e-03	0.000e+00	4.843e+00	1.436e-05
+GO:0050795	GO:0050795	regulation of behavior	1.601e-13	0.000e+00	4.446e+00	3.577e-05
+GO:0050795	GO:0042749	regulation of circadian sleep/wake cycle	9.235e-08	0.000e+00	4.893e+00	1.280e-05
+GO:0050795	GO:0048520	positive regulation of behavior	2.893e-04	0.000e+00	5.307e+00	4.934e-06
+GO:0050795	GO:0045187	regulation of circadian sleep/wake cycle, sleep	9.472e-07	0.000e+00	4.915e+00	1.217e-05
+GO:0050795	GO:0042752	regulation of circadian rhythm	5.533e-06	0.000e+00	4.219e+00	6.040e-05
+GO:0050795	GO:0060259	regulation of feeding behavior	4.549e-05	0.000e+00	5.257e+00	5.532e-06
+GO:0050795	GO:1903998	regulation of eating behavior	9.775e-04	0.000e+00	5.705e+00	1.972e-06
+GO:0050795	GO:0043051	regulation of pharyngeal pumping	8.920e-03	0.000e+00	5.965e+00	1.085e-06
+GO:0050795	GO:0048521	negative regulation of behavior	4.579e-08	0.000e+00	5.623e+00	2.381e-06
+GO:0050795	GO:2000252	negative regulation of feeding behavior	3.023e-03	0.000e+00	5.869e+00	1.354e-06
+GO:0050795	GO:1901045	negative regulation of egg-laying behavior	2.404e-03	0.000e+00	7.112e+00	7.725e-08
+GO:0050795	GO:0046662	regulation of egg-laying behavior	1.781e-03	0.000e+00	5.791e+00	1.619e-06
+GO:0050795	GO:0110110	positive regulation of animal organ morphogenesis	4.012e-03	0.000e+00	5.254e+00	5.569e-06
+GO:0050795	GO:0001759	organ induction	9.229e-03	0.000e+00	5.573e+00	2.670e-06
+GO:0030534	GO:0030534	adult behavior	1.836e-13	0.000e+00	4.433e+00	3.694e-05
+GO:0030534	GO:0008344	adult locomotory behavior	5.450e-10	0.000e+00	4.757e+00	1.752e-05
+GO:0030534	GO:0007638	mechanosensory behavior	4.492e-04	0.000e+00	5.529e+00	2.959e-06
+GO:0030534	GO:0002118	aggressive behavior	4.561e-03	0.000e+00	5.823e+00	1.501e-06
+GO:0030534	GO:0040040	thermosensory behavior	6.292e-04	0.000e+00	5.877e+00	1.327e-06
+GO:0030534	GO:0048266	behavioral response to pain	9.272e-04	0.000e+00	5.567e+00	2.707e-06
+GO:0030534	GO:0007625	grooming behavior	5.618e-03	0.000e+00	5.681e+00	2.086e-06
+GO:0030534	GO:0071625	vocalization behavior	6.568e-03	0.000e+00	5.587e+00	2.590e-06
+GO:0030534	GO:0007628	adult walking behavior	6.021e-04	0.000e+00	5.271e+00	5.354e-06
+GO:0030534	GO:0090659	walking behavior	8.011e-04	0.000e+00	5.247e+00	5.660e-06
+GO:0030534	GO:0036269	swimming behavior	5.641e-03	0.000e+00	5.465e+00	3.426e-06
+GO:0030534	GO:0007631	feeding behavior	1.595e-09	0.000e+00	4.607e+00	2.470e-05
+GO:0030534	GO:0042755	eating behavior	3.708e-05	0.000e+00	5.441e+00	3.621e-06
+GO:0030534	GO:0007612	learning	1.484e-04	0.000e+00	4.596e+00	2.534e-05
+GO:0030534	GO:0008306	associative learning	4.638e-03	0.000e+00	4.854e+00	1.401e-05
+GO:0030534	GO:0007613	memory	7.516e-04	0.000e+00	4.657e+00	2.202e-05
+GO:0030534	GO:0072375	medium-term memory	4.135e-03	0.000e+00	6.264e+00	5.441e-07
+GO:0030534	GO:0007622	rhythmic behavior	4.043e-10	0.000e+00	5.012e+00	9.731e-06
+GO:0030534	GO:0048512	circadian behavior	2.776e-09	0.000e+00	5.034e+00	9.240e-06
+GO:0030534	GO:0042745	circadian sleep/wake cycle	8.882e-08	0.000e+00	6.894e+00	1.276e-07
+GO:0030534	GO:0022410	circadian sleep/wake cycle process	1.887e-06	0.000e+00	5.656e+00	2.207e-06
+GO:0030534	GO:0045475	locomotor rhythm	5.817e-03	0.000e+00	5.363e+00	4.340e-06
+GO:0030534	GO:0007635	chemosensory behavior	3.553e-08	0.000e+00	4.965e+00	1.085e-05
+GO:0030534	GO:0042048	olfactory behavior	1.218e-06	0.000e+00	5.268e+00	5.401e-06
+GO:0030534	GO:0030537	larval behavior	1.898e-09	0.000e+00	5.506e+00	3.117e-06
+GO:0030534	GO:0008345	larval locomotory behavior	1.312e-08	0.000e+00	5.658e+00	2.200e-06
+GO:0030534	GO:0002209	behavioral defense response	1.078e-06	0.000e+00	5.287e+00	5.163e-06
+GO:0030534	GO:0001662	behavioral fear response	3.284e-03	0.000e+00	5.319e+00	4.796e-06
+GO:0048511	GO:0048511	rhythmic process	3.381e-06	0.000e+00	3.562e+00	2.744e-04
+GO:0048511	GO:0007623	circadian rhythm	1.218e-05	0.000e+00	4.020e+00	9.552e-05
+GO:0006836	GO:0006836	neurotransmitter transport	4.238e-10	0.000e+00	3.884e+00	1.306e-04
+GO:0006836	GO:0007269	neurotransmitter secretion	1.086e-06	0.000e+00	4.628e+00	2.357e-05
+GO:0006836	GO:0001504	neurotransmitter uptake	8.141e-03	0.000e+00	4.993e+00	1.017e-05
+GO:0007416	GO:0007416	synapse assembly	2.272e-09	0.000e+00	4.580e+00	2.628e-05
+GO:0007416	GO:0007043	cell-cell junction assembly	3.509e-08	0.000e+00	4.572e+00	2.676e-05
+GO:0007416	GO:0019991	septate junction assembly	1.155e-08	0.000e+00	5.371e+00	4.256e-06
+GO:0007416	GO:0120193	tight junction organization	5.810e-08	0.000e+00	4.828e+00	1.487e-05
+GO:0007416	GO:0045216	cell-cell junction organization	1.505e-07	0.000e+00	4.333e+00	4.642e-05
+GO:0007416	GO:0043297	apical junction assembly	1.959e-08	0.000e+00	5.704e+00	1.975e-06
+GO:0007416	GO:0120192	tight junction assembly	1.959e-08	0.000e+00	4.858e+00	1.388e-05
+GO:0043583	GO:0043583	ear development	9.563e-12	0.000e+00	5.600e+00	2.509e-06
+GO:0043583	GO:0030879	mammary gland development	1.602e-03	0.000e+00	5.337e+00	4.605e-06
+GO:0043583	GO:0021510	spinal cord development	6.596e-06	0.000e+00	5.442e+00	3.618e-06
+GO:0043583	GO:0001823	mesonephros development	1.221e-03	0.000e+00	5.662e+00	2.180e-06
+GO:0043583	GO:0048839	inner ear development	2.469e-11	0.000e+00	4.680e+00	2.089e-05
+GO:0043583	GO:0008544	epidermis development	7.742e-03	0.000e+00	4.738e+00	1.828e-05
+GO:0043583	GO:0072073	kidney epithelium development	5.004e-03	0.000e+00	4.752e+00	1.768e-05
+GO:0043583	GO:0021537	telencephalon development	2.081e-06	0.000e+00	5.380e+00	4.172e-06
+GO:0043583	GO:0007424	open tracheal system development	3.313e-03	0.000e+00	5.398e+00	4.000e-06
+GO:0043583	GO:0030902	hindbrain development	3.609e-05	0.000e+00	5.220e+00	6.019e-06
+GO:0043583	GO:0021543	pallium development	1.605e-04	0.000e+00	6.298e+00	5.038e-07
+GO:0043583	GO:0021675	nerve development	2.146e-05	0.000e+00	5.029e+00	9.354e-06
+GO:0043583	GO:0022037	metencephalon development	6.683e-04	0.000e+00	6.254e+00	5.576e-07
+GO:0043583	GO:0021987	cerebral cortex development	4.959e-04	0.000e+00	4.928e+00	1.181e-05
+GO:0043583	GO:0021549	cerebellum development	2.549e-03	0.000e+00	5.060e+00	8.706e-06
+GO:0043583	GO:0003231	cardiac ventricle development	2.658e-03	0.000e+00	5.848e+00	1.417e-06
+GO:0043583	GO:0003205	cardiac chamber development	7.049e-03	0.000e+00	5.709e+00	1.955e-06
+GO:0043583	GO:0021536	diencephalon development	2.658e-03	0.000e+00	6.011e+00	9.741e-07
+GO:0043583	GO:0090102	cochlea development	1.270e-04	0.000e+00	5.488e+00	3.248e-06
+GO:0043583	GO:0003281	ventricular septum development	7.610e-03	0.000e+00	5.274e+00	5.327e-06
+GO:0043583	GO:0060711	labyrinthine layer development	3.508e-03	0.000e+00	5.863e+00	1.370e-06
+GO:0043583	GO:0021544	subpallium development	3.023e-03	0.000e+00	5.997e+00	1.008e-06
+GO:0043583	GO:0071698	olfactory placode development	4.133e-03	0.000e+00	6.272e+00	5.341e-07
+GO:0043583	GO:0071696	ectodermal placode development	9.728e-03	0.000e+00	5.814e+00	1.535e-06
+GO:0043583	GO:0030900	forebrain development	9.132e-09	0.000e+00	4.794e+00	1.608e-05
+GO:0043583	GO:0001822	kidney development	3.203e-04	0.000e+00	4.372e+00	4.245e-05
+GO:0009582	GO:0009582	detection of abiotic stimulus	6.559e-16	0.000e+00	3.516e+00	3.050e-04
+GO:0009582	GO:0009583	detection of light stimulus	2.172e-12	0.000e+00	3.537e+00	2.902e-04
+GO:0009582	GO:0009584	detection of visible light	1.021e-10	0.000e+00	4.121e+00	7.574e-05
+GO:0009582	GO:0051602	response to electrical stimulus	2.520e-05	0.000e+00	5.592e+00	2.559e-06
+GO:0009582	GO:0007603	phototransduction, visible light	1.155e-08	0.000e+00	5.753e+00	1.767e-06
+GO:0009582	GO:0043052	thermotaxis	5.121e-06	0.000e+00	5.841e+00	1.441e-06
+GO:0009582	GO:0050962	detection of light stimulus involved in sensory perception	1.586e-03	0.000e+00	5.347e+00	4.501e-06
+GO:0009582	GO:0009642	response to light intensity	1.263e-03	0.000e+00	4.811e+00	1.546e-05
+GO:0009582	GO:0009648	photoperiodism	6.221e-03	0.000e+00	5.002e+00	9.952e-06
+GO:0009582	GO:0009581	detection of external stimulus	1.626e-14	0.000e+00	3.516e+00	3.051e-04
+GO:0009582	GO:0007602	phototransduction	2.013e-12	0.000e+00	3.667e+00	2.153e-04
+GO:0009582	GO:0050906	detection of stimulus involved in sensory perception	2.102e-10	0.000e+00	3.182e+00	6.575e-04
+GO:0009582	GO:0051606	detection of stimulus	1.388e-09	0.000e+00	2.917e+00	1.212e-03
+GO:0009582	GO:0062149	detection of stimulus involved in sensory perception of pain	4.635e-03	0.000e+00	5.378e+00	4.189e-06
+GO:0009582	GO:0060004	reflex	3.095e-03	0.000e+00	5.440e+00	3.628e-06
+GO:0009582	GO:0050974	detection of mechanical stimulus involved in sensory perception	7.299e-06	0.000e+00	5.111e+00	7.742e-06
+GO:0009582	GO:0050982	detection of mechanical stimulus	1.493e-04	0.000e+00	4.970e+00	1.071e-05
+GO:0009582	GO:0009612	response to mechanical stimulus	2.785e-04	0.000e+00	4.495e+00	3.200e-05
+GO:0009582	GO:0050910	detection of mechanical stimulus involved in sensory perception of sound	3.537e-03	0.000e+00	5.499e+00	3.167e-06
+GO:0009582	GO:0010996	response to auditory stimulus	5.641e-03	0.000e+00	5.569e+00	2.697e-06
+GO:0010769	GO:0010769	regulation of cell morphogenesis involved in differentiation	2.479e-04	0.000e+00	5.212e+00	6.140e-06
+GO:0010769	GO:0010771	negative regulation of cell morphogenesis involved in differentiation	4.635e-03	0.000e+00	8.173e+00	6.718e-09
+GO:0010769	GO:2000027	regulation of animal organ morphogenesis	3.548e-04	0.000e+00	4.532e+00	2.939e-05
+GO:0010769	GO:0090175	regulation of establishment of planar polarity	5.045e-03	0.000e+00	4.938e+00	1.153e-05
+GO:0010769	GO:1905330	regulation of morphogenesis of an epithelium	6.743e-03	0.000e+00	4.812e+00	1.543e-05
+GO:0003341	GO:0007018	microtubule-based movement	1.793e-13	0.000e+00	3.050e+00	8.913e-04
+GO:0003341	GO:0003341	cilium movement	2.220e-15	0.000e+00	3.895e+00	1.273e-04
+GO:0003341	GO:0060294	cilium movement involved in cell motility	7.025e-05	0.000e+00	4.066e+00	8.599e-05
+GO:0003341	GO:0035082	axoneme assembly	6.470e-14	0.000e+00	4.514e+00	3.060e-05
+GO:0003341	GO:0001578	microtubule bundle formation	4.043e-10	0.000e+00	4.432e+00	3.696e-05
+GO:0003341	GO:0007019	microtubule depolymerization	3.949e-03	0.000e+00	5.322e+00	4.760e-06
+GO:0003341	GO:0022617	extracellular matrix disassembly	9.527e-03	0.000e+00	5.411e+00	3.880e-06
+GO:0021953	GO:0021953	central nervous system neuron differentiation	5.738e-09	0.000e+00	4.647e+00	2.255e-05
+GO:0021953	GO:0021879	forebrain neuron differentiation	1.765e-07	0.000e+00	5.654e+00	2.220e-06
+GO:0021953	GO:0010001	glial cell differentiation	4.705e-03	0.000e+00	4.610e+00	2.456e-05
+GO:0021953	GO:0001649	osteoblast differentiation	3.282e-03	0.000e+00	4.760e+00	1.739e-05
+GO:0021953	GO:0021872	forebrain generation of neurons	1.000e-05	0.000e+00	6.733e+00	1.847e-07
+GO:0021953	GO:0071542	dopaminergic neuron differentiation	8.799e-04	0.000e+00	5.198e+00	6.345e-06
+GO:0021953	GO:0097154	GABAergic neuron differentiation	6.343e-03	0.000e+00	5.531e+00	2.942e-06
+GO:0021953	GO:0042490	mechanoreceptor differentiation	4.022e-09	0.000e+00	5.242e+00	5.727e-06
+GO:0021953	GO:0060113	inner ear receptor cell differentiation	5.810e-08	0.000e+00	5.383e+00	4.138e-06
+GO:0021953	GO:0042491	inner ear auditory receptor cell differentiation	4.119e-04	0.000e+00	5.490e+00	3.235e-06
+GO:0021953	GO:0035315	hair cell differentiation	4.512e-04	0.000e+00	5.256e+00	5.546e-06
+GO:0021953	GO:0060563	neuroepithelial cell differentiation	8.621e-04	0.000e+00	5.207e+00	6.204e-06
+GO:0021953	GO:0048645	animal organ formation	1.301e-04	0.000e+00	5.326e+00	4.719e-06
+GO:0021953	GO:0048665	neuron fate specification	9.031e-04	0.000e+00	4.629e+00	2.348e-05
+GO:0021953	GO:0001708	cell fate specification	9.844e-03	0.000e+00	4.276e+00	5.298e-05
+GO:0021953	GO:0048663	neuron fate commitment	9.718e-03	0.000e+00	4.972e+00	1.066e-05
+GO:0006813	GO:0035725	sodium ion transmembrane transport	4.310e-06	0.000e+00	3.173e+00	6.721e-04
+GO:0006813	GO:0006813	potassium ion transport	7.411e-09	0.000e+00	2.433e+00	3.687e-03
+GO:0006813	GO:0006814	sodium ion transport	7.474e-05	0.000e+00	2.580e+00	2.633e-03
+GO:0006813	GO:0071805	potassium ion transmembrane transport	7.783e-08	0.000e+00	2.865e+00	1.366e-03
+GO:0006813	GO:0070588	calcium ion transmembrane transport	3.525e-06	0.000e+00	3.104e+00	7.870e-04
+GO:0006813	GO:0006816	calcium ion transport	1.186e-05	0.000e+00	2.832e+00	1.472e-03
+GO:0006813	GO:0097553	calcium ion transmembrane import into cytosol	6.262e-04	0.000e+00	4.219e+00	6.043e-05
+GO:0006813	GO:1902476	chloride transmembrane transport	6.292e-04	0.000e+00	3.172e+00	6.729e-04
+GO:0006813	GO:0098661	inorganic anion transmembrane transport	5.745e-03	0.000e+00	2.729e+00	1.865e-03
+GO:0006813	GO:0006821	chloride transport	4.175e-04	0.000e+00	2.951e+00	1.120e-03
+GO:0006813	GO:0070509	calcium ion import	2.341e-04	0.000e+00	5.376e+00	4.209e-06
+GO:0050806	GO:0050806	positive regulation of synaptic transmission	1.460e-09	0.000e+00	4.655e+00	2.212e-05
+GO:0050806	GO:0060291	long-term synaptic potentiation	7.663e-04	0.000e+00	5.024e+00	9.452e-06
+GO:0050806	GO:0032222	regulation of synaptic transmission, cholinergic	3.989e-05	0.000e+00	4.628e+00	2.357e-05
+GO:0050806	GO:0032228	regulation of synaptic transmission, GABAergic	4.288e-03	0.000e+00	5.279e+00	5.257e-06
+GO:0050806	GO:1900271	regulation of long-term synaptic potentiation	2.379e-03	0.000e+00	5.268e+00	5.401e-06
+GO:0050806	GO:0051966	regulation of synaptic transmission, glutamatergic	2.086e-05	0.000e+00	5.158e+00	6.943e-06
+GO:0050806	GO:0051968	positive regulation of synaptic transmission, glutamatergic	5.848e-03	0.000e+00	5.645e+00	2.264e-06
+GO:0050806	GO:0050805	negative regulation of synaptic transmission	5.171e-09	0.000e+00	5.296e+00	5.058e-06
+GO:0050806	GO:0048167	regulation of synaptic plasticity	3.070e-05	0.000e+00	4.398e+00	4.003e-05
+GO:0050806	GO:0048168	regulation of neuronal synaptic plasticity	7.406e-03	0.000e+00	4.886e+00	1.302e-05
+GO:0050806	GO:0008277	regulation of G protein-coupled receptor signaling pathway	6.611e-06	0.000e+00	4.128e+00	7.443e-05
+GO:0050806	GO:0022400	regulation of rhodopsin mediated signaling pathway	1.148e-04	0.000e+00	5.751e+00	1.773e-06
+GO:0050806	GO:2000050	regulation of non-canonical Wnt signaling pathway	2.053e-03	0.000e+00	5.305e+00	4.958e-06
+GO:0050806	GO:0023058	adaptation of signaling pathway	2.193e-03	0.000e+00	5.652e+00	2.230e-06
+GO:0050806	GO:0016059	deactivation of rhodopsin mediated signaling	7.352e-04	0.000e+00	6.318e+00	4.803e-07
+GO:0050806	GO:0010738	regulation of protein kinase A signaling	2.242e-04	0.000e+00	5.179e+00	6.620e-06
+GO:0050806	GO:0070372	regulation of ERK1 and ERK2 cascade	2.725e-03	0.000e+00	4.324e+00	4.745e-05
+GO:0050806	GO:0043949	regulation of cAMP-mediated signaling	6.795e-03	0.000e+00	5.446e+00	3.584e-06
+GO:0050806	GO:0010739	positive regulation of protein kinase A signaling	7.507e-03	0.000e+00	5.275e+00	5.310e-06
+GO:0050806	GO:0010752	regulation of cGMP-mediated signaling	6.723e-03	0.000e+00	5.814e+00	1.535e-06
+GO:0050806	GO:1902216	positive regulation of interleukin-4-mediated signaling pathway	5.618e-03	0.000e+00	6.461e+00	3.460e-07
+GO:0050806	GO:1902214	regulation of interleukin-4-mediated signaling pathway	8.193e-03	0.000e+00	6.309e+00	4.904e-07
+GO:0007218	GO:0007218	neuropeptide signaling pathway	6.119e-18	0.000e+00	3.743e+00	1.806e-04
+GO:0007218	GO:0007188	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	2.154e-07	0.000e+00	3.962e+00	1.090e-04
+GO:0007218	GO:0007187	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	1.417e-07	0.000e+00	5.373e+00	4.232e-06
+GO:0007218	GO:0007200	phospholipase C-activating G protein-coupled receptor signaling pathway	1.273e-07	0.000e+00	4.534e+00	2.927e-05
+GO:0007218	GO:0007193	adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	2.170e-05	0.000e+00	4.583e+00	2.610e-05
+GO:0007218	GO:0007189	adenylate cyclase-activating G protein-coupled receptor signaling pathway	4.423e-04	0.000e+00	4.386e+00	4.111e-05
+GO:0007218	GO:0016056	rhodopsin mediated signaling pathway	2.044e-07	0.000e+00	6.202e+00	6.281e-07
+GO:0007218	GO:0071214	cellular response to abiotic stimulus	5.749e-03	0.000e+00	3.697e+00	2.011e-04
+GO:0007218	GO:0104004	cellular response to environmental stimulus	5.749e-03	0.000e+00	3.697e+00	2.011e-04
+GO:0050770	GO:0050770	regulation of axonogenesis	9.469e-05	0.000e+00	4.611e+00	2.449e-05
+GO:0050770	GO:0031346	positive regulation of cell projection organization	2.730e-04	0.000e+00	4.267e+00	5.411e-05
+GO:0050770	GO:0010976	positive regulation of neuron projection development	3.282e-03	0.000e+00	4.716e+00	1.924e-05
+GO:0050770	GO:1902667	regulation of axon guidance	9.031e-04	0.000e+00	5.442e+00	3.614e-06
+GO:0050770	GO:0050920	regulation of chemotaxis	3.616e-03	0.000e+00	4.114e+00	7.696e-05
+GO:0050770	GO:0030516	regulation of axon extension	1.387e-03	0.000e+00	4.846e+00	1.426e-05
+GO:0050770	GO:0061387	regulation of extent of cell growth	9.469e-04	0.000e+00	4.750e+00	1.778e-05
+GO:0050770	GO:1901888	regulation of cell junction assembly	2.159e-03	0.000e+00	4.221e+00	6.012e-05
+GO:0050770	GO:0050807	regulation of synapse organization	2.129e-03	0.000e+00	4.158e+00	6.951e-05
+GO:0050770	GO:0051963	regulation of synapse assembly	4.410e-03	0.000e+00	4.353e+00	4.431e-05
+GO:0007156	GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	3.215e-10	0.000e+00	3.331e+00	4.664e-04
+GO:0007156	GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	3.481e-13	0.000e+00	3.357e+00	4.396e-04
+GO:0007156	GO:0007157	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	1.782e-04	0.000e+00	4.879e+00	1.322e-05
+GO:0007156	GO:0016339	calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules	8.859e-03	0.000e+00	5.335e+00	4.625e-06
+GO:0007156	GO:0007158	neuron cell-cell adhesion	6.446e-03	0.000e+00	5.735e+00	1.841e-06
+GO:0007156	GO:0061343	cell adhesion involved in heart morphogenesis	6.057e-04	0.000e+00	5.837e+00	1.454e-06
+GO:0007498	GO:0007498	mesoderm development	2.536e-04	0.000e+00	4.846e+00	1.427e-05
+GO:0007498	GO:0030282	bone mineralization	9.468e-03	0.000e+00	4.816e+00	1.529e-05
+GO:0007498	GO:0001657	ureteric bud development	1.054e-03	0.000e+00	5.179e+00	6.617e-06
+GO:0007498	GO:0072164	mesonephric tubule development	1.221e-03	0.000e+00	5.069e+00	8.538e-06
+GO:0007498	GO:0021915	neural tube development	5.144e-03	0.000e+00	5.117e+00	7.631e-06
+GO:0007498	GO:0072163	mesonephric epithelium development	1.221e-03	0.000e+00	5.055e+00	8.807e-06
+GO:0007498	GO:0072170	metanephric tubule development	9.229e-03	0.000e+00	5.586e+00	2.596e-06
+GO:0007498	GO:0072234	metanephric nephron tubule development	3.139e-03	0.000e+00	5.647e+00	2.254e-06
+GO:0007498	GO:0072243	metanephric nephron epithelium development	9.229e-03	0.000e+00	5.627e+00	2.358e-06
+GO:0007618	GO:0007618	mating	3.724e-10	0.000e+00	5.936e+00	1.159e-06
+GO:0007618	GO:0046692	sperm competition	4.783e-04	0.000e+00	5.988e+00	1.028e-06
+GO:0007618	GO:0044706	multi-multicellular organism process	5.182e-03	0.000e+00	5.063e+00	8.649e-06
+GO:0007618	GO:0007320	insemination	6.643e-05	0.000e+00	6.425e+00	3.762e-07
+GO:0007618	GO:0046693	sperm storage	9.191e-04	0.000e+00	6.343e+00	4.534e-07
+GO:0007618	GO:0019098	reproductive behavior	4.632e-09	0.000e+00	4.827e+00	1.489e-05
+GO:0007618	GO:0007617	mating behavior	8.758e-08	0.000e+00	5.010e+00	9.774e-06
+GO:0007618	GO:0018991	egg-laying behavior	5.645e-04	0.000e+00	5.786e+00	1.636e-06
+GO:0007618	GO:0007619	courtship behavior	2.785e-04	0.000e+00	5.392e+00	4.051e-06
+GO:0007618	GO:0007620	copulation	1.031e-04	0.000e+00	6.306e+00	4.938e-07
+GO:0007618	GO:0007340	acrosome reaction	8.325e-04	0.000e+00	5.575e+00	2.664e-06
+GO:0007618	GO:0060179	male mating behavior	9.142e-06	0.000e+00	5.339e+00	4.582e-06
+GO:0007618	GO:0008049	male courtship behavior	3.185e-04	0.000e+00	5.504e+00	3.130e-06
+GO:0099111	GO:0099111	microtubule-based transport	5.277e-04	0.000e+00	3.938e+00	1.154e-04
+GO:0099111	GO:0035721	intraciliary retrograde transport	1.586e-03	0.000e+00	4.686e+00	2.061e-05
+GO:0048675	GO:1990138	neuron projection extension	3.919e-03	0.000e+00	4.751e+00	1.776e-05
+GO:0048675	GO:0048675	axon extension	1.586e-03	0.000e+00	4.904e+00	1.248e-05
+GO:0048675	GO:0060560	developmental growth involved in morphogenesis	4.183e-03	0.000e+00	4.339e+00	4.584e-05
+GO:0048675	GO:0048588	developmental cell growth	6.216e-03	0.000e+00	4.490e+00	3.238e-05
+GO:0051588	GO:0051588	regulation of neurotransmitter transport	5.450e-10	0.000e+00	4.783e+00	1.649e-05
+GO:0051588	GO:0046928	regulation of neurotransmitter secretion	2.189e-07	0.000e+00	4.862e+00	1.375e-05
+GO:0051588	GO:0051589	negative regulation of neurotransmitter transport	4.680e-05	0.000e+00	5.582e+00	2.617e-06
+GO:0051588	GO:0046929	negative regulation of neurotransmitter secretion	9.272e-04	0.000e+00	5.654e+00	2.217e-06
+GO:0031644	GO:0031644	regulation of nervous system process	1.298e-07	0.000e+00	4.758e+00	1.747e-05
+GO:0031644	GO:0098815	modulation of excitatory postsynaptic potential	5.816e-04	0.000e+00	5.334e+00	4.635e-06
+GO:0031644	GO:0031645	negative regulation of nervous system process	2.599e-04	0.000e+00	5.784e+00	1.646e-06
+GO:0031644	GO:0090394	negative regulation of excitatory postsynaptic potential	4.133e-03	0.000e+00	5.973e+00	1.065e-06
+GO:0031644	GO:0006937	regulation of muscle contraction	1.121e-05	0.000e+00	4.138e+00	7.281e-05
+GO:0031644	GO:0090257	regulation of muscle system process	4.191e-04	0.000e+00	4.069e+00	8.535e-05
+GO:0031644	GO:1903522	regulation of blood circulation	8.215e-06	0.000e+00	4.037e+00	9.184e-05
+GO:0031644	GO:0008016	regulation of heart contraction	2.223e-04	0.000e+00	4.262e+00	5.473e-05
+GO:0031644	GO:0034103	regulation of tissue remodeling	8.698e-03	0.000e+00	4.991e+00	1.022e-05
+GO:0031644	GO:0044060	regulation of endocrine process	4.173e-04	0.000e+00	5.122e+00	7.547e-06
+GO:0031644	GO:0051931	regulation of sensory perception	1.128e-03	0.000e+00	5.439e+00	3.638e-06
+GO:0031644	GO:0051930	regulation of sensory perception of pain	2.312e-03	0.000e+00	5.477e+00	3.332e-06
+GO:0031644	GO:0061337	cardiac conduction	3.070e-05	0.000e+00	5.066e+00	8.599e-06
+GO:0031644	GO:0002027	regulation of heart rate	1.221e-03	0.000e+00	4.757e+00	1.750e-05
+GO:0031644	GO:0098801	regulation of renal system process	1.132e-03	0.000e+00	5.399e+00	3.994e-06
+GO:0031644	GO:0035815	positive regulation of renal sodium excretion	5.641e-03	0.000e+00	6.228e+00	5.912e-07
+GO:0042471	GO:0048562	embryonic organ morphogenesis	5.103e-05	0.000e+00	4.466e+00	3.419e-05
+GO:0042471	GO:0042471	ear morphogenesis	7.159e-09	0.000e+00	5.961e+00	1.095e-06
+GO:0042471	GO:0042472	inner ear morphogenesis	1.003e-08	0.000e+00	4.894e+00	1.278e-05
+GO:0042471	GO:0060713	labyrinthine layer morphogenesis	3.548e-04	0.000e+00	6.453e+00	3.527e-07
+GO:0042471	GO:0060669	embryonic placenta morphogenesis	5.487e-04	0.000e+00	6.292e+00	5.106e-07
+GO:0042471	GO:0003007	heart morphogenesis	3.784e-05	0.000e+00	4.952e+00	1.117e-05
+GO:0042471	GO:0048593	camera-type eye morphogenesis	2.152e-03	0.000e+00	5.395e+00	4.031e-06
+GO:0042471	GO:0060443	mammary gland morphogenesis	2.785e-04	0.000e+00	6.448e+00	3.560e-07
+GO:0042471	GO:0001736	establishment of planar polarity	1.830e-07	0.000e+00	4.731e+00	1.860e-05
+GO:0042471	GO:0007164	establishment of tissue polarity	2.281e-07	0.000e+00	4.728e+00	1.870e-05
+GO:0042471	GO:0060042	retina morphogenesis in camera-type eye	2.404e-03	0.000e+00	5.386e+00	4.111e-06
+GO:0042471	GO:0003151	outflow tract morphogenesis	9.707e-03	0.000e+00	5.077e+00	8.377e-06
+GO:0042471	GO:0021575	hindbrain morphogenesis	7.061e-03	0.000e+00	5.918e+00	1.209e-06
+GO:0042471	GO:0060411	cardiac septum morphogenesis	7.610e-03	0.000e+00	4.851e+00	1.410e-05
+GO:0042471	GO:0001738	morphogenesis of a polarized epithelium	1.394e-06	0.000e+00	5.900e+00	1.260e-06
+GO:0042471	GO:0003146	heart jogging	7.610e-03	0.000e+00	5.677e+00	2.103e-06
+GO:0042471	GO:0060603	mammary gland duct morphogenesis	7.583e-03	0.000e+00	6.064e+00	8.632e-07
+GO:0060285	GO:0001539	cilium or flagellum-dependent cell motility	8.583e-07	0.000e+00	2.803e+00	1.574e-03
+GO:0060285	GO:0060285	cilium-dependent cell motility	8.583e-07	0.000e+00	4.552e+00	2.806e-05
+GO:0060285	GO:0001764	neuron migration	7.742e-03	0.000e+00	4.370e+00	4.269e-05
+GO:0060285	GO:0030317	flagellated sperm motility	2.956e-03	0.000e+00	4.624e+00	2.377e-05
+GO:0060285	GO:0097722	sperm motility	3.457e-03	0.000e+00	4.623e+00	2.382e-05
+GO:0060285	GO:0022029	telencephalon cell migration	9.844e-03	0.000e+00	5.160e+00	6.919e-06
+GO:0015837	GO:0015837	amine transport	1.003e-08	0.000e+00	4.965e+00	1.084e-05
+GO:0051592	GO:0051592	response to calcium ion	1.011e-07	0.000e+00	4.540e+00	2.884e-05
+GO:0051592	GO:0009415	response to water	1.032e-03	0.000e+00	4.279e+00	5.259e-05
+GO:0051592	GO:0001101	response to acid chemical	7.308e-04	0.000e+00	4.031e+00	9.320e-05
+GO:0051592	GO:0045471	response to ethanol	9.138e-03	0.000e+00	5.172e+00	6.724e-06
+GO:0051592	GO:0042220	response to cocaine	3.038e-05	0.000e+00	5.536e+00	2.909e-06
+GO:0051592	GO:0043279	response to alkaloid	2.591e-05	0.000e+00	5.002e+00	9.962e-06
+GO:0051592	GO:0071294	cellular response to zinc ion	6.221e-03	0.000e+00	5.746e+00	1.794e-06
+GO:0051592	GO:1905145	cellular response to acetylcholine	8.775e-03	0.000e+00	6.367e+00	4.299e-07
+GO:0051592	GO:1905144	response to acetylcholine	8.775e-03	0.000e+00	6.118e+00	7.625e-07
+GO:0051592	GO:0060359	response to ammonium ion	8.405e-07	0.000e+00	5.867e+00	1.357e-06
+GO:0051592	GO:0071242	cellular response to ammonium ion	9.844e-03	0.000e+00	6.046e+00	9.002e-07
+GO:0051592	GO:0071322	cellular response to carbohydrate stimulus	2.002e-03	0.000e+00	4.950e+00	1.121e-05
+GO:0051592	GO:0009743	response to carbohydrate	3.218e-03	0.000e+00	4.318e+00	4.812e-05
+GO:0051592	GO:0071326	cellular response to monosaccharide stimulus	6.449e-03	0.000e+00	5.030e+00	9.324e-06
+GO:0051592	GO:0071333	cellular response to glucose stimulus	6.802e-03	0.000e+00	5.054e+00	8.837e-06
+GO:0051592	GO:0001678	intracellular glucose homeostasis	5.492e-03	0.000e+00	4.121e+00	7.566e-05
+GO:0051592	GO:0042593	glucose homeostasis	6.868e-03	0.000e+00	3.995e+00	1.012e-04
+GO:0051592	GO:0033500	carbohydrate homeostasis	4.157e-03	0.000e+00	3.992e+00	1.020e-04
+GO:0051592	GO:0071331	cellular response to hexose stimulus	7.958e-03	0.000e+00	5.034e+00	9.257e-06
+GO:0051592	GO:0051384	response to glucocorticoid	2.262e-04	0.000e+00	4.974e+00	1.063e-05
+GO:0051592	GO:0031960	response to corticosteroid	2.354e-04	0.000e+00	4.907e+00	1.238e-05
+GO:0051592	GO:0071869	response to catecholamine	2.282e-04	0.000e+00	5.429e+00	3.722e-06
+GO:0051592	GO:0071870	cellular response to catecholamine stimulus	1.301e-04	0.000e+00	5.478e+00	3.329e-06
+GO:0051592	GO:0071868	cellular response to monoamine stimulus	1.301e-04	0.000e+00	5.450e+00	3.547e-06
+GO:0051592	GO:0071867	response to monoamine	1.379e-04	0.000e+00	5.391e+00	4.064e-06
+GO:0051592	GO:1903351	cellular response to dopamine	3.113e-04	0.000e+00	5.827e+00	1.488e-06
+GO:0051592	GO:1903350	response to dopamine	3.853e-04	0.000e+00	5.820e+00	1.515e-06
+GO:0051592	GO:0001975	response to amphetamine	8.701e-04	0.000e+00	5.478e+00	3.325e-06
+GO:0051592	GO:0014075	response to amine	9.435e-04	0.000e+00	5.426e+00	3.752e-06
+GO:0051592	GO:0072347	response to anesthetic	3.836e-05	0.000e+00	6.231e+00	5.878e-07
+GO:0051592	GO:0071248	cellular response to metal ion	9.328e-05	0.000e+00	4.445e+00	3.591e-05
+GO:0051592	GO:0071241	cellular response to inorganic substance	1.740e-04	0.000e+00	4.385e+00	4.124e-05
+GO:0051592	GO:0071277	cellular response to calcium ion	2.312e-03	0.000e+00	4.755e+00	1.758e-05
+GO:0097164	GO:0097164	ammonium ion metabolic process	5.438e-03	0.000e+00	3.730e+00	1.862e-04
+GO:0007215	GO:0007215	glutamate receptor signaling pathway	1.026e-06	0.000e+00	3.783e+00	1.648e-04
+GO:0007215	GO:0035235	ionotropic glutamate receptor signaling pathway	3.154e-03	0.000e+00	3.856e+00	1.393e-04
+GO:0007215	GO:0035567	non-canonical Wnt signaling pathway	2.242e-03	0.000e+00	4.881e+00	1.316e-05
+GO:0007215	GO:0060071	Wnt signaling pathway, planar cell polarity pathway	9.229e-03	0.000e+00	5.120e+00	7.578e-06
+GO:0007215	GO:0060333	type II interferon-mediated signaling pathway	1.300e-03	0.000e+00	5.432e+00	3.701e-06
+GO:0007215	GO:0035771	interleukin-4-mediated signaling pathway	5.968e-03	0.000e+00	5.935e+00	1.162e-06
+GO:0007271	GO:0007271	synaptic transmission, cholinergic	2.189e-07	0.000e+00	5.342e+00	4.555e-06
+GO:0007271	GO:0035249	synaptic transmission, glutamatergic	1.907e-05	0.000e+00	5.249e+00	5.633e-06
+GO:0007271	GO:0007274	neuromuscular synaptic transmission	2.472e-05	0.000e+00	5.224e+00	5.975e-06
+GO:0007271	GO:0051932	synaptic transmission, GABAergic	3.235e-04	0.000e+00	5.585e+00	2.600e-06
+GO:0007271	GO:0016204	determination of muscle attachment site	6.568e-03	0.000e+00	6.587e+00	2.586e-07
+GO:0048489	GO:0097479	synaptic vesicle localization	2.472e-03	0.000e+00	5.135e+00	7.329e-06
+GO:0048489	GO:0048489	synaptic vesicle transport	3.282e-03	0.000e+00	5.262e+00	5.468e-06
+GO:0048489	GO:0097480	establishment of synaptic vesicle localization	8.383e-03	0.000e+00	8.474e+00	3.359e-09
+GO:0060119	GO:0060119	inner ear receptor cell development	8.992e-08	0.000e+00	5.341e+00	4.561e-06
+GO:0060119	GO:0060117	auditory receptor cell development	4.496e-04	0.000e+00	5.793e+00	1.609e-06
+GO:0060119	GO:0021954	central nervous system neuron development	1.404e-05	0.000e+00	5.190e+00	6.452e-06
+GO:0060119	GO:0021884	forebrain neuron development	8.597e-05	0.000e+00	5.543e+00	2.865e-06
+GO:0060119	GO:0060856	establishment of blood-brain barrier	2.833e-05	0.000e+00	5.521e+00	3.016e-06
+GO:0060119	GO:0060857	establishment of glial blood-brain barrier	1.120e-04	0.000e+00	5.988e+00	1.028e-06
+GO:0060119	GO:0021782	glial cell development	1.195e-04	0.000e+00	4.918e+00	1.208e-05
+GO:0035418	GO:1902414	protein localization to cell junction	4.481e-03	0.000e+00	4.859e+00	1.382e-05
+GO:0035418	GO:0035418	protein localization to synapse	3.421e-03	0.000e+00	5.039e+00	9.146e-06
+GO:0006858	GO:0006858	extracellular transport	4.229e-06	0.000e+00	4.988e+00	1.028e-05
+GO:0006858	GO:0003351	epithelial cilium movement involved in extracellular fluid movement	1.703e-04	0.000e+00	5.014e+00	9.674e-06
+GO:0051703	GO:0051703	biological process involved in intraspecies interaction between organisms	2.240e-04	0.000e+00	4.465e+00	3.425e-05
+GO:0051703	GO:0035176	social behavior	9.879e-04	0.000e+00	5.125e+00	7.500e-06
+GO:0055078	GO:0055078	sodium ion homeostasis	2.044e-07	0.000e+00	5.102e+00	7.914e-06
+GO:0055078	GO:0055075	potassium ion homeostasis	1.586e-03	0.000e+00	4.676e+00	2.107e-05
+GO:0055078	GO:0051480	regulation of cytosolic calcium ion concentration	5.607e-07	0.000e+00	4.989e+00	1.026e-05
+GO:0055078	GO:0006874	intracellular calcium ion homeostasis	1.560e-06	0.000e+00	3.816e+00	1.528e-04
+GO:0055078	GO:0099566	regulation of postsynaptic cytosolic calcium ion concentration	9.272e-04	0.000e+00	5.765e+00	1.716e-06
+GO:0044062	GO:0044062	regulation of excretion	7.769e-07	0.000e+00	5.747e+00	1.790e-06
+GO:0044062	GO:0035813	regulation of renal sodium excretion	2.893e-04	0.000e+00	6.014e+00	9.674e-07
+GO:0044062	GO:2000292	regulation of defecation	9.229e-03	0.000e+00	6.387e+00	4.098e-07
+GO:0044062	GO:0051048	negative regulation of secretion	6.528e-07	0.000e+00	4.404e+00	3.943e-05
+GO:0044062	GO:1903531	negative regulation of secretion by cell	3.311e-05	0.000e+00	4.435e+00	3.675e-05
+GO:0044062	GO:0050709	negative regulation of protein secretion	3.552e-04	0.000e+00	4.627e+00	2.361e-05
+GO:0044062	GO:1904950	negative regulation of establishment of protein localization	2.242e-03	0.000e+00	4.342e+00	4.551e-05
+GO:0044062	GO:0051051	negative regulation of transport	3.035e-04	0.000e+00	3.916e+00	1.214e-04
+GO:0044062	GO:0051224	negative regulation of protein transport	1.805e-03	0.000e+00	4.347e+00	4.498e-05
+GO:0044062	GO:0043271	negative regulation of monoatomic ion transport	9.718e-03	0.000e+00	4.460e+00	3.468e-05
+GO:0044062	GO:0046883	regulation of hormone secretion	1.368e-06	0.000e+00	4.304e+00	4.965e-05
+GO:0044062	GO:0090276	regulation of peptide hormone secretion	9.856e-06	0.000e+00	4.436e+00	3.666e-05
+GO:0044062	GO:0002791	regulation of peptide secretion	3.377e-04	0.000e+00	4.431e+00	3.709e-05
+GO:0044062	GO:0050796	regulation of insulin secretion	5.816e-04	0.000e+00	4.524e+00	2.992e-05
+GO:0044062	GO:0050708	regulation of protein secretion	3.003e-03	0.000e+00	4.224e+00	5.964e-05
+GO:0044062	GO:0017158	regulation of calcium ion-dependent exocytosis	1.563e-04	0.000e+00	5.209e+00	6.177e-06
+GO:0044062	GO:1903305	regulation of regulated secretory pathway	1.133e-03	0.000e+00	4.715e+00	1.930e-05
+GO:0044062	GO:0017157	regulation of exocytosis	7.088e-03	0.000e+00	4.478e+00	3.324e-05
+GO:0044062	GO:0051047	positive regulation of secretion	2.028e-04	0.000e+00	4.259e+00	5.510e-05
+GO:0044062	GO:1903532	positive regulation of secretion by cell	1.927e-03	0.000e+00	4.311e+00	4.886e-05
+GO:0044062	GO:0046888	negative regulation of hormone secretion	4.335e-05	0.000e+00	4.989e+00	1.026e-05
+GO:0044062	GO:0045746	negative regulation of Notch signaling pathway	8.104e-03	0.000e+00	4.889e+00	1.290e-05
+GO:0044062	GO:0090278	negative regulation of peptide hormone secretion	3.275e-04	0.000e+00	5.117e+00	7.645e-06
+GO:0044062	GO:0002792	negative regulation of peptide secretion	1.105e-03	0.000e+00	5.106e+00	7.840e-06
+GO:0044062	GO:0046676	negative regulation of insulin secretion	4.564e-04	0.000e+00	5.194e+00	6.392e-06
+GO:0044062	GO:0060336	negative regulation of type II interferon-mediated signaling pathway	8.775e-03	0.000e+00	6.000e+00	1.001e-06
+GO:0044062	GO:0060334	regulation of type II interferon-mediated signaling pathway	6.221e-03	0.000e+00	5.645e+00	2.267e-06
+GO:0044062	GO:0060330	regulation of response to type II interferon	6.221e-03	0.000e+00	5.585e+00	2.600e-06
+GO:0044062	GO:0060331	negative regulation of response to type II interferon	8.775e-03	0.000e+00	6.000e+00	1.001e-06
+GO:0044062	GO:0021914	negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning	6.568e-03	0.000e+00	6.343e+00	4.534e-07
+GO:0061512	GO:0061512	protein localization to cilium	5.817e-03	0.000e+00	4.891e+00	1.286e-05
+GO:0010463	GO:0010463	mesenchymal cell proliferation	1.440e-03	0.000e+00	5.262e+00	5.465e-06
+GO:0045761	GO:0031279	regulation of cyclase activity	2.719e-06	0.000e+00	4.600e+00	2.511e-05
+GO:0045761	GO:0045761	regulation of adenylate cyclase activity	2.931e-07	0.000e+00	4.641e+00	2.286e-05
+GO:0045761	GO:0051339	regulation of lyase activity	1.121e-05	0.000e+00	4.593e+00	2.553e-05
+GO:0045761	GO:0051349	positive regulation of lyase activity	4.967e-03	0.000e+00	5.294e+00	5.085e-06
+GO:0045761	GO:0045762	positive regulation of adenylate cyclase activity	3.109e-04	0.000e+00	5.455e+00	3.507e-06
+GO:0045761	GO:1900274	regulation of phospholipase C activity	9.469e-05	0.000e+00	5.353e+00	4.434e-06
+GO:0045761	GO:0010863	positive regulation of phospholipase C activity	2.826e-04	0.000e+00	5.376e+00	4.209e-06
+GO:0045761	GO:0007202	activation of phospholipase C activity	8.325e-04	0.000e+00	5.540e+00	2.885e-06
+GO:0045761	GO:0010518	positive regulation of phospholipase activity	8.799e-04	0.000e+00	5.183e+00	6.563e-06
+GO:0045761	GO:0060193	positive regulation of lipase activity	1.440e-03	0.000e+00	5.066e+00	8.595e-06
+GO:0045761	GO:0060191	regulation of lipase activity	8.193e-03	0.000e+00	4.918e+00	1.208e-05
+GO:0045761	GO:0010517	regulation of phospholipase activity	6.621e-03	0.000e+00	5.082e+00	8.273e-06
+GO:0042531	GO:0042509	regulation of tyrosine phosphorylation of STAT protein	1.371e-03	0.000e+00	4.920e+00	1.203e-05
+GO:0042531	GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	7.302e-05	0.000e+00	5.056e+00	8.783e-06
+GO:0042531	GO:0010799	regulation of peptidyl-threonine phosphorylation	3.313e-03	0.000e+00	4.430e+00	3.717e-05
+GO:0042531	GO:0070875	positive regulation of glycogen metabolic process	7.610e-03	0.000e+00	5.552e+00	2.805e-06
+GO:0042531	GO:2000479	regulation of cAMP-dependent protein kinase activity	5.369e-03	0.000e+00	5.226e+00	5.945e-06
+GO:0042531	GO:0045666	positive regulation of neuron differentiation	2.259e-04	0.000e+00	4.572e+00	2.680e-05
+GO:0042531	GO:0010721	negative regulation of cell development	5.601e-04	0.000e+00	4.335e+00	4.620e-05
+GO:0042531	GO:0045668	negative regulation of osteoblast differentiation	8.799e-04	0.000e+00	5.095e+00	8.038e-06
+GO:0042531	GO:0050768	negative regulation of neurogenesis	2.725e-03	0.000e+00	4.644e+00	2.272e-05
+GO:0042531	GO:0051961	negative regulation of nervous system development	1.494e-03	0.000e+00	4.595e+00	2.540e-05
+GO:0042531	GO:0045667	regulation of osteoblast differentiation	1.698e-03	0.000e+00	4.635e+00	2.318e-05
+GO:0042531	GO:0030501	positive regulation of bone mineralization	2.312e-03	0.000e+00	5.146e+00	7.148e-06
+GO:0042531	GO:0045778	positive regulation of ossification	1.664e-03	0.000e+00	5.003e+00	9.929e-06
+GO:0042531	GO:0030278	regulation of ossification	9.879e-04	0.000e+00	4.589e+00	2.575e-05
+GO:0042531	GO:0030279	negative regulation of ossification	4.672e-03	0.000e+00	5.164e+00	6.862e-06
+GO:0042531	GO:0070169	positive regulation of biomineral tissue development	6.321e-03	0.000e+00	5.030e+00	9.334e-06
+GO:0046068	GO:0046068	cGMP metabolic process	2.294e-04	0.000e+00	4.081e+00	8.298e-05
+GO:0046068	GO:0009187	cyclic nucleotide metabolic process	6.021e-04	0.000e+00	3.120e+00	7.578e-04
+GO:0046068	GO:0052652	cyclic purine nucleotide metabolic process	6.221e-03	0.000e+00	3.539e+00	2.893e-04
+GO:0014046	GO:0050432	catecholamine secretion	7.050e-08	0.000e+00	5.958e+00	1.102e-06
+GO:0014046	GO:0014046	dopamine secretion	9.132e-09	0.000e+00	6.211e+00	6.147e-07
+GO:0014046	GO:0015844	monoamine transport	8.759e-07	0.000e+00	4.587e+00	2.588e-05
+GO:0014046	GO:0051937	catecholamine transport	5.119e-06	0.000e+00	4.999e+00	1.003e-05
+GO:0014046	GO:0015872	dopamine transport	7.735e-06	0.000e+00	5.239e+00	5.774e-06
+GO:0014046	GO:0046879	hormone secretion	1.397e-07	0.000e+00	4.625e+00	2.373e-05
+GO:0014046	GO:0009914	hormone transport	3.529e-07	0.000e+00	4.272e+00	5.352e-05
+GO:0014046	GO:0030072	peptide hormone secretion	5.180e-07	0.000e+00	4.709e+00	1.954e-05
+GO:0014046	GO:0099643	signal release from synapse	1.086e-06	0.000e+00	4.261e+00	5.480e-05
+GO:0014046	GO:0030073	insulin secretion	3.038e-05	0.000e+00	4.804e+00	1.570e-05
+GO:0014046	GO:0014047	glutamate secretion	1.332e-04	0.000e+00	6.072e+00	8.464e-07
+GO:0014046	GO:0015800	acidic amino acid transport	7.434e-04	0.000e+00	4.313e+00	4.859e-05
+GO:0014046	GO:0006865	amino acid transport	9.469e-04	0.000e+00	2.451e+00	3.543e-03
+GO:0014046	GO:0060986	endocrine hormone secretion	1.221e-03	0.000e+00	5.596e+00	2.536e-06
+GO:0014046	GO:0048791	calcium ion-regulated exocytosis of neurotransmitter	1.871e-05	0.000e+00	5.586e+00	2.596e-06
+GO:0014046	GO:0099003	vesicle-mediated transport in synapse	1.064e-05	0.000e+00	4.379e+00	4.180e-05
+GO:0014046	GO:0016079	synaptic vesicle exocytosis	5.605e-04	0.000e+00	4.505e+00	3.125e-05
+GO:0014046	GO:0099504	synaptic vesicle cycle	1.132e-04	0.000e+00	6.135e+00	7.322e-07
+GO:0014046	GO:0031623	receptor internalization	5.892e-03	0.000e+00	4.803e+00	1.574e-05
+GO:0014046	GO:0007589	body fluid secretion	6.067e-04	0.000e+00	4.905e+00	1.244e-05
+GO:0014046	GO:0017156	calcium-ion regulated exocytosis	4.590e-03	0.000e+00	4.500e+00	3.160e-05
+GO:0014046	GO:0046717	acid secretion	2.223e-04	0.000e+00	5.188e+00	6.479e-06
+GO:0014046	GO:0014051	gamma-aminobutyric acid secretion	2.330e-03	0.000e+00	6.120e+00	7.591e-07
+GO:0086003	GO:0030048	actin filament-based movement	3.986e-03	0.000e+00	4.488e+00	3.249e-05
+GO:0086003	GO:0086003	cardiac muscle cell contraction	2.355e-03	0.000e+00	6.164e+00	6.852e-07
+GO:0032291	GO:0032291	axon ensheathment in central nervous system	5.816e-04	0.000e+00	5.569e+00	2.701e-06
+GO:0032291	GO:0022010	central nervous system myelination	3.284e-03	0.000e+00	5.585e+00	2.600e-06
+GO:0007210	GO:0007210	serotonin receptor signaling pathway	1.434e-04	0.000e+00	4.360e+00	4.367e-05
+GO:0007210	GO:0098664	G protein-coupled serotonin receptor signaling pathway	2.193e-03	0.000e+00	4.376e+00	4.206e-05
+GO:0045161	GO:0045161	neuronal ion channel clustering	1.698e-03	0.000e+00	5.158e+00	6.956e-06
+GO:0016199	GO:0016199	axon midline choice point recognition	9.245e-05	0.000e+00	5.117e+00	7.631e-06
+GO:0016199	GO:0016198	axon choice point recognition	1.623e-04	0.000e+00	5.091e+00	8.118e-06
+GO:0016199	GO:0008038	neuron recognition	7.557e-04	0.000e+00	4.768e+00	1.706e-05
+GO:0016199	GO:0008037	cell recognition	6.229e-03	0.000e+00	3.843e+00	1.436e-04
+GO:0018200	GO:0007260	tyrosine phosphorylation of STAT protein	1.781e-03	0.000e+00	5.670e+00	2.136e-06
+GO:0018200	GO:0018200	peptidyl-glutamic acid modification	6.822e-04	0.000e+00	4.249e+00	5.631e-05
+GO:0018200	GO:0018095	protein polyglutamylation	2.008e-03	0.000e+00	4.969e+00	1.075e-05
+GO:0018200	GO:0018119	peptidyl-cysteine S-nitrosylation	9.961e-03	0.000e+00	6.114e+00	7.692e-07
+GO:0070212	GO:0070212	protein poly-ADP-ribosylation	3.237e-03	0.000e+00	5.910e+00	1.229e-06
+GO:0015870	GO:0015870	acetylcholine transport	6.367e-03	0.000e+00	6.005e+00	9.875e-07
+GO:0015870	GO:0015871	choline transport	7.507e-03	0.000e+00	4.404e+00	3.941e-05
+GO:0042045	GO:0042045	epithelial fluid transport	2.053e-03	0.000e+00	5.663e+00	2.173e-06
+GO:0015812	GO:0015812	gamma-aminobutyric acid transport	4.012e-03	0.000e+00	4.648e+00	2.249e-05
+GO:0070977	GO:0048799	animal organ maturation	3.237e-03	0.000e+00	6.114e+00	7.692e-07
+GO:0070977	GO:0070977	bone maturation	5.968e-03	0.000e+00	6.623e+00	2.385e-07
+GO:0003356	GO:0003356	regulation of cilium beat frequency	7.507e-03	0.000e+00	5.476e+00	3.345e-06
+GO:0003356	GO:0007026	negative regulation of microtubule depolymerization	8.775e-03	0.000e+00	5.330e+00	4.676e-06
+GO:0003356	GO:0031114	regulation of microtubule depolymerization	4.635e-03	0.000e+00	5.028e+00	9.371e-06
+GO:0003356	GO:0003352	regulation of cilium movement	6.221e-03	0.000e+00	4.846e+00	1.426e-05
+GO:0003356	GO:0060632	regulation of microtubule-based movement	9.229e-03	0.000e+00	4.791e+00	1.618e-05

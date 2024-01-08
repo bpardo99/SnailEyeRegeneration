@@ -1,0 +1,142 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0003729	GO:0003729	mRNA binding	1.023e-32	0.000e+00	2.013e+00	9.698e-03
+GO:0003729	GO:0019843	rRNA binding	6.268e-15	0.000e+00	2.101e+00	7.923e-03
+GO:0003729	GO:0003730	mRNA 3'-UTR binding	5.957e-04	0.000e+00	4.368e+00	4.289e-05
+GO:0003729	GO:0000049	tRNA binding	5.489e-05	0.000e+00	2.488e+00	3.249e-03
+GO:0003729	GO:0036002	pre-mRNA binding	1.026e-05	0.000e+00	3.846e+00	1.427e-04
+GO:0003729	GO:0048027	mRNA 5'-UTR binding	1.795e-05	0.000e+00	4.339e+00	4.581e-05
+GO:0003729	GO:1990825	sequence-specific mRNA binding	4.509e-04	0.000e+00	5.721e+00	1.901e-06
+GO:0003729	GO:0017069	snRNA binding	1.699e-10	0.000e+00	3.490e+00	3.236e-04
+GO:0003729	GO:0017070	U6 snRNA binding	7.639e-05	0.000e+00	4.425e+00	3.759e-05
+GO:0003729	GO:0030620	U2 snRNA binding	5.749e-04	0.000e+00	4.997e+00	1.008e-05
+GO:0003729	GO:0008135	translation factor activity, RNA binding	1.991e-13	0.000e+00	2.352e+00	4.446e-03
+GO:0003729	GO:0090079	translation regulator activity, nucleic acid binding	2.322e-12	0.000e+00	2.351e+00	4.453e-03
+GO:0003729	GO:0045182	translation regulator activity	4.586e-12	0.000e+00	2.346e+00	4.510e-03
+GO:0003729	GO:0003746	translation elongation factor activity	1.664e-03	0.000e+00	2.684e+00	2.072e-03
+GO:0003729	GO:0003743	translation initiation factor activity	4.586e-12	0.000e+00	2.752e+00	1.771e-03
+GO:0003729	GO:0030515	snoRNA binding	1.361e-07	0.000e+00	4.233e+00	5.844e-05
+GO:0003729	GO:0034511	U3 snoRNA binding	7.576e-05	0.000e+00	4.995e+00	1.011e-05
+GO:0003729	GO:0070181	small ribosomal subunit rRNA binding	5.749e-04	0.000e+00	4.118e+00	7.613e-05
+GO:0003729	GO:0070180	large ribosomal subunit rRNA binding	3.442e-03	0.000e+00	3.733e+00	1.849e-04
+GO:0003729	GO:0003727	single-stranded RNA binding	1.385e-09	0.000e+00	3.956e+00	1.106e-04
+GO:0003729	GO:0070717	poly-purine tract binding	1.638e-05	0.000e+00	4.566e+00	2.720e-05
+GO:0003729	GO:0033592	RNA strand annealing activity	5.433e-07	0.000e+00	4.812e+00	1.543e-05
+GO:0003729	GO:0140666	annealing activity	3.911e-04	0.000e+00	4.783e+00	1.647e-05
+GO:0003729	GO:0008143	poly(A) binding	6.063e-03	0.000e+00	4.583e+00	2.614e-05
+GO:0003729	GO:0008187	poly-pyrimidine tract binding	3.225e-06	0.000e+00	5.301e+00	5.002e-06
+GO:0003729	GO:0008266	poly(U) RNA binding	5.220e-04	0.000e+00	5.376e+00	4.210e-06
+GO:0140098	GO:0140098	catalytic activity, acting on RNA	1.370e-21	0.000e+00	1.522e+00	3.004e-02
+GO:0140098	GO:0140101	catalytic activity, acting on a tRNA	7.732e-06	0.000e+00	1.740e+00	1.818e-02
+GO:0140098	GO:0004540	RNA nuclease activity	9.109e-03	0.000e+00	2.464e+00	3.435e-03
+GO:0140098	GO:0004812	aminoacyl-tRNA ligase activity	1.094e-04	0.000e+00	1.916e+00	1.214e-02
+GO:0140098	GO:0016875	ligase activity, forming carbon-oxygen bonds	1.094e-04	0.000e+00	1.916e+00	1.214e-02
+GO:0140098	GO:0016874	ligase activity	3.663e-04	0.000e+00	1.441e+00	3.626e-02
+GO:0140098	GO:0046933	proton-transporting ATP synthase activity, rotational mechanism	2.908e-03	0.000e+00	2.751e+00	1.774e-03
+GO:0140098	GO:0004386	helicase activity	3.605e-10	0.000e+00	2.173e+00	6.710e-03
+GO:0140098	GO:0003678	DNA helicase activity	1.662e-05	0.000e+00	2.811e+00	1.546e-03
+GO:0140098	GO:0008094	ATP-dependent activity, acting on DNA	5.002e-05	0.000e+00	2.406e+00	3.928e-03
+GO:0140098	GO:0140097	catalytic activity, acting on DNA	2.181e-04	0.000e+00	1.802e+00	1.576e-02
+GO:0140098	GO:0017116	single-stranded DNA helicase activity	4.608e-03	0.000e+00	4.803e+00	1.574e-05
+GO:0140098	GO:0003724	RNA helicase activity	9.294e-08	0.000e+00	2.954e+00	1.113e-03
+GO:0140098	GO:0008186	ATP-dependent activity, acting on RNA	8.704e-07	0.000e+00	2.923e+00	1.193e-03
+GO:0140098	GO:0015450	protein-transporting ATPase activity	1.497e-03	0.000e+00	3.524e+00	2.991e-04
+GO:0140098	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	4.608e-03	0.000e+00	3.298e+00	5.035e-04
+GO:0140098	GO:0140318	protein transporter activity	3.591e-03	0.000e+00	3.150e+00	7.078e-04
+GO:0140098	GO:0008320	protein transmembrane transporter activity	7.552e-03	0.000e+00	3.151e+00	7.061e-04
+GO:0140098	GO:0015453	oxidoreduction-driven active transmembrane transporter activity	4.567e-03	0.000e+00	1.874e+00	1.336e-02
+GO:0140098	GO:0015399	primary active transmembrane transporter activity	6.140e-03	0.000e+00	1.744e+00	1.805e-02
+GO:0140098	GO:0042625	ATPase-coupled ion transmembrane transporter activity	6.055e-03	0.000e+00	3.298e+00	5.035e-04
+GO:0140677	GO:0140677	molecular function activator activity	2.682e-07	0.000e+00	5.133e+00	7.367e-06
+GO:0140677	GO:0060589	nucleoside-triphosphatase regulator activity	7.732e-06	0.000e+00	2.781e+00	1.655e-03
+GO:0140677	GO:0008047	enzyme activator activity	5.155e-07	0.000e+00	3.059e+00	8.731e-04
+GO:0140677	GO:0005096	GTPase activator activity	1.307e-03	0.000e+00	3.191e+00	6.445e-04
+GO:0140677	GO:0030695	GTPase regulator activity	5.749e-04	0.000e+00	2.781e+00	1.655e-03
+GO:0140677	GO:0019887	protein kinase regulator activity	1.926e-03	0.000e+00	3.442e+00	3.614e-04
+GO:0140677	GO:0019207	kinase regulator activity	7.552e-03	0.000e+00	3.427e+00	3.744e-04
+GO:0140677	GO:0043027	cysteine-type endopeptidase inhibitor activity involved in apoptotic process	1.497e-03	0.000e+00	5.518e+00	3.035e-06
+GO:0140677	GO:0043028	cysteine-type endopeptidase regulator activity involved in apoptotic process	6.063e-03	0.000e+00	5.336e+00	4.608e-06
+GO:0140677	GO:0061133	endopeptidase activator activity	4.092e-03	0.000e+00	5.642e+00	2.279e-06
+GO:0140677	GO:0060590	ATPase regulator activity	1.526e-05	0.000e+00	3.683e+00	2.076e-04
+GO:0140677	GO:0001671	ATPase activator activity	3.417e-03	0.000e+00	4.277e+00	5.280e-05
+GO:0001882	GO:0001882	nucleoside binding	2.323e-03	0.000e+00	3.553e+00	2.799e-04
+GO:0001882	GO:0032549	ribonucleoside binding	6.928e-03	0.000e+00	3.558e+00	2.770e-04
+GO:0003713	GO:0003713	transcription coactivator activity	5.037e-06	0.000e+00	3.856e+00	1.392e-04
+GO:0003713	GO:0003714	transcription corepressor activity	4.041e-04	0.000e+00	3.813e+00	1.538e-04
+GO:0003735	GO:0003735	structural constituent of ribosome	6.828e-27	0.000e+00	1.697e+00	2.011e-02
+GO:0003735	GO:0017056	structural constituent of nuclear pore	1.806e-07	0.000e+00	3.980e+00	1.047e-04
+GO:0060090	GO:0060090	molecular adaptor activity	1.253e-04	0.000e+00	2.025e+00	9.441e-03
+GO:0060090	GO:0030674	protein-macromolecule adaptor activity	1.462e-03	0.000e+00	3.658e+00	2.196e-04
+GO:0043021	GO:0043021	ribonucleoprotein complex binding	5.017e-25	0.000e+00	3.102e+00	7.898e-04
+GO:0043021	GO:0043022	ribosome binding	9.178e-11	0.000e+00	3.125e+00	7.499e-04
+GO:0043021	GO:0051015	actin filament binding	1.420e-04	0.000e+00	3.643e+00	2.276e-04
+GO:0043021	GO:0003779	actin binding	1.102e-04	0.000e+00	2.919e+00	1.206e-03
+GO:0043021	GO:0043024	ribosomal small subunit binding	8.472e-04	0.000e+00	5.203e+00	6.263e-06
+GO:0043021	GO:0070990	snRNP binding	1.482e-04	0.000e+00	6.109e+00	7.783e-07
+GO:0043021	GO:0031490	chromatin DNA binding	5.220e-04	0.000e+00	4.543e+00	2.861e-05
+GO:0043021	GO:0031491	nucleosome binding	7.552e-03	0.000e+00	4.564e+00	2.731e-05
+GO:0003924	GO:0003924	GTPase activity	7.045e-04	0.000e+00	2.446e+00	3.581e-03
+GO:0000287	GO:0000287	magnesium ion binding	4.373e-04	0.000e+00	2.173e+00	6.716e-03
+GO:0051082	GO:0042393	histone binding	2.249e-07	0.000e+00	3.711e+00	1.945e-04
+GO:0051082	GO:0051082	unfolded protein binding	1.711e-14	0.000e+00	2.885e+00	1.302e-03
+GO:0051082	GO:0045296	cadherin binding	1.366e-09	0.000e+00	4.549e+00	2.822e-05
+GO:0051082	GO:0050839	cell adhesion molecule binding	1.561e-03	0.000e+00	4.139e+00	7.262e-05
+GO:0051082	GO:0051087	protein-folding chaperone binding	2.506e-06	0.000e+00	3.598e+00	2.523e-04
+GO:0051082	GO:0031072	heat shock protein binding	6.811e-07	0.000e+00	3.656e+00	2.207e-04
+GO:0051082	GO:0043130	ubiquitin binding	5.972e-04	0.000e+00	3.796e+00	1.598e-04
+GO:0051082	GO:0032182	ubiquitin-like protein binding	3.455e-03	0.000e+00	3.782e+00	1.650e-04
+GO:0051082	GO:0051219	phosphoprotein binding	2.111e-03	0.000e+00	4.478e+00	3.325e-05
+GO:0051082	GO:0031369	translation initiation factor binding	6.686e-08	0.000e+00	4.355e+00	4.417e-05
+GO:0051082	GO:0001099	basal RNA polymerase II transcription machinery binding	9.963e-03	0.000e+00	4.437e+00	3.656e-05
+GO:0051082	GO:0001098	basal transcription machinery binding	9.963e-03	0.000e+00	4.437e+00	3.657e-05
+GO:0051082	GO:0042169	SH2 domain binding	1.321e-03	0.000e+00	5.435e+00	3.672e-06
+GO:0051082	GO:0051787	misfolded protein binding	5.749e-04	0.000e+00	5.492e+00	3.221e-06
+GO:0051082	GO:0098770	FBXO family protein binding	5.749e-04	0.000e+00	6.602e+00	2.501e-07
+GO:0051082	GO:0043008	ATP-dependent protein binding	9.829e-03	0.000e+00	6.230e+00	5.882e-07
+GO:0051082	GO:0031625	ubiquitin protein ligase binding	7.283e-07	0.000e+00	3.982e+00	1.041e-04
+GO:0051082	GO:0044389	ubiquitin-like protein ligase binding	2.656e-06	0.000e+00	3.971e+00	1.070e-04
+GO:0051082	GO:0019902	phosphatase binding	3.455e-03	0.000e+00	4.321e+00	4.774e-05
+GO:0051082	GO:0019903	protein phosphatase binding	7.386e-04	0.000e+00	4.424e+00	3.766e-05
+GO:0051082	GO:1990782	protein tyrosine kinase binding	1.328e-03	0.000e+00	4.740e+00	1.821e-05
+GO:0051082	GO:0089720	caspase binding	5.957e-04	0.000e+00	5.991e+00	1.020e-06
+GO:0051082	GO:0002020	protease binding	3.911e-04	0.000e+00	4.771e+00	1.693e-05
+GO:0051082	GO:0070182	DNA polymerase binding	1.926e-03	0.000e+00	5.539e+00	2.891e-06
+GO:0051082	GO:0031996	thioesterase binding	3.863e-03	0.000e+00	5.758e+00	1.747e-06
+GO:0051082	GO:0005126	cytokine receptor binding	1.493e-03	0.000e+00	3.734e+00	1.844e-04
+GO:0051082	GO:0070851	growth factor receptor binding	9.850e-04	0.000e+00	4.373e+00	4.233e-05
+GO:0051082	GO:0061629	RNA polymerase II-specific DNA-binding transcription factor binding	1.750e-06	0.000e+00	4.197e+00	6.357e-05
+GO:0051082	GO:0140297	DNA-binding transcription factor binding	2.194e-06	0.000e+00	4.005e+00	9.877e-05
+GO:0051082	GO:0016922	nuclear receptor binding	5.957e-04	0.000e+00	4.523e+00	2.998e-05
+GO:0051082	GO:0140296	general transcription initiation factor binding	5.957e-04	0.000e+00	4.096e+00	8.015e-05
+GO:0051082	GO:0017025	TBP-class protein binding	4.354e-03	0.000e+00	4.191e+00	6.445e-05
+GO:0016779	GO:0016779	nucleotidyltransferase activity	7.403e-08	0.000e+00	1.685e+00	2.063e-02
+GO:0016779	GO:0097747	RNA polymerase activity	4.761e-07	0.000e+00	2.340e+00	4.572e-03
+GO:0016779	GO:0003899	DNA-directed 5'-3' RNA polymerase activity	2.682e-07	0.000e+00	2.622e+00	2.389e-03
+GO:0016779	GO:0034062	5'-3' RNA polymerase activity	4.761e-07	0.000e+00	2.340e+00	4.572e-03
+GO:0003697	GO:0003697	single-stranded DNA binding	1.926e-03	0.000e+00	3.045e+00	9.024e-04
+GO:0034212	GO:0008080	N-acetyltransferase activity	5.287e-03	0.000e+00	2.914e+00	1.220e-03
+GO:0034212	GO:0034212	peptide N-acetyltransferase activity	5.029e-05	0.000e+00	3.525e+00	2.988e-04
+GO:0034212	GO:0016407	acetyltransferase activity	2.937e-03	0.000e+00	2.646e+00	2.258e-03
+GO:0034212	GO:0061733	peptide-lysine-N-acetyltransferase activity	1.296e-03	0.000e+00	3.630e+00	2.346e-04
+GO:0034212	GO:0004402	histone acetyltransferase activity	1.561e-03	0.000e+00	3.663e+00	2.174e-04
+GO:0034212	GO:0010485	histone H4 acetyltransferase activity	7.386e-03	0.000e+00	4.888e+00	1.294e-05
+GO:0034212	GO:0004596	peptide alpha-N-acetyltransferase activity	4.092e-03	0.000e+00	4.193e+00	6.410e-05
+GO:0003684	GO:0003684	damaged DNA binding	7.370e-03	0.000e+00	3.179e+00	6.627e-04
+GO:0016667	GO:0016667	oxidoreductase activity, acting on a sulfur group of donors	7.370e-03	0.000e+00	2.517e+00	3.041e-03
+GO:0005048	GO:0005048	signal sequence binding	2.449e-07	0.000e+00	4.145e+00	7.158e-05
+GO:0005048	GO:0120227	acyl-CoA binding	7.386e-03	0.000e+00	4.271e+00	5.356e-05
+GO:0044183	GO:0044183	protein folding chaperone	7.732e-06	0.000e+00	3.054e+00	8.823e-04
+GO:0051539	GO:0051539	4 iron, 4 sulfur cluster binding	2.079e-03	0.000e+00	2.203e+00	6.272e-03
+GO:0003688	GO:0001046	core promoter sequence-specific DNA binding	1.359e-04	0.000e+00	4.847e+00	1.421e-05
+GO:0003688	GO:0003688	DNA replication origin binding	6.724e-06	0.000e+00	3.717e+00	1.920e-04
+GO:0140142	GO:0140104	molecular carrier activity	3.911e-04	0.000e+00	3.209e+00	6.187e-04
+GO:0140142	GO:0140142	nucleocytoplasmic carrier activity	4.879e-04	0.000e+00	4.116e+00	7.662e-05
+GO:0140142	GO:0061608	nuclear import signal receptor activity	1.252e-03	0.000e+00	4.448e+00	3.567e-05
+GO:1901567	GO:1901567	fatty acid derivative binding	2.111e-03	0.000e+00	4.273e+00	5.338e-05
+GO:1901567	GO:0000062	fatty-acyl-CoA binding	6.063e-03	0.000e+00	4.274e+00	5.327e-05
+GO:0003756	GO:0003756	protein disulfide isomerase activity	1.561e-03	0.000e+00	4.212e+00	6.144e-05
+GO:0003756	GO:0016864	intramolecular oxidoreductase activity, transposing S-S bonds	1.561e-03	0.000e+00	4.212e+00	6.144e-05
+GO:0004298	GO:0004298	threonine-type endopeptidase activity	7.576e-05	0.000e+00	3.774e+00	1.683e-04
+GO:0004298	GO:0004674	protein serine/threonine kinase activity	1.328e-03	0.000e+00	2.454e+00	3.517e-03
+GO:0004298	GO:0106310	protein serine kinase activity	9.262e-03	0.000e+00	3.813e+00	1.539e-04
+GO:0070034	GO:0070034	telomerase RNA binding	9.736e-03	0.000e+00	5.494e+00	3.203e-06
+GO:0000340	GO:0000340	RNA 7-methylguanosine cap binding	6.928e-03	0.000e+00	4.885e+00	1.303e-05

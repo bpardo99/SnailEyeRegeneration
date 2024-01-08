@@ -1,0 +1,5 @@
+dotCount	x	y	frequency	colour	size	pval	description	legend	members	representative	user
+1	0.34387393945007244	-0.7756258966073937	1.5180900919225335	-2.240413154707208	0.6931471805599453	0.00574892767898005	regulation of Notch signaling pathway	1. regulation of Notch signaling pathway	['GO:0008593']	GO:0008593	0
+2	0.8292847717310342	0.1433599861661083	1.657499338312687	-2.240413154707208	0.6931471805599453	0.00574892767898005	negative regulation of reactive oxygen species metabolic pro...	2. negative regulation of reactive oxygen species metabolic pro...	['GO:2000378']	GO:2000378	0
+3	-0.387089755116257	0.6842772285045129	1.8004220472514756	-2.240413154707208	1.0986122886681098	0.00574892767898005	sensory organ precursor cell fate determination	3. sensory organ precursor cell fate determination	['GO:0016360', 'GO:0060582']	GO:0016360	0
+4	-0.7860689560648498	-0.05201131806322743	1.8577574214418464	-2.240413154707208	0.6931471805599453	0.00574892767898005	sensory organ boundary specification	4. sensory organ boundary specification	['GO:0008052']	GO:0008052	0

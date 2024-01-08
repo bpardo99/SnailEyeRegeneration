@@ -1,0 +1,37 @@
+GO-Figure! version: 1.0.1
+
+Date run: 2024-01-07
+
+Command line input: ['/home/ejr/miniconda3/envs/go-figure/bin/gofigure.py', '-i', '/home/bp2582/projects/eye-reg_rnaseq/git-repo/SnailEyeRegeneration-20240105-3/SnailEyeRegeneration/intact-reference/04_go-figure/input/input_file_1dpa-intact.gz.tsv.gz', '-v', '0.05', '-a', '20', '-m', '20', '-si', '0.4', '-e', '60', '-q', 'pdf', '-o', '/home/bp2582/projects/eye-reg_rnaseq/git-repo/SnailEyeRegeneration-20240105-3/SnailEyeRegeneration/intact-reference/04_go-figure/output/1dpa-intact.gz.gz']
+
+go.obo version used: releases/2023-04-01
+
+go.obo version used to create GO relations: releases/2023-04-01
+
+
+Calculating biological process
+
+The following GO terms are converted or deleted because either they are an alt_id and not a primary id in the go.obo, because they are obsolete in the go.obo, or because they can't be found in the go.obo: 
+
+Original GO	New GO(s)	Reason
+	GO:0010259	removed
+GO:1903362	GO:0042176	alt_id
+	GO:2001020	removed
+GO:1903364	GO:0045732	alt_id
+GO:0031497	GO:0006325	alt_id
+	GO:0047485	removed
+GO:1903363	GO:0042177	alt_id
+	GO:0032592	removed
+	GO:0098573	removed
+	GO:0043486	removed
+	GO:0031305	removed
+	GO:0031304	removed
+GO:0034724	GO:0006325	alt_id
+	GO:0070816	removed
+GO:0050690	GO:0019049	alt_id
+
+Calculating molecular function
+
+
+Calculating cellular component
+

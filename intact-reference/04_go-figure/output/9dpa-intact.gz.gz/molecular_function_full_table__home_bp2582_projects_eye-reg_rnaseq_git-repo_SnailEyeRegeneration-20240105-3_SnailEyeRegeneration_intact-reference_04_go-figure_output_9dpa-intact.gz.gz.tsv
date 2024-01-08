@@ -1,0 +1,64 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0140097	GO:0140097	catalytic activity, acting on DNA	1.400e-17	0.000e+00	1.802e+00	1.576e-02
+GO:0140097	GO:0034061	DNA polymerase activity	6.503e-07	0.000e+00	2.327e+00	4.712e-03
+GO:0140097	GO:0003887	DNA-directed DNA polymerase activity	1.521e-06	0.000e+00	2.558e+00	2.769e-03
+GO:0140097	GO:0008094	ATP-dependent activity, acting on DNA	3.706e-14	0.000e+00	2.406e+00	3.928e-03
+GO:0140097	GO:0003678	DNA helicase activity	1.014e-12	0.000e+00	2.811e+00	1.546e-03
+GO:0140097	GO:0004386	helicase activity	5.749e-08	0.000e+00	2.173e+00	6.710e-03
+GO:0140097	GO:0017116	single-stranded DNA helicase activity	5.534e-10	0.000e+00	4.803e+00	1.574e-05
+GO:0140097	GO:0043138	3'-5' DNA helicase activity	4.036e-07	0.000e+00	4.112e+00	7.734e-05
+GO:0140097	GO:0008574	plus-end-directed microtubule motor activity	8.375e-04	0.000e+00	5.344e+00	4.532e-06
+GO:0140097	GO:0015450	protein-transporting ATPase activity	8.449e-03	0.000e+00	3.524e+00	2.991e-04
+GO:0140097	GO:0140318	protein transporter activity	4.937e-03	0.000e+00	3.150e+00	7.078e-04
+GO:0003729	GO:0003729	mRNA binding	7.385e-07	0.000e+00	2.013e+00	9.698e-03
+GO:0003729	GO:0048027	mRNA 5'-UTR binding	5.950e-04	0.000e+00	4.339e+00	4.581e-05
+GO:0003729	GO:0017069	snRNA binding	4.937e-03	0.000e+00	3.490e+00	3.236e-04
+GO:0003729	GO:0030515	snoRNA binding	9.406e-04	0.000e+00	4.233e+00	5.844e-05
+GO:0003729	GO:0070717	poly-purine tract binding	2.310e-03	0.000e+00	4.566e+00	2.720e-05
+GO:0003729	GO:0008143	poly(A) binding	8.449e-03	0.000e+00	4.583e+00	2.614e-05
+GO:0001228	GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	6.437e-05	0.000e+00	4.028e+00	9.372e-05
+GO:0001228	GO:0001216	DNA-binding transcription activator activity	6.740e-05	0.000e+00	3.809e+00	1.552e-04
+GO:0001228	GO:0003714	transcription corepressor activity	4.937e-03	0.000e+00	3.813e+00	1.538e-04
+GO:0003697	GO:0003697	single-stranded DNA binding	4.956e-12	0.000e+00	3.045e+00	9.024e-04
+GO:0003697	GO:0098847	sequence-specific single stranded DNA binding	7.519e-05	0.000e+00	4.797e+00	1.597e-05
+GO:0003697	GO:0043047	single-stranded telomeric DNA binding	3.172e-05	0.000e+00	4.800e+00	1.585e-05
+GO:0003697	GO:0042162	telomeric DNA binding	4.068e-04	0.000e+00	4.247e+00	5.659e-05
+GO:0003697	GO:0098505	G-rich strand telomeric DNA binding	5.621e-04	0.000e+00	5.909e+00	1.233e-06
+GO:0051082	GO:0042393	histone binding	6.503e-07	0.000e+00	3.711e+00	1.945e-04
+GO:0051082	GO:0051082	unfolded protein binding	1.582e-08	0.000e+00	2.885e+00	1.302e-03
+GO:0051082	GO:0008017	microtubule binding	4.981e-05	0.000e+00	3.272e+00	5.341e-04
+GO:0051082	GO:0015631	tubulin binding	4.981e-05	0.000e+00	3.172e+00	6.727e-04
+GO:0051082	GO:0003779	actin binding	4.641e-05	0.000e+00	2.919e+00	1.206e-03
+GO:0051082	GO:0051015	actin filament binding	4.068e-04	0.000e+00	3.643e+00	2.276e-04
+GO:0051082	GO:0019838	growth factor binding	3.512e-03	0.000e+00	4.289e+00	5.136e-05
+GO:0051082	GO:0070182	DNA polymerase binding	1.184e-04	0.000e+00	5.539e+00	2.891e-06
+GO:0051082	GO:0042826	histone deacetylase binding	7.547e-03	0.000e+00	4.900e+00	1.260e-05
+GO:0051082	GO:0042287	MHC protein binding	4.937e-03	0.000e+00	5.090e+00	8.123e-06
+GO:0051082	GO:0019956	chemokine binding	8.449e-03	0.000e+00	4.964e+00	1.086e-05
+GO:0051082	GO:0043425	bHLH transcription factor binding	1.664e-03	0.000e+00	5.442e+00	3.618e-06
+GO:0051082	GO:0001094	TFIID-class transcription factor complex binding	8.449e-03	0.000e+00	5.962e+00	1.092e-06
+GO:0043021	GO:0043021	ribonucleoprotein complex binding	4.436e-06	0.000e+00	3.102e+00	7.898e-04
+GO:0043021	GO:0031490	chromatin DNA binding	1.308e-05	0.000e+00	4.543e+00	2.861e-05
+GO:0043021	GO:0070990	snRNP binding	9.559e-04	0.000e+00	6.109e+00	7.783e-07
+GO:0043021	GO:0031491	nucleosome binding	7.834e-05	0.000e+00	4.564e+00	2.731e-05
+GO:0043021	GO:0031492	nucleosomal DNA binding	2.771e-04	0.000e+00	4.967e+00	1.080e-05
+GO:0003684	GO:0003684	damaged DNA binding	2.602e-06	0.000e+00	3.179e+00	6.627e-04
+GO:0005201	GO:0005201	extracellular matrix structural constituent	5.621e-04	0.000e+00	4.239e+00	5.773e-05
+GO:0005201	GO:0005200	structural constituent of cytoskeleton	6.645e-04	0.000e+00	3.662e+00	2.176e-04
+GO:0003688	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	1.987e-04	0.000e+00	3.656e+00	2.208e-04
+GO:0003688	GO:0003688	DNA replication origin binding	3.155e-08	0.000e+00	3.717e+00	1.920e-04
+GO:0003688	GO:0000987	cis-regulatory region sequence-specific DNA binding	2.099e-04	0.000e+00	3.592e+00	2.560e-04
+GO:0003688	GO:0070888	E-box binding	1.281e-03	0.000e+00	5.183e+00	6.569e-06
+GO:0000217	GO:0000217	DNA secondary structure binding	4.641e-05	0.000e+00	3.679e+00	2.096e-04
+GO:0000217	GO:0000400	four-way junction DNA binding	4.937e-03	0.000e+00	3.774e+00	1.684e-04
+GO:0050840	GO:0050840	extracellular matrix binding	4.937e-03	0.000e+00	4.933e+00	1.167e-05
+GO:0044183	GO:0044183	protein folding chaperone	7.511e-04	0.000e+00	3.054e+00	8.823e-04
+GO:0016538	GO:0016538	cyclin-dependent protein serine/threonine kinase regulator activity	9.559e-04	0.000e+00	3.923e+00	1.194e-04
+GO:0016538	GO:0016504	peptidase activator activity	5.019e-04	0.000e+00	4.656e+00	2.206e-05
+GO:0016538	GO:0061133	endopeptidase activator activity	5.498e-03	0.000e+00	5.642e+00	2.279e-06
+GO:0017056	GO:0017056	structural constituent of nuclear pore	1.736e-03	0.000e+00	3.980e+00	1.047e-04
+GO:0030371	GO:0030371	translation repressor activity	4.921e-03	0.000e+00	4.554e+00	2.791e-05
+GO:0030371	GO:0045182	translation regulator activity	3.037e-03	0.000e+00	2.346e+00	4.510e-03
+GO:0030371	GO:0090079	translation regulator activity, nucleic acid binding	8.449e-03	0.000e+00	2.351e+00	4.453e-03
+GO:0035173	GO:0035173	histone kinase activity	3.080e-03	0.000e+00	5.009e+00	9.796e-06
+GO:0004298	GO:0004298	threonine-type endopeptidase activity	8.449e-03	0.000e+00	3.774e+00	1.683e-04

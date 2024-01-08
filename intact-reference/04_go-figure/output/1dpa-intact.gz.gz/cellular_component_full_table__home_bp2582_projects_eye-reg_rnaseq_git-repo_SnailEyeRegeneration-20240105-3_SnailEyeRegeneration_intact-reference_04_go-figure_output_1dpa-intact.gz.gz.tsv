@@ -1,0 +1,236 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0005759	GO:0005759	mitochondrial matrix	5.631e-19	0.000e+00	3.362e+00	4.347e-04
+GO:0005759	GO:0005758	mitochondrial intermembrane space	8.904e-03	0.000e+00	3.695e+00	2.019e-04
+GO:0005759	GO:1904813	ficolin-1-rich granule lumen	6.710e-06	0.000e+00	6.322e+00	4.760e-07
+GO:0098687	GO:0098687	chromosomal region	2.572e-21	0.000e+00	3.130e+00	7.411e-04
+GO:0098687	GO:0000775	chromosome, centromeric region	7.850e-16	0.000e+00	3.398e+00	4.000e-04
+GO:0098687	GO:0000779	condensed chromosome, centromeric region	1.732e-15	0.000e+00	4.722e+00	1.897e-05
+GO:0098687	GO:0000781	chromosome, telomeric region	1.128e-05	0.000e+00	3.474e+00	3.359e-04
+GO:0098687	GO:0005703	polytene chromosome puff	2.742e-04	0.000e+00	5.716e+00	1.923e-06
+GO:0005743	GO:0019866	organelle inner membrane	2.357e-17	0.000e+00	1.694e+00	2.024e-02
+GO:0005743	GO:0005743	mitochondrial inner membrane	1.054e-17	0.000e+00	1.702e+00	1.987e-02
+GO:0005743	GO:0031965	nuclear membrane	4.693e-03	0.000e+00	3.522e+00	3.006e-04
+GO:0005743	GO:0030663	COPI-coated vesicle membrane	2.742e-04	0.000e+00	3.990e+00	1.023e-04
+GO:0005743	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	9.380e-03	0.000e+00	4.174e+00	6.692e-05
+GO:0005743	GO:0030867	rough endoplasmic reticulum membrane	9.884e-04	0.000e+00	4.546e+00	2.842e-05
+GO:0016607	GO:0016607	nuclear speck	2.078e-22	0.000e+00	3.692e+00	2.034e-04
+GO:0016607	GO:0015030	Cajal body	2.477e-06	0.000e+00	4.335e+00	4.625e-05
+GO:0005938	GO:0005938	cell cortex	1.278e-05	0.000e+00	3.836e+00	1.458e-04
+GO:0005819	GO:0005819	spindle	2.529e-08	0.000e+00	3.456e+00	3.503e-04
+GO:0005819	GO:0072686	mitotic spindle	7.758e-08	0.000e+00	4.179e+00	6.629e-05
+GO:0005819	GO:0005840	ribosome	9.020e-34	0.000e+00	1.297e+00	5.047e-02
+GO:0005681	GO:0005681	spliceosomal complex	3.712e-32	0.000e+00	3.062e+00	8.665e-04
+GO:0005681	GO:0005684	U2-type spliceosomal complex	2.296e-20	0.000e+00	4.090e+00	8.128e-05
+GO:0005681	GO:0008023	transcription elongation factor complex	1.307e-06	0.000e+00	3.799e+00	1.588e-04
+GO:0005681	GO:0008180	COP9 signalosome	2.421e-04	0.000e+00	4.059e+00	8.726e-05
+GO:0005681	GO:0016592	mediator complex	6.155e-03	0.000e+00	3.449e+00	3.553e-04
+GO:0005681	GO:0005689	U12-type spliceosomal complex	6.098e-04	0.000e+00	4.640e+00	2.290e-05
+GO:0005681	GO:0031298	replication fork protection complex	3.690e-05	0.000e+00	5.154e+00	7.010e-06
+GO:0005681	GO:0005697	telomerase holoenzyme complex	1.110e-03	0.000e+00	5.005e+00	9.877e-06
+GO:0005681	GO:0035145	exon-exon junction complex	5.636e-03	0.000e+00	4.438e+00	3.648e-05
+GO:0005681	GO:0031080	nuclear pore outer ring	1.074e-05	0.000e+00	4.390e+00	4.075e-05
+GO:0005681	GO:0031523	Myb complex	2.680e-04	0.000e+00	5.994e+00	1.013e-06
+GO:0005681	GO:0044615	nuclear pore nuclear basket	7.143e-03	0.000e+00	5.476e+00	3.340e-06
+GO:0005681	GO:0000346	transcription export complex	2.027e-03	0.000e+00	5.598e+00	2.526e-06
+GO:0098798	GO:0098798	mitochondrial protein-containing complex	2.555e-28	0.000e+00	3.012e+00	9.738e-04
+GO:0098798	GO:0098800	inner mitochondrial membrane protein complex	2.576e-08	0.000e+00	3.147e+00	7.128e-04
+GO:0098798	GO:0005762	mitochondrial large ribosomal subunit	1.258e-08	0.000e+00	4.176e+00	6.662e-05
+GO:0098798	GO:0000315	organellar large ribosomal subunit	1.258e-08	0.000e+00	4.176e+00	6.668e-05
+GO:0098798	GO:0005763	mitochondrial small ribosomal subunit	1.234e-05	0.000e+00	4.364e+00	4.327e-05
+GO:0098798	GO:0000314	organellar small ribosomal subunit	1.234e-05	0.000e+00	4.361e+00	4.356e-05
+GO:0098798	GO:0005744	TIM23 mitochondrial import inner membrane translocase complex	2.680e-04	0.000e+00	4.216e+00	6.076e-05
+GO:0098798	GO:0030062	mitochondrial tricarboxylic acid cycle enzyme complex	4.537e-03	0.000e+00	4.881e+00	1.314e-05
+GO:0031252	GO:0031252	cell leading edge	6.970e-03	0.000e+00	4.930e+00	1.176e-05
+GO:0000793	GO:0000793	condensed chromosome	1.646e-15	0.000e+00	4.612e+00	2.444e-05
+GO:0000793	GO:0005700	polytene chromosome	5.862e-06	0.000e+00	5.201e+00	6.288e-06
+GO:0000793	GO:0001741	XY body	1.692e-03	0.000e+00	5.594e+00	2.549e-06
+GO:0000793	GO:0000803	sex chromosome	9.380e-03	0.000e+00	5.212e+00	6.142e-06
+GO:0044391	GO:0044391	ribosomal subunit	1.810e-27	0.000e+00	2.481e+00	3.307e-03
+GO:0044391	GO:0015934	large ribosomal subunit	7.996e-18	0.000e+00	2.761e+00	1.733e-03
+GO:0044391	GO:0140534	endoplasmic reticulum protein-containing complex	1.091e-04	0.000e+00	3.323e+00	4.756e-04
+GO:0044391	GO:0015935	small ribosomal subunit	4.276e-11	0.000e+00	2.803e+00	1.573e-03
+GO:0044391	GO:0005844	polysome	7.563e-11	0.000e+00	4.906e+00	1.241e-05
+GO:0044391	GO:0022625	cytosolic large ribosomal subunit	3.139e-11	0.000e+00	3.716e+00	1.925e-04
+GO:0044391	GO:0022627	cytosolic small ribosomal subunit	1.052e-06	0.000e+00	4.202e+00	6.283e-05
+GO:0044391	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	1.978e-06	0.000e+00	3.823e+00	1.503e-04
+GO:0044391	GO:0043614	multi-eIF complex	1.074e-05	0.000e+00	5.558e+00	2.764e-06
+GO:0005925	GO:0030055	cell-substrate junction	3.351e-12	0.000e+00	3.766e+00	1.714e-04
+GO:0005925	GO:0005925	focal adhesion	8.150e-13	0.000e+00	3.777e+00	1.669e-04
+GO:0005925	GO:0005927	muscle tendon junction	3.526e-03	0.000e+00	5.793e+00	1.612e-06
+GO:0005925	GO:0005912	adherens junction	2.199e-04	0.000e+00	4.078e+00	8.360e-05
+GO:0030684	GO:0030684	preribosome	2.597e-38	0.000e+00	3.523e+00	2.999e-04
+GO:0030684	GO:0032040	small-subunit processome	8.150e-13	0.000e+00	3.728e+00	1.872e-04
+GO:0030684	GO:0030686	90S preribosome	1.294e-25	0.000e+00	4.526e+00	2.976e-05
+GO:0030684	GO:0030687	preribosome, large subunit precursor	9.766e-13	0.000e+00	4.313e+00	4.861e-05
+GO:0030684	GO:0030688	preribosome, small subunit precursor	1.888e-06	0.000e+00	4.471e+00	3.379e-05
+GO:0071013	GO:0071013	catalytic step 2 spliceosome	1.551e-29	0.000e+00	4.239e+00	5.773e-05
+GO:0071013	GO:0071007	U2-type catalytic step 2 spliceosome	3.989e-10	0.000e+00	5.048e+00	8.956e-06
+GO:0034774	GO:0034774	secretory granule lumen	1.938e-04	0.000e+00	5.229e+00	5.896e-06
+GO:0034774	GO:0060205	cytoplasmic vesicle lumen	1.257e-04	0.000e+00	4.615e+00	2.424e-05
+GO:0034774	GO:0031983	vesicle lumen	1.938e-04	0.000e+00	4.609e+00	2.458e-05
+GO:0071011	GO:0071011	precatalytic spliceosome	7.656e-28	0.000e+00	4.323e+00	4.755e-05
+GO:0071011	GO:0071005	U2-type precatalytic spliceosome	2.789e-13	0.000e+00	4.887e+00	1.296e-05
+GO:0030496	GO:0030496	midbody	1.500e-08	0.000e+00	3.976e+00	1.058e-04
+GO:0030017	GO:0030017	sarcomere	7.685e-03	0.000e+00	4.350e+00	4.462e-05
+GO:0034399	GO:0034399	nuclear periphery	5.960e-10	0.000e+00	4.736e+00	1.835e-05
+GO:0000776	GO:0030016	myofibril	3.324e-03	0.000e+00	4.683e+00	2.074e-05
+GO:0000776	GO:0000776	kinetochore	1.346e-15	0.000e+00	3.503e+00	3.143e-04
+GO:0000776	GO:0043292	contractile fiber	2.256e-03	0.000e+00	4.624e+00	2.375e-05
+GO:0000776	GO:0035770	ribonucleoprotein granule	1.354e-11	0.000e+00	3.566e+00	2.714e-04
+GO:0000776	GO:0036464	cytoplasmic ribonucleoprotein granule	6.255e-11	0.000e+00	3.575e+00	2.663e-04
+GO:0000776	GO:0005884	actin filament	2.477e-06	0.000e+00	4.570e+00	2.691e-05
+GO:0000776	GO:0005876	spindle microtubule	3.605e-04	0.000e+00	4.371e+00	4.256e-05
+GO:0098562	GO:0098562	cytoplasmic side of membrane	1.685e-03	0.000e+00	3.653e+00	2.225e-04
+GO:0098562	GO:0009898	cytoplasmic side of plasma membrane	8.855e-03	0.000e+00	3.668e+00	2.148e-04
+GO:0022626	GO:0022626	cytosolic ribosome	7.996e-18	0.000e+00	4.700e+00	1.993e-05
+GO:0043209	GO:0043209	myelin sheath	6.377e-03	0.000e+00	4.802e+00	1.578e-05
+GO:0001726	GO:0030027	lamellipodium	1.300e-05	0.000e+00	3.866e+00	1.360e-04
+GO:0001726	GO:0001726	ruffle	1.667e-06	0.000e+00	4.234e+00	5.841e-05
+GO:0001726	GO:0005937	mating projection	1.718e-04	0.000e+00	6.466e+00	3.417e-07
+GO:0000428	GO:0030880	RNA polymerase complex	5.085e-12	0.000e+00	2.575e+00	2.659e-03
+GO:0000428	GO:0000428	DNA-directed RNA polymerase complex	8.082e-13	0.000e+00	2.581e+00	2.623e-03
+GO:0000428	GO:0061695	transferase complex, transferring phosphorus-containing groups	4.585e-09	0.000e+00	2.420e+00	3.803e-03
+GO:0000428	GO:0055029	nuclear DNA-directed RNA polymerase complex	3.393e-12	0.000e+00	3.609e+00	2.461e-04
+GO:0000428	GO:1990204	oxidoreductase complex	2.199e-04	0.000e+00	2.667e+00	2.152e-03
+GO:0000428	GO:0101031	protein folding chaperone complex	7.177e-09	0.000e+00	4.056e+00	8.784e-05
+GO:0000428	GO:0005839	proteasome core complex	1.278e-05	0.000e+00	3.408e+00	3.906e-04
+GO:0000428	GO:0033202	DNA helicase complex	3.690e-05	0.000e+00	3.848e+00	1.418e-04
+GO:0000428	GO:0017101	aminoacyl-tRNA synthetase multienzyme complex	3.172e-05	0.000e+00	4.484e+00	3.284e-05
+GO:0043657	GO:0018995	host cellular component	9.862e-04	0.000e+00	1.534e+00	2.924e-02
+GO:0043657	GO:0043657	host cell	9.862e-04	0.000e+00	4.504e+00	3.134e-05
+GO:0120114	GO:0120114	Sm-like protein family complex	1.646e-15	0.000e+00	2.755e+00	1.759e-03
+GO:0120114	GO:0030532	small nuclear ribonucleoprotein complex	4.661e-14	0.000e+00	2.778e+00	1.668e-03
+GO:0120114	GO:0090575	RNA polymerase II transcription regulator complex	1.300e-05	0.000e+00	3.276e+00	5.301e-04
+GO:0120114	GO:0005667	transcription regulator complex	1.055e-05	0.000e+00	2.995e+00	1.011e-03
+GO:0120114	GO:0005686	U2 snRNP	2.126e-07	0.000e+00	3.941e+00	1.146e-04
+GO:0120114	GO:0005682	U5 snRNP	9.054e-03	0.000e+00	4.085e+00	8.226e-05
+GO:0120114	GO:0034719	SMN-Sm protein complex	2.742e-04	0.000e+00	5.084e+00	8.234e-06
+GO:0120114	GO:0005685	U1 snRNP	6.594e-04	0.000e+00	3.756e+00	1.755e-04
+GO:0000922	GO:0000922	spindle pole	5.543e-03	0.000e+00	3.791e+00	1.618e-04
+GO:0001650	GO:0001650	fibrillar center	2.426e-07	0.000e+00	4.446e+00	3.577e-05
+GO:0005761	GO:0000313	organellar ribosome	1.524e-13	0.000e+00	4.427e+00	3.740e-05
+GO:0005761	GO:0005761	mitochondrial ribosome	1.524e-13	0.000e+00	4.431e+00	3.706e-05
+GO:0032153	GO:0032153	cell division site	3.413e-04	0.000e+00	3.282e+00	5.228e-04
+GO:0005643	GO:0005643	nuclear pore	4.029e-12	0.000e+00	3.187e+00	6.504e-04
+GO:0005643	GO:0097525	spliceosomal snRNP complex	6.808e-12	0.000e+00	2.782e+00	1.651e-03
+GO:0016591	GO:0016591	RNA polymerase II, holoenzyme	1.816e-08	0.000e+00	5.076e+00	8.392e-06
+GO:0016591	GO:0005665	RNA polymerase II, core complex	3.792e-03	0.000e+00	4.192e+00	6.427e-05
+GO:0016591	GO:0005736	RNA polymerase I complex	7.451e-04	0.000e+00	4.730e+00	1.860e-05
+GO:0010494	GO:0010494	cytoplasmic stress granule	1.300e-05	0.000e+00	4.373e+00	4.232e-05
+GO:0010494	GO:0000932	P-body	2.256e-03	0.000e+00	3.778e+00	1.667e-04
+GO:0016363	GO:0016363	nuclear matrix	2.952e-05	0.000e+00	4.572e+00	2.678e-05
+GO:0034708	GO:0034708	methyltransferase complex	1.052e-06	0.000e+00	3.586e+00	2.593e-04
+GO:0034708	GO:0035097	histone methyltransferase complex	4.645e-03	0.000e+00	3.905e+00	1.243e-04
+GO:0034708	GO:0034709	methylosome	7.178e-05	0.000e+00	5.049e+00	8.933e-06
+GO:0000502	GO:1905369	endopeptidase complex	4.415e-15	0.000e+00	2.891e+00	1.285e-03
+GO:0000502	GO:0000502	proteasome complex	2.004e-15	0.000e+00	2.919e+00	1.204e-03
+GO:0000502	GO:1905368	peptidase complex	3.386e-14	0.000e+00	2.831e+00	1.475e-03
+GO:0000502	GO:0031597	cytosolic proteasome complex	2.186e-05	0.000e+00	3.524e+00	2.994e-04
+GO:0005793	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	1.780e-04	0.000e+00	4.211e+00	6.145e-05
+GO:0030864	GO:0030863	cortical cytoskeleton	3.882e-03	0.000e+00	4.579e+00	2.637e-05
+GO:0030864	GO:0030864	cortical actin cytoskeleton	7.514e-05	0.000e+00	4.698e+00	2.005e-05
+GO:0030864	GO:0015629	actin cytoskeleton	1.529e-04	0.000e+00	3.697e+00	2.008e-04
+GO:0030864	GO:0032156	septin cytoskeleton	2.107e-03	0.000e+00	4.395e+00	4.023e-05
+GO:0000792	GO:0000792	heterochromatin	5.290e-05	0.000e+00	4.315e+00	4.837e-05
+GO:0000792	GO:0005721	pericentric heterochromatin	3.526e-03	0.000e+00	5.020e+00	9.555e-06
+GO:0000792	GO:0000791	euchromatin	4.266e-03	0.000e+00	4.841e+00	1.443e-05
+GO:0032154	GO:0032154	cleavage furrow	2.524e-03	0.000e+00	4.320e+00	4.790e-05
+GO:0032154	GO:0032587	ruffle membrane	1.437e-03	0.000e+00	4.335e+00	4.619e-05
+GO:0031248	GO:0031248	protein acetyltransferase complex	8.903e-05	0.000e+00	3.312e+00	4.877e-04
+GO:0031248	GO:1902493	acetyltransferase complex	8.903e-05	0.000e+00	3.312e+00	4.878e-04
+GO:0031248	GO:0000123	histone acetyltransferase complex	2.256e-03	0.000e+00	3.362e+00	4.343e-04
+GO:0042641	GO:0042641	actomyosin	9.133e-07	0.000e+00	4.822e+00	1.506e-05
+GO:0042641	GO:0001725	stress fiber	1.010e-05	0.000e+00	4.874e+00	1.336e-05
+GO:0048475	GO:0048475	coated membrane	1.436e-03	0.000e+00	8.416e+00	3.839e-09
+GO:0045495	GO:0045495	pole plasm	2.858e-03	0.000e+00	5.975e+00	1.060e-06
+GO:0090734	GO:0090734	site of DNA damage	2.256e-03	0.000e+00	4.501e+00	3.153e-05
+GO:0090734	GO:0035861	site of double-strand break	9.312e-03	0.000e+00	4.627e+00	2.360e-05
+GO:0055120	GO:0055120	striated muscle dense body	2.863e-03	0.000e+00	5.819e+00	1.516e-06
+GO:0097517	GO:0032432	actin filament bundle	9.737e-06	0.000e+00	4.776e+00	1.674e-05
+GO:0097517	GO:0097517	contractile actin filament bundle	1.010e-05	0.000e+00	4.874e+00	1.336e-05
+GO:0042645	GO:0009295	nucleoid	1.501e-05	0.000e+00	3.162e+00	6.890e-04
+GO:0042645	GO:0042645	mitochondrial nucleoid	1.501e-05	0.000e+00	4.191e+00	6.442e-05
+GO:0043596	GO:0005657	replication fork	1.446e-07	0.000e+00	4.175e+00	6.690e-05
+GO:0043596	GO:0043596	nuclear replication fork	7.758e-08	0.000e+00	4.305e+00	4.955e-05
+GO:0051233	GO:0051233	spindle midzone	5.776e-07	0.000e+00	4.860e+00	1.381e-05
+GO:0051233	GO:1990023	mitotic spindle midzone	5.720e-03	0.000e+00	5.255e+00	5.555e-06
+GO:0000118	GO:0000118	histone deacetylase complex	1.716e-03	0.000e+00	3.853e+00	1.403e-04
+GO:0000118	GO:0070822	Sin3-type complex	5.636e-03	0.000e+00	5.276e+00	5.301e-06
+GO:0005746	GO:0070469	respirasome	7.907e-04	0.000e+00	2.023e+00	9.479e-03
+GO:0005746	GO:0005746	mitochondrial respirasome	9.243e-04	0.000e+00	4.728e+00	1.869e-05
+GO:0030120	GO:0030117	membrane coat	1.436e-03	0.000e+00	3.216e+00	6.088e-04
+GO:0030120	GO:0030120	vesicle coat	7.215e-05	0.000e+00	3.524e+00	2.990e-04
+GO:0030120	GO:0030126	COPI vesicle coat	7.768e-04	0.000e+00	3.830e+00	1.478e-04
+GO:0030120	GO:0030127	COPII vesicle coat	8.975e-03	0.000e+00	4.023e+00	9.493e-05
+GO:0005933	GO:0005933	cellular bud	5.406e-04	0.000e+00	5.234e+00	5.839e-06
+GO:0046540	GO:0046540	U4/U6 x U5 tri-snRNP complex	6.255e-11	0.000e+00	3.168e+00	6.790e-04
+GO:0046540	GO:0097526	spliceosomal tri-snRNP complex	6.255e-11	0.000e+00	3.166e+00	6.821e-04
+GO:0000307	GO:0000307	cyclin-dependent protein kinase holoenzyme complex	9.010e-06	0.000e+00	4.351e+00	4.451e-05
+GO:0000307	GO:0019908	nuclear cyclin-dependent protein kinase holoenzyme complex	1.337e-03	0.000e+00	4.988e+00	1.029e-05
+GO:0000307	GO:0032806	carboxy-terminal domain protein kinase complex	1.452e-04	0.000e+00	4.149e+00	7.093e-05
+GO:0000307	GO:1902554	serine/threonine protein kinase complex	1.615e-04	0.000e+00	3.620e+00	2.401e-04
+GO:0000307	GO:1902911	protein kinase complex	3.532e-03	0.000e+00	3.582e+00	2.618e-04
+GO:0043332	GO:0030427	site of polarized growth	9.054e-03	0.000e+00	4.099e+00	7.966e-05
+GO:0043332	GO:0043332	mating projection tip	4.156e-04	0.000e+00	4.846e+00	1.424e-05
+GO:0043332	GO:0051286	cell tip	3.610e-03	0.000e+00	4.678e+00	2.098e-05
+GO:0043332	GO:0060187	cell pole	2.230e-03	0.000e+00	4.665e+00	2.161e-05
+GO:0043332	GO:0005935	cellular bud neck	1.313e-03	0.000e+00	4.864e+00	1.369e-05
+GO:0005782	GO:0005782	peroxisomal matrix	5.636e-03	0.000e+00	4.440e+00	3.630e-05
+GO:0005782	GO:0031907	microbody lumen	5.636e-03	0.000e+00	4.440e+00	3.630e-05
+GO:0022624	GO:0022624	proteasome accessory complex	2.782e-12	0.000e+00	4.933e+00	1.167e-05
+GO:0070938	GO:0070938	contractile ring	3.242e-05	0.000e+00	5.206e+00	6.227e-06
+GO:0043073	GO:0043073	germ cell nucleus	4.108e-03	0.000e+00	4.813e+00	1.538e-05
+GO:0005838	GO:0005838	proteasome regulatory particle	8.870e-12	0.000e+00	4.546e+00	2.843e-05
+GO:0030137	GO:0030134	COPII-coated ER to Golgi transport vesicle	1.290e-03	0.000e+00	4.496e+00	3.194e-05
+GO:0030137	GO:0030137	COPI-coated vesicle	9.614e-06	0.000e+00	5.665e+00	2.165e-06
+GO:0030137	GO:0042470	melanosome	1.813e-04	0.000e+00	4.277e+00	5.286e-05
+GO:0030137	GO:0048770	pigment granule	5.775e-04	0.000e+00	4.277e+00	5.290e-05
+GO:0030137	GO:0101002	ficolin-1-rich granule	1.290e-03	0.000e+00	8.416e+00	3.839e-09
+GO:0002102	GO:0002102	podosome	7.768e-04	0.000e+00	4.736e+00	1.838e-05
+GO:0034515	GO:0034515	proteasome storage granule	3.892e-10	0.000e+00	5.092e+00	8.092e-06
+GO:0030479	GO:0030479	actin cortical patch	1.178e-05	0.000e+00	4.374e+00	4.226e-05
+GO:0030479	GO:0061645	endocytic patch	5.042e-05	0.000e+00	4.374e+00	4.230e-05
+GO:0042788	GO:0042788	polysomal ribosome	8.224e-04	0.000e+00	5.134e+00	7.344e-06
+GO:0070993	GO:0070993	translation preinitiation complex	1.682e-07	0.000e+00	3.551e+00	2.811e-04
+GO:0070993	GO:0016282	eukaryotic 43S preinitiation complex	4.839e-06	0.000e+00	3.849e+00	1.414e-04
+GO:0070993	GO:0033290	eukaryotic 48S preinitiation complex	3.689e-07	0.000e+00	3.855e+00	1.397e-04
+GO:0030894	GO:0030894	replisome	3.807e-04	0.000e+00	4.810e+00	1.548e-05
+GO:0030894	GO:0043601	nuclear replisome	1.304e-03	0.000e+00	8.416e+00	3.839e-09
+GO:0045120	GO:0045120	pronucleus	6.594e-04	0.000e+00	5.331e+00	4.672e-06
+GO:0071010	GO:0071010	prespliceosome	5.761e-06	0.000e+00	4.722e+00	1.898e-05
+GO:0071010	GO:0071004	U2-type prespliceosome	3.762e-05	0.000e+00	4.722e+00	1.897e-05
+GO:0070971	GO:0070971	endoplasmic reticulum exit site	1.452e-04	0.000e+00	4.552e+00	2.807e-05
+GO:0005852	GO:0005852	eukaryotic translation initiation factor 3 complex	1.196e-06	0.000e+00	3.462e+00	3.448e-04
+GO:0000974	GO:0000974	Prp19 complex	3.762e-05	0.000e+00	4.240e+00	5.754e-05
+GO:0005849	GO:0005849	mRNA cleavage factor complex	3.965e-04	0.000e+00	4.081e+00	8.297e-05
+GO:0005849	GO:0005847	mRNA cleavage and polyadenylation specificity factor complex	2.503e-03	0.000e+00	4.517e+00	3.040e-05
+GO:0044322	GO:0044322	endoplasmic reticulum quality control compartment	2.159e-03	0.000e+00	4.461e+00	3.460e-05
+GO:0031011	GO:0097346	INO80-type complex	2.178e-04	0.000e+00	3.966e+00	1.082e-04
+GO:0031011	GO:0031011	Ino80 complex	1.278e-05	0.000e+00	4.028e+00	9.367e-05
+GO:0031011	GO:0070603	SWI/SNF superfamily-type complex	9.004e-05	0.000e+00	3.458e+00	3.481e-04
+GO:0031011	GO:1904949	ATPase complex	1.423e-04	0.000e+00	3.126e+00	7.487e-04
+GO:0031011	GO:0016469	proton-transporting two-sector ATPase complex	1.924e-03	0.000e+00	3.401e+00	3.973e-04
+GO:0000940	GO:0000940	outer kinetochore	2.282e-04	0.000e+00	4.823e+00	1.504e-05
+GO:0035631	GO:0035631	CD40 receptor complex	9.243e-04	0.000e+00	5.700e+00	1.996e-06
+GO:0035631	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain	6.594e-04	0.000e+00	2.671e+00	2.131e-03
+GO:0035631	GO:0098803	respiratory chain complex	7.425e-03	0.000e+00	2.889e+00	1.291e-03
+GO:0005652	GO:0005652	nuclear lamina	1.631e-03	0.000e+00	4.954e+00	1.113e-05
+GO:0031261	GO:0032993	protein-DNA complex	2.052e-06	0.000e+00	2.655e+00	2.215e-03
+GO:0031261	GO:0031261	DNA replication preinitiation complex	2.547e-07	0.000e+00	4.040e+00	9.113e-05
+GO:0031261	GO:0071162	CMG complex	3.203e-06	0.000e+00	4.997e+00	1.007e-05
+GO:0098799	GO:0098799	outer mitochondrial membrane protein complex	5.775e-04	0.000e+00	4.000e+00	9.995e-05
+GO:0098799	GO:0005742	mitochondrial outer membrane translocase complex	2.027e-03	0.000e+00	4.214e+00	6.113e-05
+GO:0035267	GO:0035267	NuA4 histone acetyltransferase complex	1.110e-03	0.000e+00	3.906e+00	1.241e-04
+GO:0035267	GO:0043189	H4/H2A histone acetyltransferase complex	1.110e-03	0.000e+00	3.870e+00	1.348e-04
+GO:0035267	GO:1902562	H4 histone acetyltransferase complex	9.054e-03	0.000e+00	3.823e+00	1.504e-04
+GO:0000176	GO:0000176	nuclear exosome (RNase complex)	1.073e-04	0.000e+00	4.300e+00	5.016e-05
+GO:0000176	GO:0000178	exosome (RNase complex)	9.243e-04	0.000e+00	3.568e+00	2.706e-04
+GO:0000176	GO:1905354	exoribonuclease complex	2.740e-03	0.000e+00	3.543e+00	2.863e-04
+GO:0008540	GO:0008540	proteasome regulatory particle, base subcomplex	2.186e-05	0.000e+00	4.089e+00	8.141e-05
+GO:0034518	GO:0034518	RNA cap binding complex	1.589e-03	0.000e+00	4.348e+00	4.486e-05
+GO:0034518	GO:0005845	mRNA cap binding complex	4.537e-03	0.000e+00	4.963e+00	1.089e-05
+GO:0008541	GO:0008541	proteasome regulatory particle, lid subcomplex	1.074e-05	0.000e+00	4.475e+00	3.352e-05
+GO:0005656	GO:0005656	nuclear pre-replicative complex	2.178e-04	0.000e+00	4.316e+00	4.836e-05
+GO:0005656	GO:0036387	pre-replicative complex	2.178e-04	0.000e+00	4.316e+00	4.836e-05
+GO:0042555	GO:0042555	MCM complex	2.027e-03	0.000e+00	3.685e+00	2.066e-04
+GO:0097433	GO:0097433	dense body	5.291e-03	0.000e+00	5.638e+00	2.303e-06

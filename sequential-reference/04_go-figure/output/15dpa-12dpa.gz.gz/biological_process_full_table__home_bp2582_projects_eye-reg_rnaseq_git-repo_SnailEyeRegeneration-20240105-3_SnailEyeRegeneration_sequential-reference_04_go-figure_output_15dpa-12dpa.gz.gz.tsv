@@ -1,0 +1,6 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0008593	GO:0008593	regulation of Notch signaling pathway	5.749e-03	0.000e+00	4.564e+00	2.732e-05
+GO:2000378	GO:2000378	negative regulation of reactive oxygen species metabolic process	5.749e-03	0.000e+00	5.246e+00	5.673e-06
+GO:0016360	GO:0016360	sensory organ precursor cell fate determination	5.749e-03	0.000e+00	6.052e+00	8.867e-07
+GO:0016360	GO:0060582	cell fate determination involved in pattern specification	5.749e-03	0.000e+00	5.966e+00	1.082e-06
+GO:0008052	GO:0008052	sensory organ boundary specification	5.749e-03	0.000e+00	6.409e+00	3.896e-07

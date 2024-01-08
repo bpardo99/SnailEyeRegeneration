@@ -81,7 +81,7 @@ fi
 ###############################################
 # Expression Analysis using intact eyestalk  as reference
 ###############################################
-#if [ ! -e intact-reference.finished ]
+if [ ! -e intact-reference.finished ]
 then
 DIR=intact-reference
 echo "Start intact-reference"

@@ -1,0 +1,59 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0044782	GO:0044782	cilium organization	1.461e-21	0.000e+00	3.591e+00	2.566e-04
+GO:0044782	GO:0060271	cilium assembly	4.702e-18	0.000e+00	3.614e+00	2.433e-04
+GO:0044782	GO:0044458	motile cilium assembly	2.485e-08	0.000e+00	5.182e+00	6.570e-06
+GO:0044782	GO:0120316	sperm flagellum assembly	4.782e-05	0.000e+00	5.874e+00	1.337e-06
+GO:0003341	GO:0003341	cilium movement	9.091e-32	0.000e+00	3.895e+00	1.273e-04
+GO:0003341	GO:0060294	cilium movement involved in cell motility	1.357e-14	0.000e+00	4.066e+00	8.599e-05
+GO:0003341	GO:0003351	epithelial cilium movement involved in extracellular fluid movement	4.547e-08	0.000e+00	5.014e+00	9.674e-06
+GO:0003341	GO:0099111	microtubule-based transport	1.563e-04	0.000e+00	3.938e+00	1.154e-04
+GO:0003341	GO:0006858	extracellular transport	7.800e-07	0.000e+00	4.988e+00	1.028e-05
+GO:0003341	GO:0035082	axoneme assembly	2.383e-25	0.000e+00	4.514e+00	3.060e-05
+GO:0003341	GO:0001578	microtubule bundle formation	1.854e-21	0.000e+00	4.432e+00	3.696e-05
+GO:0003341	GO:0007288	sperm axoneme assembly	4.782e-05	0.000e+00	5.195e+00	6.379e-06
+GO:0060285	GO:0001539	cilium or flagellum-dependent cell motility	2.406e-19	0.000e+00	2.803e+00	1.574e-03
+GO:0060285	GO:0060285	cilium-dependent cell motility	2.406e-19	0.000e+00	4.552e+00	2.806e-05
+GO:0060285	GO:0030317	flagellated sperm motility	1.840e-11	0.000e+00	4.624e+00	2.377e-05
+GO:0060285	GO:0097722	sperm motility	2.109e-11	0.000e+00	4.623e+00	2.382e-05
+GO:0021953	GO:0021953	central nervous system neuron differentiation	4.547e-08	0.000e+00	4.647e+00	2.255e-05
+GO:0021953	GO:0021879	forebrain neuron differentiation	2.286e-05	0.000e+00	5.654e+00	2.220e-06
+GO:0021953	GO:0021872	forebrain generation of neurons	1.563e-04	0.000e+00	6.733e+00	1.847e-07
+GO:0021953	GO:0021515	cell differentiation in spinal cord	4.919e-03	0.000e+00	4.911e+00	1.227e-05
+GO:0021953	GO:0003310	pancreatic A cell differentiation	1.604e-03	0.000e+00	5.837e+00	1.454e-06
+GO:0021953	GO:0030916	otic vesicle formation	6.466e-03	0.000e+00	5.726e+00	1.878e-06
+GO:0021953	GO:0035881	amacrine cell differentiation	5.101e-03	0.000e+00	5.762e+00	1.730e-06
+GO:0021953	GO:0030900	forebrain development	1.543e-05	0.000e+00	4.794e+00	1.608e-05
+GO:0021953	GO:0048839	inner ear development	1.794e-03	0.000e+00	4.680e+00	2.089e-05
+GO:0021953	GO:0021510	spinal cord development	1.068e-04	0.000e+00	5.442e+00	3.618e-06
+GO:0021953	GO:0043583	ear development	3.415e-03	0.000e+00	5.600e+00	2.509e-06
+GO:0021953	GO:0021536	diencephalon development	1.972e-04	0.000e+00	6.011e+00	9.741e-07
+GO:0021953	GO:0048663	neuron fate commitment	6.795e-05	0.000e+00	4.972e+00	1.066e-05
+GO:0021953	GO:0048665	neuron fate specification	1.401e-04	0.000e+00	4.629e+00	2.348e-05
+GO:0021953	GO:0042472	inner ear morphogenesis	2.950e-04	0.000e+00	4.894e+00	1.278e-05
+GO:0021953	GO:0042471	ear morphogenesis	1.200e-03	0.000e+00	5.961e+00	1.095e-06
+GO:0021953	GO:0060042	retina morphogenesis in camera-type eye	6.722e-03	0.000e+00	5.386e+00	4.111e-06
+GO:0007605	GO:0050954	sensory perception of mechanical stimulus	9.603e-06	0.000e+00	4.173e+00	6.712e-05
+GO:0007605	GO:0007605	sensory perception of sound	5.656e-06	0.000e+00	4.184e+00	6.541e-05
+GO:0007605	GO:0090660	cerebrospinal fluid circulation	2.463e-03	0.000e+00	5.619e+00	2.405e-06
+GO:0007605	GO:0007619	courtship behavior	1.297e-03	0.000e+00	5.392e+00	4.051e-06
+GO:0007605	GO:0008049	male courtship behavior	4.346e-03	0.000e+00	5.504e+00	3.130e-06
+GO:0006813	GO:0006813	potassium ion transport	2.165e-06	0.000e+00	2.433e+00	3.687e-03
+GO:0006813	GO:0071805	potassium ion transmembrane transport	1.365e-04	0.000e+00	2.865e+00	1.366e-03
+GO:0007618	GO:0007618	mating	7.228e-05	0.000e+00	5.936e+00	1.159e-06
+GO:0007618	GO:0007617	mating behavior	1.389e-03	0.000e+00	5.010e+00	9.774e-06
+GO:0070286	GO:0070286	axonemal dynein complex assembly	3.830e-16	0.000e+00	4.266e+00	5.414e-05
+GO:0070286	GO:0036158	outer dynein arm assembly	7.346e-07	0.000e+00	4.917e+00	1.212e-05
+GO:0070286	GO:0036159	inner dynein arm assembly	5.640e-06	0.000e+00	4.977e+00	1.054e-05
+GO:2001257	GO:2001257	regulation of cation channel activity	9.256e-04	0.000e+00	4.211e+00	6.155e-05
+GO:2001257	GO:2001258	negative regulation of cation channel activity	3.583e-03	0.000e+00	4.733e+00	1.850e-05
+GO:2001257	GO:0034765	regulation of monoatomic ion transmembrane transport	5.519e-03	0.000e+00	3.268e+00	5.393e-04
+GO:2001257	GO:0032412	regulation of monoatomic ion transmembrane transporter activity	8.733e-03	0.000e+00	4.011e+00	9.748e-05
+GO:0035270	GO:0035270	endocrine system development	3.583e-03	0.000e+00	6.304e+00	4.971e-07
+GO:0035270	GO:0021761	limbic system development	5.484e-03	0.000e+00	6.571e+00	2.687e-07
+GO:0007156	GO:0007156	homophilic cell adhesion via plasma membrane adhesion molecules	6.466e-03	0.000e+00	3.357e+00	4.396e-04
+GO:0003352	GO:0060632	regulation of microtubule-based movement	7.028e-05	0.000e+00	4.791e+00	1.618e-05
+GO:0003352	GO:0003352	regulation of cilium movement	1.004e-06	0.000e+00	4.846e+00	1.426e-05
+GO:0003352	GO:0003356	regulation of cilium beat frequency	2.193e-05	0.000e+00	5.476e+00	3.345e-06
+GO:0086091	GO:0001508	action potential	6.618e-03	0.000e+00	4.770e+00	1.698e-05
+GO:0086091	GO:0086091	regulation of heart rate by cardiac conduction	8.260e-04	0.000e+00	5.200e+00	6.315e-06
+GO:0086091	GO:0042391	regulation of membrane potential	3.583e-03	0.000e+00	3.475e+00	3.347e-04

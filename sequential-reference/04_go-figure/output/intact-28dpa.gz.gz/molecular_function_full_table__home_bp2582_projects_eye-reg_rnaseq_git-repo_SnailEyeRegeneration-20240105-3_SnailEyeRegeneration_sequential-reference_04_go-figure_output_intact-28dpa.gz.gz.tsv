@@ -1,0 +1,23 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0022836	GO:0022836	gated channel activity	2.351e-06	0.000e+00	2.763e+00	1.727e-03
+GO:0022836	GO:0022839	monoatomic ion gated channel activity	9.711e-06	0.000e+00	2.765e+00	1.718e-03
+GO:0005261	GO:0005261	monoatomic cation channel activity	8.645e-06	0.000e+00	2.503e+00	3.142e-03
+GO:0005261	GO:0005216	monoatomic ion channel activity	6.420e-05	0.000e+00	2.261e+00	5.486e-03
+GO:0005261	GO:0015267	channel activity	3.350e-05	0.000e+00	2.200e+00	6.313e-03
+GO:0005261	GO:0022803	passive transmembrane transporter activity	3.350e-05	0.000e+00	2.200e+00	6.313e-03
+GO:0005261	GO:0005267	potassium channel activity	1.120e-03	0.000e+00	3.284e+00	5.196e-04
+GO:0005261	GO:0015079	potassium ion transmembrane transporter activity	1.349e-03	0.000e+00	2.993e+00	1.017e-03
+GO:0005244	GO:0005244	voltage-gated monoatomic ion channel activity	3.350e-05	0.000e+00	3.122e+00	7.548e-04
+GO:0005244	GO:0022832	voltage-gated channel activity	3.350e-05	0.000e+00	3.117e+00	7.633e-04
+GO:0030276	GO:0005516	calmodulin binding	1.114e-03	0.000e+00	3.503e+00	3.138e-04
+GO:0030276	GO:0030276	clathrin binding	2.318e-08	0.000e+00	3.952e+00	1.117e-04
+GO:0030276	GO:0000149	SNARE binding	7.565e-04	0.000e+00	4.368e+00	4.288e-05
+GO:0030276	GO:0019905	syntaxin binding	6.420e-05	0.000e+00	4.536e+00	2.911e-05
+GO:0030276	GO:0019894	kinesin binding	1.120e-03	0.000e+00	4.569e+00	2.700e-05
+GO:0022843	GO:0022843	voltage-gated monoatomic cation channel activity	3.350e-05	0.000e+00	3.490e+00	3.235e-04
+GO:0022843	GO:0005249	voltage-gated potassium channel activity	1.585e-03	0.000e+00	3.656e+00	2.209e-04
+GO:0005544	GO:0005543	phospholipid binding	1.311e-03	0.000e+00	3.159e+00	6.937e-04
+GO:0005544	GO:0005544	calcium-dependent phospholipid binding	4.214e-06	0.000e+00	3.866e+00	1.362e-04
+GO:0005544	GO:0001786	phosphatidylserine binding	9.612e-04	0.000e+00	5.276e+00	5.302e-06
+GO:0070679	GO:0070679	inositol 1,4,5 trisphosphate binding	9.612e-04	0.000e+00	4.582e+00	2.621e-05
+GO:0003951	GO:0003951	NAD+ kinase activity	6.497e-03	0.000e+00	3.353e+00	4.436e-04

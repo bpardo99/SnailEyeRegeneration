@@ -1,0 +1,4 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0097642	GO:0097642	calcitonin family receptor activity	7.303e-03	0.000e+00	5.007e+00	9.846e-06
+GO:0005179	GO:0005179	hormone activity	9.738e-03	0.000e+00	3.653e+00	2.224e-04
+GO:0005179	GO:0001965	G-protein alpha-subunit binding	9.738e-03	0.000e+00	4.910e+00	1.231e-05

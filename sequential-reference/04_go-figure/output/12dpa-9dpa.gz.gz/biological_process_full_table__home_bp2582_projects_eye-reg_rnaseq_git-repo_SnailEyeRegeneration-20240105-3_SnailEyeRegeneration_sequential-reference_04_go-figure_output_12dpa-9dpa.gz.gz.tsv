@@ -1,0 +1,168 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0006364	GO:0016072	rRNA metabolic process	3.029e-16	0.000e+00	2.091e+00	8.116e-03
+GO:0006364	GO:0006364	rRNA processing	1.544e-16	0.000e+00	2.097e+00	7.991e-03
+GO:0006364	GO:0000154	rRNA modification	6.147e-05	0.000e+00	2.579e+00	2.635e-03
+GO:0006364	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	5.694e-10	0.000e+00	4.317e+00	4.821e-05
+GO:0006364	GO:0030490	maturation of SSU-rRNA	7.006e-10	0.000e+00	3.696e+00	2.015e-04
+GO:0006364	GO:0000967	rRNA 5'-end processing	4.783e-05	0.000e+00	3.857e+00	1.390e-04
+GO:0006364	GO:0034471	ncRNA 5'-end processing	4.816e-05	0.000e+00	3.857e+00	1.390e-04
+GO:0006364	GO:0000966	RNA 5'-end processing	7.614e-05	0.000e+00	3.374e+00	4.226e-04
+GO:0006364	GO:0034470	ncRNA processing	1.774e-12	0.000e+00	1.615e+00	2.425e-02
+GO:0006364	GO:0006399	tRNA metabolic process	3.377e-03	0.000e+00	1.553e+00	2.799e-02
+GO:0006364	GO:0006418	tRNA aminoacylation for protein translation	9.458e-06	0.000e+00	1.986e+00	1.032e-02
+GO:0006364	GO:0043039	tRNA aminoacylation	1.517e-05	0.000e+00	1.949e+00	1.126e-02
+GO:0006364	GO:0043038	amino acid activation	1.751e-05	0.000e+00	1.948e+00	1.126e-02
+GO:0006364	GO:0006520	amino acid metabolic process	8.339e-03	0.000e+00	1.132e+00	7.385e-02
+GO:0006364	GO:0106074	aminoacyl-tRNA metabolism involved in translational fidelity	8.275e-04	0.000e+00	2.815e+00	1.530e-03
+GO:0006364	GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	6.061e-07	0.000e+00	4.529e+00	2.957e-05
+GO:0006364	GO:0000460	maturation of 5.8S rRNA	2.644e-06	0.000e+00	4.458e+00	3.483e-05
+GO:0006364	GO:0000470	maturation of LSU-rRNA	1.195e-05	0.000e+00	4.060e+00	8.712e-05
+GO:0006364	GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	4.095e-05	0.000e+00	4.153e+00	7.038e-05
+GO:0022618	GO:0071826	protein-RNA complex organization	1.057e-15	0.000e+00	2.683e+00	2.076e-03
+GO:0022618	GO:0022618	protein-RNA complex assembly	7.133e-16	0.000e+00	2.687e+00	2.058e-03
+GO:0022618	GO:0000387	spliceosomal snRNP assembly	2.603e-03	0.000e+00	3.187e+00	6.504e-04
+GO:0022618	GO:0042255	ribosome assembly	1.651e-03	0.000e+00	3.673e+00	2.123e-04
+GO:0022618	GO:0001732	formation of cytoplasmic translation initiation complex	2.780e-10	0.000e+00	3.910e+00	1.231e-04
+GO:0022618	GO:0000245	spliceosomal complex assembly	9.391e-03	0.000e+00	4.370e+00	4.268e-05
+GO:0022618	GO:0043248	proteasome assembly	9.215e-04	0.000e+00	4.006e+00	9.866e-05
+GO:0022618	GO:0000027	ribosomal large subunit assembly	3.079e-03	0.000e+00	3.362e+00	4.347e-04
+GO:0022618	GO:0046931	pore complex assembly	1.108e-03	0.000e+00	5.048e+00	8.948e-06
+GO:0022618	GO:0001731	formation of translation preinitiation complex	1.466e-03	0.000e+00	4.756e+00	1.754e-05
+GO:0022618	GO:0051131	chaperone-mediated protein complex assembly	1.466e-03	0.000e+00	4.282e+00	5.221e-05
+GO:0022618	GO:0000491	small nucleolar ribonucleoprotein complex assembly	6.048e-03	0.000e+00	4.544e+00	2.855e-05
+GO:0022618	GO:0042274	ribosomal small subunit biogenesis	1.302e-09	0.000e+00	3.187e+00	6.495e-04
+GO:0022618	GO:0042273	ribosomal large subunit biogenesis	4.473e-08	0.000e+00	4.037e+00	9.191e-05
+GO:0006457	GO:0006457	protein folding	1.469e-14	0.000e+00	2.332e+00	4.655e-03
+GO:0006457	GO:0042026	protein refolding	1.093e-03	0.000e+00	3.176e+00	6.675e-04
+GO:0006457	GO:0061077	chaperone-mediated protein folding	3.791e-11	0.000e+00	3.754e+00	1.764e-04
+GO:0006457	GO:0051085	chaperone cofactor-dependent protein refolding	2.385e-05	0.000e+00	4.638e+00	2.302e-05
+GO:0006457	GO:0006458	'de novo' protein folding	4.038e-13	0.000e+00	4.307e+00	4.934e-05
+GO:0006457	GO:0051084	'de novo' post-translational protein folding	1.279e-07	0.000e+00	4.541e+00	2.874e-05
+GO:0006986	GO:0006986	response to unfolded protein	1.324e-09	0.000e+00	4.322e+00	4.768e-05
+GO:0006986	GO:0035966	response to topologically incorrect protein	1.659e-08	0.000e+00	4.292e+00	5.101e-05
+GO:0006986	GO:0060359	response to ammonium ion	3.842e-03	0.000e+00	5.867e+00	1.357e-06
+GO:0006986	GO:0034620	cellular response to unfolded protein	5.187e-08	0.000e+00	5.200e+00	6.308e-06
+GO:0006986	GO:0035967	cellular response to topologically incorrect protein	4.357e-07	0.000e+00	5.053e+00	8.851e-06
+GO:0006836	GO:0006836	neurotransmitter transport	9.757e-03	0.000e+00	3.884e+00	1.306e-04
+GO:0030968	GO:0034976	response to endoplasmic reticulum stress	1.271e-05	0.000e+00	3.595e+00	2.540e-04
+GO:0030968	GO:0030968	endoplasmic reticulum unfolded protein response	4.481e-06	0.000e+00	4.165e+00	6.836e-05
+GO:0030968	GO:0036498	IRE1-mediated unfolded protein response	1.517e-05	0.000e+00	5.648e+00	2.247e-06
+GO:0070646	GO:0070646	protein modification by small protein removal	7.574e-04	0.000e+00	3.087e+00	8.179e-04
+GO:0070646	GO:0016579	protein deubiquitination	3.761e-03	0.000e+00	3.106e+00	7.839e-04
+GO:0070646	GO:0018279	protein N-linked glycosylation via asparagine	1.546e-03	0.000e+00	4.474e+00	3.355e-05
+GO:0071166	GO:0071166	ribonucleoprotein complex localization	1.734e-05	0.000e+00	6.733e+00	1.847e-07
+GO:0002181	GO:0002181	cytoplasmic translation	2.082e-04	0.000e+00	4.532e+00	2.939e-05
+GO:0050821	GO:0050821	protein stabilization	3.749e-03	0.000e+00	3.910e+00	1.231e-04
+GO:0050821	GO:0006450	regulation of translational fidelity	2.603e-03	0.000e+00	2.775e+00	1.678e-03
+GO:0050821	GO:0010918	positive regulation of mitochondrial membrane potential	9.087e-03	0.000e+00	5.784e+00	1.642e-06
+GO:0009584	GO:0009584	detection of visible light	1.312e-07	0.000e+00	4.121e+00	7.574e-05
+GO:0009584	GO:0007602	phototransduction	1.783e-05	0.000e+00	3.667e+00	2.153e-04
+GO:0009584	GO:0009583	detection of light stimulus	1.751e-05	0.000e+00	3.537e+00	2.902e-04
+GO:0009584	GO:0009582	detection of abiotic stimulus	4.284e-03	0.000e+00	3.516e+00	3.050e-04
+GO:0009584	GO:0009581	detection of external stimulus	8.250e-03	0.000e+00	3.516e+00	3.051e-04
+GO:0009584	GO:0009408	response to heat	7.865e-03	0.000e+00	3.169e+00	6.782e-04
+GO:0009584	GO:0071482	cellular response to light stimulus	2.294e-03	0.000e+00	4.054e+00	8.822e-05
+GO:0009584	GO:0007603	phototransduction, visible light	4.524e-04	0.000e+00	5.753e+00	1.767e-06
+GO:0002183	GO:0006413	translational initiation	3.026e-06	0.000e+00	2.504e+00	3.135e-03
+GO:0002183	GO:0002183	cytoplasmic translational initiation	3.471e-11	0.000e+00	3.869e+00	1.353e-04
+GO:0015837	GO:0015837	amine transport	1.283e-03	0.000e+00	4.965e+00	1.084e-05
+GO:0065002	GO:0006605	protein targeting	2.576e-04	0.000e+00	2.675e+00	2.113e-03
+GO:0065002	GO:0065002	intracellular protein transmembrane transport	9.008e-08	0.000e+00	3.071e+00	8.489e-04
+GO:0065002	GO:0071806	protein transmembrane transport	7.643e-08	0.000e+00	2.538e+00	2.897e-03
+GO:0065002	GO:0017038	protein import	9.448e-06	0.000e+00	3.633e+00	2.329e-04
+GO:0065002	GO:0030150	protein import into mitochondrial matrix	2.423e-05	0.000e+00	4.090e+00	8.131e-05
+GO:0065002	GO:1990542	mitochondrial transmembrane transport	2.167e-05	0.000e+00	3.935e+00	1.161e-04
+GO:0065002	GO:0006839	mitochondrial transport	1.850e-05	0.000e+00	3.685e+00	2.066e-04
+GO:0065002	GO:0006616	SRP-dependent cotranslational protein targeting to membrane, translocation	9.602e-04	0.000e+00	4.867e+00	1.359e-05
+GO:0065002	GO:0006405	RNA export from nucleus	2.385e-05	0.000e+00	3.677e+00	2.102e-04
+GO:0065002	GO:0051168	nuclear export	2.326e-04	0.000e+00	3.439e+00	3.638e-04
+GO:0065002	GO:0006406	mRNA export from nucleus	3.244e-04	0.000e+00	3.807e+00	1.560e-04
+GO:0065002	GO:0006913	nucleocytoplasmic transport	3.915e-05	0.000e+00	3.084e+00	8.245e-04
+GO:0065002	GO:0051169	nuclear transport	4.085e-05	0.000e+00	3.071e+00	8.491e-04
+GO:0065002	GO:0051170	import into nucleus	1.822e-03	0.000e+00	3.663e+00	2.172e-04
+GO:0065002	GO:0050658	RNA transport	9.010e-05	0.000e+00	3.184e+00	6.547e-04
+GO:0065002	GO:0050657	nucleic acid transport	9.010e-05	0.000e+00	3.180e+00	6.601e-04
+GO:0065002	GO:0015931	nucleobase-containing compound transport	7.789e-04	0.000e+00	2.919e+00	1.204e-03
+GO:0065002	GO:0051236	establishment of RNA localization	1.012e-04	0.000e+00	3.184e+00	6.551e-04
+GO:0065002	GO:0051028	mRNA transport	9.602e-04	0.000e+00	3.233e+00	5.851e-04
+GO:0065002	GO:0051205	protein insertion into membrane	2.816e-04	0.000e+00	3.552e+00	2.803e-04
+GO:0065002	GO:0090151	establishment of protein localization to mitochondrial membrane	1.093e-03	0.000e+00	4.242e+00	5.730e-05
+GO:0000469	GO:0000469	cleavage involved in rRNA processing	3.026e-06	0.000e+00	4.091e+00	8.109e-05
+GO:0000469	GO:0000478	endonucleolytic cleavage involved in rRNA processing	1.461e-05	0.000e+00	4.666e+00	2.157e-05
+GO:0000469	GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	9.458e-06	0.000e+00	4.667e+00	2.153e-05
+GO:0000469	GO:0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	6.103e-03	0.000e+00	2.416e+00	3.836e-03
+GO:0000469	GO:0000447	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	4.095e-05	0.000e+00	5.176e+00	6.661e-06
+GO:0000469	GO:0000480	endonucleolytic cleavage in 5'-ETS of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2.390e-05	0.000e+00	5.238e+00	5.781e-06
+GO:0000469	GO:0000472	endonucleolytic cleavage to generate mature 5'-end of SSU-rRNA from (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	3.459e-05	0.000e+00	5.248e+00	5.653e-06
+GO:0007004	GO:0007004	telomere maintenance via telomerase	8.155e-06	0.000e+00	4.936e+00	1.159e-05
+GO:0007004	GO:0010833	telomere maintenance via telomere lengthening	2.423e-05	0.000e+00	4.662e+00	2.176e-05
+GO:0007004	GO:0006278	RNA-templated DNA biosynthetic process	2.423e-05	0.000e+00	2.671e+00	2.133e-03
+GO:0007004	GO:0071897	DNA biosynthetic process	7.326e-04	0.000e+00	2.145e+00	7.165e-03
+GO:0007004	GO:0000723	telomere maintenance	1.109e-03	0.000e+00	3.596e+00	2.534e-04
+GO:0007004	GO:0032200	telomere organization	1.265e-03	0.000e+00	3.595e+00	2.543e-04
+GO:0006446	GO:0006446	regulation of translational initiation	9.946e-05	0.000e+00	3.848e+00	1.418e-04
+GO:0006446	GO:0006417	regulation of translation	2.758e-04	0.000e+00	2.560e+00	2.753e-03
+GO:0006446	GO:0045727	positive regulation of translation	4.169e-03	0.000e+00	3.517e+00	3.041e-04
+GO:0090671	GO:0090671	telomerase RNA localization to Cajal body	4.145e-13	0.000e+00	6.741e+00	1.814e-07
+GO:0090671	GO:0090672	telomerase RNA localization	4.145e-13	0.000e+00	6.741e+00	1.814e-07
+GO:0090671	GO:0090670	RNA localization to Cajal body	4.145e-13	0.000e+00	5.958e+00	1.102e-06
+GO:0090671	GO:0006403	RNA localization	2.849e-11	0.000e+00	5.027e+00	9.398e-06
+GO:0090671	GO:0090685	RNA localization to nucleus	4.145e-13	0.000e+00	5.958e+00	1.102e-06
+GO:1904874	GO:1904872	regulation of telomerase RNA localization to Cajal body	2.210e-13	0.000e+00	5.838e+00	1.451e-06
+GO:1904874	GO:1904874	positive regulation of telomerase RNA localization to Cajal body	2.252e-13	0.000e+00	6.129e+00	7.423e-07
+GO:1904874	GO:0051952	regulation of amine transport	3.244e-04	0.000e+00	4.584e+00	2.603e-05
+GO:1904874	GO:0051955	regulation of amino acid transport	3.464e-03	0.000e+00	4.768e+00	1.707e-05
+GO:1904874	GO:0050433	regulation of catecholamine secretion	9.602e-04	0.000e+00	5.138e+00	7.282e-06
+GO:1904874	GO:0014059	regulation of dopamine secretion	2.116e-03	0.000e+00	5.252e+00	5.599e-06
+GO:1904874	GO:2000118	regulation of sodium-dependent phosphate transport	9.087e-03	0.000e+00	6.139e+00	7.255e-07
+GO:1901998	GO:1901998	toxin transport	6.733e-05	0.000e+00	4.270e+00	5.371e-05
+GO:0006695	GO:0006695	cholesterol biosynthetic process	1.544e-04	0.000e+00	4.225e+00	5.951e-05
+GO:0006695	GO:1902653	secondary alcohol biosynthetic process	2.730e-03	0.000e+00	3.900e+00	1.259e-04
+GO:0006695	GO:0016126	sterol biosynthetic process	6.413e-03	0.000e+00	3.613e+00	2.436e-04
+GO:0032212	GO:2000573	positive regulation of DNA biosynthetic process	1.123e-05	0.000e+00	4.722e+00	1.898e-05
+GO:0032212	GO:0032212	positive regulation of telomere maintenance via telomerase	1.228e-05	0.000e+00	5.267e+00	5.408e-06
+GO:0032212	GO:2000278	regulation of DNA biosynthetic process	1.195e-05	0.000e+00	4.506e+00	3.117e-05
+GO:0032212	GO:1904358	positive regulation of telomere maintenance via telomere lengthening	1.908e-05	0.000e+00	5.213e+00	6.120e-06
+GO:0032212	GO:0032206	positive regulation of telomere maintenance	6.360e-04	0.000e+00	4.839e+00	1.449e-05
+GO:0032212	GO:0032204	regulation of telomere maintenance	1.210e-03	0.000e+00	4.554e+00	2.791e-05
+GO:0032212	GO:0032210	regulation of telomere maintenance via telomerase	1.734e-05	0.000e+00	4.953e+00	1.114e-05
+GO:0032212	GO:1904356	regulation of telomere maintenance via telomere lengthening	6.733e-05	0.000e+00	4.886e+00	1.302e-05
+GO:1904871	GO:1900182	positive regulation of protein localization to nucleus	2.758e-04	0.000e+00	4.826e+00	1.493e-05
+GO:1904871	GO:1904871	positive regulation of protein localization to Cajal body	2.231e-10	0.000e+00	6.428e+00	3.728e-07
+GO:1904871	GO:1900180	regulation of protein localization to nucleus	8.635e-04	0.000e+00	4.633e+00	2.330e-05
+GO:1904871	GO:1904869	regulation of protein localization to Cajal body	2.231e-10	0.000e+00	6.428e+00	3.728e-07
+GO:1904871	GO:1904851	positive regulation of establishment of protein localization to telomere	2.231e-10	0.000e+00	5.758e+00	1.747e-06
+GO:1904871	GO:0070203	regulation of establishment of protein localization to telomere	2.231e-10	0.000e+00	5.717e+00	1.918e-06
+GO:1904871	GO:1904816	positive regulation of protein localization to chromosome, telomeric region	2.356e-08	0.000e+00	5.678e+00	2.099e-06
+GO:1904871	GO:0070202	regulation of establishment of protein localization to chromosome	9.241e-10	0.000e+00	5.669e+00	2.143e-06
+GO:1904871	GO:1904814	regulation of protein localization to chromosome, telomeric region	5.117e-08	0.000e+00	5.608e+00	2.465e-06
+GO:1904867	GO:1903405	protein localization to nuclear body	9.241e-10	0.000e+00	6.605e+00	2.486e-07
+GO:1904867	GO:1904867	protein localization to Cajal body	9.241e-10	0.000e+00	6.605e+00	2.486e-07
+GO:1904867	GO:1990173	protein localization to nucleoplasm	9.503e-09	0.000e+00	6.243e+00	5.710e-07
+GO:1904867	GO:0072655	establishment of protein localization to mitochondrion	4.997e-09	0.000e+00	3.797e+00	1.595e-04
+GO:1904867	GO:0070585	protein localization to mitochondrion	8.544e-09	0.000e+00	3.793e+00	1.611e-04
+GO:1904867	GO:0006626	protein targeting to mitochondrion	2.660e-08	0.000e+00	5.150e+00	7.087e-06
+GO:1904867	GO:0044743	protein transmembrane import into intracellular organelle	7.619e-06	0.000e+00	3.819e+00	1.518e-04
+GO:1904867	GO:0034504	protein localization to nucleus	1.652e-06	0.000e+00	3.669e+00	2.143e-04
+GO:1904867	GO:0006606	protein import into nucleus	9.391e-03	0.000e+00	3.696e+00	2.012e-04
+GO:1904867	GO:0070200	establishment of protein localization to telomere	2.356e-08	0.000e+00	5.901e+00	1.256e-06
+GO:1904867	GO:0070199	establishment of protein localization to chromosome	9.796e-08	0.000e+00	5.493e+00	3.214e-06
+GO:1904867	GO:0070198	protein localization to chromosome, telomeric region	1.388e-05	0.000e+00	5.488e+00	3.248e-06
+GO:1904867	GO:0034502	protein localization to chromosome	1.147e-03	0.000e+00	4.257e+00	5.532e-05
+GO:0007339	GO:0007339	binding of sperm to zona pellucida	4.095e-05	0.000e+00	4.697e+00	2.011e-05
+GO:0007339	GO:0035036	sperm-egg recognition	7.961e-04	0.000e+00	4.641e+00	2.283e-05
+GO:0007339	GO:0009988	cell-cell recognition	1.837e-03	0.000e+00	4.614e+00	2.429e-05
+GO:1900744	GO:1900744	regulation of p38MAPK cascade	2.447e-04	0.000e+00	4.887e+00	1.297e-05
+GO:1900744	GO:1900745	positive regulation of p38MAPK cascade	1.945e-03	0.000e+00	4.999e+00	1.002e-05
+GO:0045540	GO:0045540	regulation of cholesterol biosynthetic process	7.961e-04	0.000e+00	5.463e+00	3.443e-06
+GO:0045540	GO:0106118	regulation of sterol biosynthetic process	7.961e-04	0.000e+00	5.411e+00	3.883e-06
+GO:0045540	GO:0090181	regulation of cholesterol metabolic process	7.564e-03	0.000e+00	5.178e+00	6.634e-06
+GO:0038066	GO:0038066	p38MAPK cascade	2.259e-03	0.000e+00	5.406e+00	3.930e-06
+GO:0014046	GO:0050432	catecholamine secretion	1.239e-03	0.000e+00	5.958e+00	1.102e-06
+GO:0014046	GO:0014046	dopamine secretion	2.116e-03	0.000e+00	6.211e+00	6.147e-07
+GO:0014046	GO:0051937	catecholamine transport	4.280e-03	0.000e+00	4.999e+00	1.003e-05
+GO:0014046	GO:0048791	calcium ion-regulated exocytosis of neurotransmitter	5.333e-03	0.000e+00	5.586e+00	2.596e-06
+GO:1905214	GO:1905214	regulation of RNA binding	2.529e-04	0.000e+00	5.745e+00	1.800e-06
+GO:1905214	GO:1905216	positive regulation of RNA binding	9.602e-04	0.000e+00	5.859e+00	1.384e-06
+GO:1905214	GO:1902415	regulation of mRNA binding	9.602e-04	0.000e+00	5.975e+00	1.058e-06
+GO:0019081	GO:0019081	viral translation	1.466e-03	0.000e+00	5.427e+00	3.742e-06

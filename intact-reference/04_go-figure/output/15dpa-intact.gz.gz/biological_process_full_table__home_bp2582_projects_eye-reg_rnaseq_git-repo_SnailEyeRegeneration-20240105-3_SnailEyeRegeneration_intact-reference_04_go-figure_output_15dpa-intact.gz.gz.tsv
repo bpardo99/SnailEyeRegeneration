@@ -1,0 +1,424 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0051052	GO:0051052	regulation of DNA metabolic process	4.726e-25	0.000e+00	3.027e+00	9.400e-04
+GO:0051052	GO:0006275	regulation of DNA replication	2.108e-14	0.000e+00	3.297e+00	5.052e-04
+GO:0051052	GO:0006282	regulation of DNA repair	1.137e-05	0.000e+00	3.535e+00	2.919e-04
+GO:0051052	GO:0051053	negative regulation of DNA metabolic process	1.533e-06	0.000e+00	3.807e+00	1.560e-04
+GO:0051052	GO:0045910	negative regulation of DNA recombination	3.035e-04	0.000e+00	4.127e+00	7.468e-05
+GO:0051052	GO:0090329	regulation of DNA-templated DNA replication	5.485e-14	0.000e+00	3.942e+00	1.144e-04
+GO:0051052	GO:0030174	regulation of DNA-templated DNA replication initiation	4.456e-07	0.000e+00	4.023e+00	9.488e-05
+GO:0051052	GO:0000018	regulation of DNA recombination	5.087e-08	0.000e+00	3.995e+00	1.011e-04
+GO:0051052	GO:0010569	regulation of double-strand break repair via homologous recombination	4.800e-05	0.000e+00	4.598e+00	2.521e-05
+GO:0051052	GO:2000779	regulation of double-strand break repair	1.180e-05	0.000e+00	4.365e+00	4.318e-05
+GO:0051052	GO:2000781	positive regulation of double-strand break repair	4.213e-04	0.000e+00	4.777e+00	1.671e-05
+GO:0140014	GO:0140014	mitotic nuclear division	4.608e-27	0.000e+00	5.537e+00	2.905e-06
+GO:0140014	GO:0140013	meiotic nuclear division	9.543e-20	0.000e+00	4.341e+00	4.559e-05
+GO:0140014	GO:0007127	meiosis I	2.228e-11	0.000e+00	4.822e+00	1.505e-05
+GO:0140014	GO:0007140	male meiotic nuclear division	1.855e-06	0.000e+00	4.574e+00	2.665e-05
+GO:0140014	GO:0007135	meiosis II	2.683e-05	0.000e+00	5.215e+00	6.090e-06
+GO:0140014	GO:0061983	meiosis II cell cycle process	4.800e-05	0.000e+00	5.184e+00	6.546e-06
+GO:0098813	GO:0098813	nuclear chromosome segregation	1.187e-28	0.000e+00	4.322e+00	4.770e-05
+GO:0098813	GO:0045132	meiotic chromosome segregation	3.952e-11	0.000e+00	4.678e+00	2.099e-05
+GO:0098813	GO:0045143	homologous chromosome segregation	1.335e-03	0.000e+00	5.763e+00	1.726e-06
+GO:0098813	GO:0016321	female meiosis chromosome segregation	8.758e-05	0.000e+00	5.809e+00	1.552e-06
+GO:0098813	GO:0007060	male meiosis chromosome segregation	4.475e-03	0.000e+00	5.953e+00	1.115e-06
+GO:0098813	GO:0000819	sister chromatid segregation	4.235e-28	0.000e+00	4.718e+00	1.913e-05
+GO:0098813	GO:0000070	mitotic sister chromatid segregation	3.962e-26	0.000e+00	4.837e+00	1.455e-05
+GO:0098813	GO:0045144	meiotic sister chromatid segregation	6.520e-04	0.000e+00	5.446e+00	3.581e-06
+GO:0071103	GO:0071103	DNA conformation change	1.386e-34	0.000e+00	2.351e+00	4.452e-03
+GO:0071103	GO:0032392	DNA geometric change	4.888e-17	0.000e+00	2.560e+00	2.754e-03
+GO:0071103	GO:0032508	DNA duplex unwinding	4.256e-15	0.000e+00	2.562e+00	2.741e-03
+GO:0071103	GO:0000002	mitochondrial genome maintenance	1.533e-03	0.000e+00	4.339e+00	4.586e-05
+GO:0071103	GO:0070193	synaptonemal complex organization	8.281e-05	0.000e+00	4.742e+00	1.812e-05
+GO:0071103	GO:0051383	kinetochore organization	7.504e-05	0.000e+00	4.433e+00	3.690e-05
+GO:0071103	GO:0006268	DNA unwinding involved in DNA replication	4.532e-05	0.000e+00	3.586e+00	2.594e-04
+GO:0071103	GO:0043570	maintenance of DNA repeat elements	1.413e-03	0.000e+00	3.489e+00	3.242e-04
+GO:0071103	GO:0030261	chromosome condensation	2.702e-16	0.000e+00	3.490e+00	3.238e-04
+GO:0071103	GO:0007076	mitotic chromosome condensation	2.199e-07	0.000e+00	4.224e+00	5.975e-05
+GO:0071103	GO:0042254	ribosome biogenesis	2.777e-08	0.000e+00	2.584e+00	2.608e-03
+GO:0071103	GO:0042273	ribosomal large subunit biogenesis	7.060e-04	0.000e+00	4.037e+00	9.191e-05
+GO:0071103	GO:0032200	telomere organization	2.963e-22	0.000e+00	3.595e+00	2.543e-04
+GO:0071103	GO:0000723	telomere maintenance	9.142e-22	0.000e+00	3.596e+00	2.534e-04
+GO:0071103	GO:0007004	telomere maintenance via telomerase	2.496e-10	0.000e+00	4.936e+00	1.159e-05
+GO:0071103	GO:0010833	telomere maintenance via telomere lengthening	6.204e-10	0.000e+00	4.662e+00	2.176e-05
+GO:0071103	GO:0032201	telomere maintenance via semi-conservative replication	9.080e-11	0.000e+00	6.186e+00	6.516e-07
+GO:0071103	GO:0016233	telomere capping	1.917e-03	0.000e+00	4.801e+00	1.580e-05
+GO:0071103	GO:0006997	nucleus organization	1.049e-07	0.000e+00	4.398e+00	4.003e-05
+GO:0071103	GO:0006999	nuclear pore organization	8.792e-04	0.000e+00	5.320e+00	4.786e-06
+GO:0071103	GO:0007000	nucleolus organization	2.093e-03	0.000e+00	5.810e+00	1.548e-06
+GO:0071103	GO:0007062	sister chromatid cohesion	4.909e-11	0.000e+00	3.622e+00	2.388e-04
+GO:0071103	GO:0007064	mitotic sister chromatid cohesion	2.494e-04	0.000e+00	4.130e+00	7.419e-05
+GO:0071103	GO:0030199	collagen fibril organization	1.373e-03	0.000e+00	4.928e+00	1.179e-05
+GO:0071103	GO:0043062	extracellular structure organization	7.685e-03	0.000e+00	3.790e+00	1.623e-04
+GO:0071103	GO:0071711	basement membrane organization	1.180e-03	0.000e+00	5.164e+00	6.855e-06
+GO:0071103	GO:0070831	basement membrane assembly	4.475e-03	0.000e+00	5.739e+00	1.824e-06
+GO:0006260	GO:0006260	DNA replication	1.665e-31	0.000e+00	2.060e+00	8.702e-03
+GO:0006260	GO:0006261	DNA-templated DNA replication	7.820e-27	0.000e+00	3.047e+00	8.967e-04
+GO:0006260	GO:0033260	nuclear DNA replication	1.030e-23	0.000e+00	4.391e+00	4.062e-05
+GO:0006260	GO:0044786	cell cycle DNA replication	4.399e-23	0.000e+00	4.336e+00	4.618e-05
+GO:0006260	GO:0042023	DNA endoreduplication	2.093e-03	0.000e+00	5.260e+00	5.498e-06
+GO:0006260	GO:1902969	mitotic DNA replication	8.320e-09	0.000e+00	5.884e+00	1.307e-06
+GO:0006260	GO:0006310	DNA recombination	1.030e-23	0.000e+00	1.896e+00	1.270e-02
+GO:0006260	GO:0000725	recombinational repair	2.510e-19	0.000e+00	3.361e+00	4.352e-04
+GO:0006260	GO:0006270	DNA replication initiation	4.494e-17	0.000e+00	3.269e+00	5.381e-04
+GO:0006260	GO:0006312	mitotic recombination	5.014e-03	0.000e+00	5.107e+00	7.816e-06
+GO:0033044	GO:0033044	regulation of chromosome organization	7.935e-22	0.000e+00	3.767e+00	1.711e-04
+GO:0033044	GO:0033045	regulation of sister chromatid segregation	3.943e-12	0.000e+00	3.961e+00	1.094e-04
+GO:0033044	GO:1902275	regulation of chromatin organization	4.515e-03	0.000e+00	4.912e+00	1.226e-05
+GO:0033044	GO:0007063	regulation of sister chromatid cohesion	2.365e-04	0.000e+00	5.405e+00	3.933e-06
+GO:0033044	GO:2001251	negative regulation of chromosome organization	9.027e-13	0.000e+00	4.121e+00	7.569e-05
+GO:0033044	GO:0010639	negative regulation of organelle organization	3.244e-06	0.000e+00	3.400e+00	3.981e-04
+GO:0033044	GO:0033046	negative regulation of sister chromatid segregation	1.192e-07	0.000e+00	4.284e+00	5.205e-05
+GO:0033044	GO:0070507	regulation of microtubule cytoskeleton organization	1.377e-03	0.000e+00	3.988e+00	1.027e-04
+GO:0033044	GO:0090224	regulation of spindle organization	6.229e-03	0.000e+00	4.394e+00	4.034e-05
+GO:1903046	GO:1903046	meiotic cell cycle process	1.625e-21	0.000e+00	3.563e+00	2.732e-04
+GO:1903046	GO:0061982	meiosis I cell cycle process	3.892e-13	0.000e+00	4.102e+00	7.909e-05
+GO:1903046	GO:0046661	male sex differentiation	6.555e-04	0.000e+00	5.689e+00	2.046e-06
+GO:1903046	GO:0007338	single fertilization	7.848e-03	0.000e+00	4.588e+00	2.585e-05
+GO:1903046	GO:0032506	cytokinetic process	7.393e-03	0.000e+00	2.938e+00	1.152e-03
+GO:1903046	GO:0045138	nematode male tail tip morphogenesis	8.916e-04	0.000e+00	5.895e+00	1.273e-06
+GO:1903046	GO:0048704	embryonic skeletal system morphogenesis	3.863e-03	0.000e+00	4.678e+00	2.100e-05
+GO:1903046	GO:0051298	centrosome duplication	4.527e-03	0.000e+00	4.821e+00	1.509e-05
+GO:1903046	GO:0045023	G0 to G1 transition	9.668e-04	0.000e+00	6.267e+00	5.408e-07
+GO:1903046	GO:0070192	chromosome organization involved in meiotic cell cycle	1.985e-07	0.000e+00	4.377e+00	4.201e-05
+GO:1903046	GO:0007130	synaptonemal complex assembly	7.093e-03	0.000e+00	4.822e+00	1.507e-05
+GO:1903046	GO:0010032	meiotic chromosome condensation	4.456e-07	0.000e+00	5.350e+00	4.467e-06
+GO:1903046	GO:0045137	development of primary sexual characteristics	4.339e-05	0.000e+00	5.843e+00	1.434e-06
+GO:1903046	GO:0008406	gonad development	1.213e-04	0.000e+00	4.567e+00	2.711e-05
+GO:1903046	GO:0051304	chromosome separation	3.522e-12	0.000e+00	3.916e+00	1.214e-04
+GO:1903046	GO:0051306	mitotic sister chromatid separation	1.641e-11	0.000e+00	5.300e+00	5.011e-06
+GO:1903046	GO:0051307	meiotic chromosome separation	2.814e-04	0.000e+00	5.884e+00	1.307e-06
+GO:1903046	GO:0007143	female meiotic nuclear division	2.791e-13	0.000e+00	5.026e+00	9.422e-06
+GO:1903046	GO:0007144	female meiosis I	1.229e-04	0.000e+00	5.862e+00	1.374e-06
+GO:1903046	GO:0008608	attachment of spindle microtubules to kinetochore	1.486e-08	0.000e+00	4.172e+00	6.726e-05
+GO:1903046	GO:0051315	attachment of mitotic spindle microtubules to kinetochore	4.532e-05	0.000e+00	4.530e+00	2.950e-05
+GO:1901990	GO:1901990	regulation of mitotic cell cycle phase transition	3.016e-20	0.000e+00	3.704e+00	1.975e-04
+GO:1901990	GO:1901991	negative regulation of mitotic cell cycle phase transition	9.646e-10	0.000e+00	3.945e+00	1.136e-04
+GO:1901990	GO:0007096	regulation of exit from mitosis	1.408e-04	0.000e+00	4.859e+00	1.384e-05
+GO:1901990	GO:1901976	regulation of cell cycle checkpoint	2.336e-03	0.000e+00	4.891e+00	1.286e-05
+GO:1901990	GO:0009794	regulation of mitotic cell cycle, embryonic	3.581e-03	0.000e+00	5.699e+00	1.999e-06
+GO:1901990	GO:0010389	regulation of G2/M transition of mitotic cell cycle	2.063e-10	0.000e+00	4.271e+00	5.355e-05
+GO:1901990	GO:1902749	regulation of cell cycle G2/M phase transition	2.063e-10	0.000e+00	4.136e+00	7.314e-05
+GO:1901990	GO:0010972	negative regulation of G2/M transition of mitotic cell cycle	1.255e-05	0.000e+00	4.357e+00	4.397e-05
+GO:1901990	GO:0044818	mitotic G2/M transition checkpoint	6.600e-06	0.000e+00	4.428e+00	3.734e-05
+GO:1901990	GO:1902750	negative regulation of cell cycle G2/M phase transition	1.630e-05	0.000e+00	4.351e+00	4.458e-05
+GO:1901990	GO:2000045	regulation of G1/S transition of mitotic cell cycle	3.776e-05	0.000e+00	4.607e+00	2.472e-05
+GO:1901990	GO:1902806	regulation of cell cycle G1/S phase transition	6.224e-05	0.000e+00	4.531e+00	2.942e-05
+GO:1901990	GO:1900087	positive regulation of G1/S transition of mitotic cell cycle	2.042e-03	0.000e+00	5.126e+00	7.477e-06
+GO:1901990	GO:1902808	positive regulation of cell cycle G1/S phase transition	8.032e-04	0.000e+00	5.027e+00	9.402e-06
+GO:0045787	GO:0045787	positive regulation of cell cycle	4.888e-17	0.000e+00	3.915e+00	1.215e-04
+GO:0045787	GO:0090068	positive regulation of cell cycle process	1.745e-14	0.000e+00	4.043e+00	9.059e-05
+GO:0045787	GO:1901989	positive regulation of cell cycle phase transition	1.059e-09	0.000e+00	4.382e+00	4.148e-05
+GO:0045787	GO:1902751	positive regulation of cell cycle G2/M phase transition	2.365e-04	0.000e+00	4.618e+00	2.409e-05
+GO:0045787	GO:0045931	positive regulation of mitotic cell cycle	6.572e-11	0.000e+00	4.568e+00	2.702e-05
+GO:0045787	GO:1901992	positive regulation of mitotic cell cycle phase transition	6.998e-10	0.000e+00	4.698e+00	2.006e-05
+GO:0045787	GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	3.820e-04	0.000e+00	5.214e+00	6.113e-06
+GO:0010948	GO:0010948	negative regulation of cell cycle process	1.903e-18	0.000e+00	3.578e+00	2.643e-04
+GO:0010948	GO:1901988	negative regulation of cell cycle phase transition	3.587e-15	0.000e+00	3.654e+00	2.216e-04
+GO:0010948	GO:0000075	cell cycle checkpoint signaling	5.742e-16	0.000e+00	3.699e+00	2.000e-04
+GO:0010948	GO:0032954	regulation of cytokinetic process	2.793e-03	0.000e+00	3.938e+00	1.152e-04
+GO:0010948	GO:0070317	negative regulation of G0 to G1 transition	4.589e-03	0.000e+00	6.179e+00	6.617e-07
+GO:0010948	GO:0070316	regulation of G0 to G1 transition	2.793e-03	0.000e+00	5.605e+00	2.482e-06
+GO:0010948	GO:0031570	DNA integrity checkpoint signaling	2.971e-11	0.000e+00	3.846e+00	1.424e-04
+GO:0010948	GO:0000077	DNA damage checkpoint signaling	9.917e-07	0.000e+00	3.959e+00	1.100e-04
+GO:0010948	GO:0000076	DNA replication checkpoint signaling	1.989e-06	0.000e+00	4.499e+00	3.173e-05
+GO:0010948	GO:0033313	meiotic cell cycle checkpoint signaling	6.097e-03	0.000e+00	5.490e+00	3.238e-06
+GO:0010948	GO:0031577	spindle checkpoint signaling	5.989e-07	0.000e+00	4.279e+00	5.260e-05
+GO:0010948	GO:0071173	spindle assembly checkpoint signaling	2.978e-06	0.000e+00	4.285e+00	5.189e-05
+GO:0071897	GO:0071897	DNA biosynthetic process	1.300e-29	0.000e+00	2.145e+00	7.165e-03
+GO:0071897	GO:0006278	RNA-templated DNA biosynthetic process	1.526e-11	0.000e+00	2.671e+00	2.133e-03
+GO:0071897	GO:0000731	DNA synthesis involved in DNA repair	1.923e-07	0.000e+00	4.148e+00	7.107e-05
+GO:0071897	GO:0019985	translesion synthesis	1.095e-04	0.000e+00	4.246e+00	5.670e-05
+GO:0071897	GO:0042276	error-prone translesion synthesis	6.600e-06	0.000e+00	4.683e+00	2.075e-05
+GO:0071897	GO:0006301	postreplication repair	2.822e-05	0.000e+00	4.142e+00	7.206e-05
+GO:0071897	GO:0070987	error-free translesion synthesis	1.951e-03	0.000e+00	4.774e+00	1.682e-05
+GO:0071897	GO:0009124	nucleoside monophosphate biosynthetic process	4.338e-03	0.000e+00	2.054e+00	8.834e-03
+GO:0071897	GO:0009263	deoxyribonucleotide biosynthetic process	4.263e-03	0.000e+00	2.808e+00	1.555e-03
+GO:0071897	GO:0006277	DNA amplification	3.143e-08	0.000e+00	6.228e+00	5.912e-07
+GO:0071897	GO:0007307	eggshell chorion gene amplification	3.656e-07	0.000e+00	6.357e+00	4.400e-07
+GO:0071897	GO:0046112	nucleobase biosynthetic process	2.365e-04	0.000e+00	2.862e+00	1.374e-03
+GO:0071897	GO:0009112	nucleobase metabolic process	2.882e-03	0.000e+00	2.683e+00	2.073e-03
+GO:0071897	GO:0009113	purine nucleobase biosynthetic process	3.066e-03	0.000e+00	3.267e+00	5.414e-04
+GO:0006302	GO:0006302	double-strand break repair	2.963e-22	0.000e+00	3.052e+00	8.878e-04
+GO:0006302	GO:0000724	double-strand break repair via homologous recombination	2.510e-19	0.000e+00	3.516e+00	3.049e-04
+GO:0006302	GO:0006303	double-strand break repair via nonhomologous end joining	4.643e-05	0.000e+00	3.746e+00	1.796e-04
+GO:0006302	GO:0036297	interstrand cross-link repair	2.490e-04	0.000e+00	4.127e+00	7.467e-05
+GO:0006302	GO:0000727	double-strand break repair via break-induced replication	6.998e-10	0.000e+00	4.662e+00	2.177e-05
+GO:0006302	GO:0006298	mismatch repair	2.428e-06	0.000e+00	3.097e+00	7.996e-04
+GO:0006302	GO:0006284	base-excision repair	1.683e-05	0.000e+00	2.895e+00	1.275e-03
+GO:0006302	GO:0006289	nucleotide-excision repair	3.776e-05	0.000e+00	2.945e+00	1.135e-03
+GO:0006302	GO:0006283	transcription-coupled nucleotide-excision repair	7.393e-03	0.000e+00	4.862e+00	1.374e-05
+GO:0006913	GO:0006913	nucleocytoplasmic transport	9.195e-08	0.000e+00	3.084e+00	8.245e-04
+GO:0006913	GO:0051169	nuclear transport	9.931e-08	0.000e+00	3.071e+00	8.491e-04
+GO:0006913	GO:0051170	import into nucleus	1.008e-04	0.000e+00	3.663e+00	2.172e-04
+GO:0006913	GO:0006406	mRNA export from nucleus	1.595e-06	0.000e+00	3.807e+00	1.560e-04
+GO:0006913	GO:0051168	nuclear export	1.017e-06	0.000e+00	3.439e+00	3.638e-04
+GO:0006913	GO:0006405	RNA export from nucleus	2.152e-05	0.000e+00	3.677e+00	2.102e-04
+GO:0006913	GO:0006611	protein export from nucleus	1.328e-05	0.000e+00	4.241e+00	5.744e-05
+GO:0006913	GO:0017038	protein import	5.078e-04	0.000e+00	3.633e+00	2.329e-04
+GO:0006913	GO:0071806	protein transmembrane transport	2.574e-04	0.000e+00	2.538e+00	2.897e-03
+GO:0000082	GO:0044843	cell cycle G1/S phase transition	4.916e-15	0.000e+00	4.914e+00	1.218e-05
+GO:0000082	GO:0000082	G1/S transition of mitotic cell cycle	1.809e-15	0.000e+00	4.933e+00	1.166e-05
+GO:0000082	GO:0000086	G2/M transition of mitotic cell cycle	1.028e-13	0.000e+00	4.924e+00	1.192e-05
+GO:0000082	GO:0044839	cell cycle G2/M phase transition	1.458e-13	0.000e+00	4.897e+00	1.269e-05
+GO:0000082	GO:0010458	exit from mitosis	6.266e-04	0.000e+00	5.550e+00	2.818e-06
+GO:0000082	GO:0007091	metaphase/anaphase transition of mitotic cell cycle	2.621e-10	0.000e+00	5.716e+00	1.921e-06
+GO:0000082	GO:0044784	metaphase/anaphase transition of cell cycle	1.299e-09	0.000e+00	5.700e+00	1.995e-06
+GO:0000082	GO:0030071	regulation of mitotic metaphase/anaphase transition	8.422e-09	0.000e+00	3.989e+00	1.025e-04
+GO:0006417	GO:0006417	regulation of translation	3.120e-06	0.000e+00	2.560e+00	2.753e-03
+GO:0006417	GO:0017148	negative regulation of translation	3.301e-03	0.000e+00	3.256e+00	5.545e-04
+GO:0006417	GO:0045727	positive regulation of translation	2.293e-03	0.000e+00	3.517e+00	3.041e-04
+GO:0006417	GO:0000079	regulation of cyclin-dependent protein serine/threonine kinase activity	2.194e-04	0.000e+00	3.933e+00	1.168e-04
+GO:0006417	GO:1904029	regulation of cyclin-dependent protein kinase activity	3.390e-04	0.000e+00	3.929e+00	1.177e-04
+GO:0051054	GO:0051054	positive regulation of DNA metabolic process	8.141e-18	0.000e+00	4.024e+00	9.467e-05
+GO:0051054	GO:0045739	positive regulation of DNA repair	2.928e-04	0.000e+00	4.380e+00	4.165e-05
+GO:0051054	GO:0045740	positive regulation of DNA replication	2.822e-05	0.000e+00	5.022e+00	9.509e-06
+GO:0051054	GO:0045911	positive regulation of DNA recombination	1.900e-04	0.000e+00	4.886e+00	1.301e-05
+GO:0051054	GO:1905168	positive regulation of double-strand break repair via homologous recombination	4.475e-03	0.000e+00	5.191e+00	6.449e-06
+GO:0051054	GO:0048026	positive regulation of mRNA splicing, via spliceosome	4.263e-03	0.000e+00	5.329e+00	4.686e-06
+GO:0051054	GO:0050685	positive regulation of mRNA processing	3.581e-03	0.000e+00	5.203e+00	6.271e-06
+GO:0051054	GO:0048024	regulation of mRNA splicing, via spliceosome	2.502e-03	0.000e+00	4.091e+00	8.107e-05
+GO:0051054	GO:0050684	regulation of mRNA processing	4.919e-03	0.000e+00	3.298e+00	5.031e-04
+GO:0051054	GO:1903311	regulation of mRNA metabolic process	9.411e-03	0.000e+00	3.107e+00	7.818e-04
+GO:0051054	GO:0000381	regulation of alternative mRNA splicing, via spliceosome	5.069e-03	0.000e+00	4.176e+00	6.673e-05
+GO:0007051	GO:0007051	spindle organization	1.246e-13	0.000e+00	3.848e+00	1.418e-04
+GO:0007051	GO:0051225	spindle assembly	8.627e-12	0.000e+00	4.188e+00	6.487e-05
+GO:0007051	GO:0007052	mitotic spindle organization	9.119e-12	0.000e+00	4.282e+00	5.220e-05
+GO:0007051	GO:1902850	microtubule cytoskeleton organization involved in mitosis	5.693e-10	0.000e+00	4.118e+00	7.613e-05
+GO:0007051	GO:0090307	mitotic spindle assembly	4.762e-07	0.000e+00	4.853e+00	1.404e-05
+GO:0007051	GO:0090306	meiotic spindle assembly	1.595e-06	0.000e+00	5.622e+00	2.388e-06
+GO:0007051	GO:0000212	meiotic spindle organization	3.876e-06	0.000e+00	5.084e+00	8.246e-06
+GO:0007051	GO:0007056	spindle assembly involved in female meiosis	1.573e-04	0.000e+00	5.847e+00	1.421e-06
+GO:0007051	GO:0031023	microtubule organizing center organization	3.057e-07	0.000e+00	4.294e+00	5.084e-05
+GO:0007051	GO:0007098	centrosome cycle	1.989e-06	0.000e+00	4.653e+00	2.223e-05
+GO:0007051	GO:0051231	spindle elongation	2.781e-05	0.000e+00	5.567e+00	2.707e-06
+GO:0007051	GO:0000022	mitotic spindle elongation	1.900e-04	0.000e+00	6.120e+00	7.591e-07
+GO:0007051	GO:0051255	spindle midzone assembly	3.876e-06	0.000e+00	5.416e+00	3.839e-06
+GO:0007051	GO:0051256	mitotic spindle midzone assembly	1.622e-04	0.000e+00	5.791e+00	1.619e-06
+GO:0007051	GO:0051257	meiotic spindle midzone assembly	4.661e-05	0.000e+00	6.295e+00	5.072e-07
+GO:0055123	GO:0055123	digestive system development	9.624e-06	0.000e+00	5.771e+00	1.696e-06
+GO:0055123	GO:0048706	embryonic skeletal system development	3.673e-03	0.000e+00	4.888e+00	1.295e-05
+GO:0055123	GO:0031101	fin regeneration	1.524e-03	0.000e+00	5.319e+00	4.800e-06
+GO:0055123	GO:0021766	hippocampus development	3.358e-03	0.000e+00	5.073e+00	8.461e-06
+GO:0055123	GO:0055002	striated muscle cell development	1.667e-04	0.000e+00	5.894e+00	1.276e-06
+GO:0055123	GO:0055001	muscle cell development	3.548e-04	0.000e+00	4.579e+00	2.636e-05
+GO:0055123	GO:0014706	striated muscle tissue development	1.533e-03	0.000e+00	5.040e+00	9.116e-06
+GO:0055123	GO:0060537	muscle tissue development	1.920e-03	0.000e+00	4.575e+00	2.658e-05
+GO:0055123	GO:0051146	striated muscle cell differentiation	2.336e-03	0.000e+00	4.902e+00	1.255e-05
+GO:0055123	GO:0048565	digestive tract development	3.086e-04	0.000e+00	4.885e+00	1.302e-05
+GO:0055123	GO:0042246	tissue regeneration	1.300e-03	0.000e+00	4.536e+00	2.910e-05
+GO:0055123	GO:0060041	retina development in camera-type eye	7.093e-03	0.000e+00	4.694e+00	2.022e-05
+GO:0055123	GO:0060538	skeletal muscle organ development	1.789e-03	0.000e+00	5.516e+00	3.050e-06
+GO:0051783	GO:0051783	regulation of nuclear division	1.252e-13	0.000e+00	4.014e+00	9.685e-05
+GO:0051783	GO:0007088	regulation of mitotic nuclear division	3.892e-13	0.000e+00	4.092e+00	8.093e-05
+GO:0051783	GO:0045840	positive regulation of mitotic nuclear division	3.314e-03	0.000e+00	5.023e+00	9.482e-06
+GO:0051783	GO:0051785	positive regulation of nuclear division	4.263e-03	0.000e+00	4.909e+00	1.234e-05
+GO:0051783	GO:0051784	negative regulation of nuclear division	1.629e-08	0.000e+00	4.202e+00	6.280e-05
+GO:0051783	GO:0045839	negative regulation of mitotic nuclear division	5.277e-07	0.000e+00	4.271e+00	5.361e-05
+GO:2000241	GO:2000241	regulation of reproductive process	4.816e-06	0.000e+00	3.856e+00	1.394e-04
+GO:2000241	GO:2000243	positive regulation of reproductive process	2.951e-03	0.000e+00	4.415e+00	3.850e-05
+GO:2000241	GO:0110039	positive regulation of nematode male tail tip morphogenesis	2.105e-03	0.000e+00	6.315e+00	4.837e-07
+GO:2000241	GO:0110037	regulation of nematode male tail tip morphogenesis	2.105e-03	0.000e+00	6.236e+00	5.811e-07
+GO:2000241	GO:0051147	regulation of muscle cell differentiation	9.686e-03	0.000e+00	4.631e+00	2.341e-05
+GO:2000241	GO:0051445	regulation of meiotic cell cycle	6.144e-04	0.000e+00	4.685e+00	2.064e-05
+GO:2000241	GO:0040020	regulation of meiotic nuclear division	4.181e-03	0.000e+00	4.851e+00	1.408e-05
+GO:2000241	GO:0051447	negative regulation of meiotic cell cycle	4.216e-04	0.000e+00	4.919e+00	1.206e-05
+GO:2000241	GO:0045835	negative regulation of meiotic nuclear division	9.668e-04	0.000e+00	5.037e+00	9.190e-06
+GO:0006364	GO:0016072	rRNA metabolic process	9.931e-08	0.000e+00	2.091e+00	8.116e-03
+GO:0006364	GO:0006364	rRNA processing	1.846e-08	0.000e+00	2.097e+00	7.991e-03
+GO:0006364	GO:0000154	rRNA modification	8.281e-05	0.000e+00	2.579e+00	2.635e-03
+GO:0006364	GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	3.581e-03	0.000e+00	4.153e+00	7.038e-05
+GO:0006364	GO:0000470	maturation of LSU-rRNA	2.336e-03	0.000e+00	4.060e+00	8.712e-05
+GO:0006364	GO:0006418	tRNA aminoacylation for protein translation	1.192e-07	0.000e+00	1.986e+00	1.032e-02
+GO:0006364	GO:0043039	tRNA aminoacylation	2.970e-07	0.000e+00	1.949e+00	1.126e-02
+GO:0006364	GO:0043038	amino acid activation	3.959e-07	0.000e+00	1.948e+00	1.126e-02
+GO:0006364	GO:0106074	aminoacyl-tRNA metabolism involved in translational fidelity	2.612e-04	0.000e+00	2.815e+00	1.530e-03
+GO:0006364	GO:0090305	nucleic acid phosphodiester bond hydrolysis	1.938e-06	0.000e+00	2.132e+00	7.387e-03
+GO:0006364	GO:0034470	ncRNA processing	8.014e-06	0.000e+00	1.615e+00	2.425e-02
+GO:0006364	GO:0006399	tRNA metabolic process	1.872e-03	0.000e+00	1.553e+00	2.799e-02
+GO:0006364	GO:0000398	mRNA splicing, via spliceosome	3.301e-03	0.000e+00	3.104e+00	7.876e-04
+GO:0006364	GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	3.301e-03	0.000e+00	3.063e+00	8.643e-04
+GO:0006364	GO:0000375	RNA splicing, via transesterification reactions	3.666e-03	0.000e+00	3.040e+00	9.118e-04
+GO:0006457	GO:0006457	protein folding	9.983e-10	0.000e+00	2.332e+00	4.655e-03
+GO:0006457	GO:0061077	chaperone-mediated protein folding	3.857e-06	0.000e+00	3.754e+00	1.764e-04
+GO:0006457	GO:0006458	'de novo' protein folding	2.215e-05	0.000e+00	4.307e+00	4.934e-05
+GO:0065004	GO:0065004	protein-DNA complex assembly	2.177e-10	0.000e+00	3.519e+00	3.026e-04
+GO:0065004	GO:0006334	nucleosome assembly	2.490e-04	0.000e+00	3.807e+00	1.558e-04
+GO:0065004	GO:0034508	centromere complex assembly	2.067e-05	0.000e+00	4.853e+00	1.402e-05
+GO:0065004	GO:0071824	protein-DNA complex organization	1.709e-10	0.000e+00	2.487e+00	3.259e-03
+GO:0065004	GO:0006325	chromatin organization	3.581e-05	0.000e+00	2.507e+00	3.111e-03
+GO:0065004	GO:0006338	chromatin remodeling	2.548e-06	0.000e+00	2.658e+00	2.199e-03
+GO:0065004	GO:0034728	nucleosome organization	1.067e-04	0.000e+00	3.782e+00	1.652e-04
+GO:0065004	GO:0045814	negative regulation of gene expression, epigenetic	3.747e-04	0.000e+00	4.001e+00	9.973e-05
+GO:0065004	GO:0040029	epigenetic regulation of gene expression	1.076e-03	0.000e+00	3.873e+00	1.339e-04
+GO:0065004	GO:0031055	chromatin remodeling at centromere	4.589e-03	0.000e+00	4.851e+00	1.410e-05
+GO:0065004	GO:0006267	pre-replicative complex assembly involved in nuclear cell cycle DNA replication	1.035e-05	0.000e+00	5.346e+00	4.511e-06
+GO:0065004	GO:0036388	pre-replicative complex assembly	1.035e-05	0.000e+00	5.346e+00	4.511e-06
+GO:0065004	GO:1902299	pre-replicative complex assembly involved in cell cycle DNA replication	1.035e-05	0.000e+00	5.346e+00	4.511e-06
+GO:0065004	GO:0022618	protein-RNA complex assembly	2.195e-06	0.000e+00	2.687e+00	2.058e-03
+GO:0065004	GO:0071826	protein-RNA complex organization	3.171e-05	0.000e+00	2.683e+00	2.076e-03
+GO:0065004	GO:0001732	formation of cytoplasmic translation initiation complex	2.105e-03	0.000e+00	3.910e+00	1.231e-04
+GO:0065004	GO:0046931	pore complex assembly	3.066e-03	0.000e+00	5.048e+00	8.948e-06
+GO:0065004	GO:0010927	cellular component assembly involved in morphogenesis	5.945e-05	0.000e+00	4.588e+00	2.580e-05
+GO:0065004	GO:0030239	myofibril assembly	3.955e-03	0.000e+00	5.135e+00	7.329e-06
+GO:0065004	GO:0007304	chorion-containing eggshell formation	9.124e-04	0.000e+00	5.441e+00	3.621e-06
+GO:0065004	GO:0030703	eggshell formation	1.628e-03	0.000e+00	5.371e+00	4.252e-06
+GO:0065004	GO:0007306	egg chorion assembly	8.443e-04	0.000e+00	6.236e+00	5.811e-07
+GO:0065004	GO:0070828	heterochromatin organization	3.198e-04	0.000e+00	4.083e+00	8.258e-05
+GO:0065004	GO:0031507	heterochromatin formation	2.244e-03	0.000e+00	4.101e+00	7.924e-05
+GO:0065004	GO:0000492	box C/D snoRNP assembly	2.985e-03	0.000e+00	5.003e+00	9.925e-06
+GO:0065004	GO:0000491	small nucleolar ribonucleoprotein complex assembly	9.662e-03	0.000e+00	4.544e+00	2.855e-05
+GO:0031032	GO:0031032	actomyosin structure organization	2.683e-05	0.000e+00	4.364e+00	4.329e-05
+GO:0031032	GO:0045214	sarcomere organization	8.871e-03	0.000e+00	5.025e+00	9.449e-06
+GO:0031032	GO:0000915	actomyosin contractile ring assembly	8.350e-05	0.000e+00	5.565e+00	2.724e-06
+GO:0031032	GO:0044837	actomyosin contractile ring organization	7.943e-05	0.000e+00	5.481e+00	3.305e-06
+GO:0031032	GO:0000912	assembly of actomyosin apparatus involved in cytokinesis	1.082e-04	0.000e+00	5.308e+00	4.921e-06
+GO:0051983	GO:0051983	regulation of chromosome segregation	2.098e-14	0.000e+00	3.925e+00	1.189e-04
+GO:0051983	GO:1902099	regulation of metaphase/anaphase transition of cell cycle	1.045e-07	0.000e+00	3.982e+00	1.042e-04
+GO:0051983	GO:0010965	regulation of mitotic sister chromatid separation	2.621e-10	0.000e+00	4.181e+00	6.586e-05
+GO:0051983	GO:1905818	regulation of chromosome separation	3.084e-09	0.000e+00	4.161e+00	6.903e-05
+GO:0051983	GO:2000816	negative regulation of mitotic sister chromatid separation	6.991e-07	0.000e+00	4.284e+00	5.199e-05
+GO:0051983	GO:1901970	positive regulation of mitotic sister chromatid separation	4.263e-03	0.000e+00	5.277e+00	5.280e-06
+GO:0051983	GO:0051985	negative regulation of chromosome segregation	9.978e-08	0.000e+00	4.272e+00	5.350e-05
+GO:0051983	GO:1905819	negative regulation of chromosome separation	1.855e-06	0.000e+00	4.273e+00	5.338e-05
+GO:0051983	GO:0051984	positive regulation of chromosome segregation	1.595e-06	0.000e+00	5.188e+00	6.483e-06
+GO:0051983	GO:0062033	positive regulation of mitotic sister chromatid segregation	2.736e-04	0.000e+00	5.754e+00	1.760e-06
+GO:0007093	GO:0045930	negative regulation of mitotic cell cycle	1.081e-10	0.000e+00	3.858e+00	1.388e-04
+GO:0007093	GO:0007093	mitotic cell cycle checkpoint signaling	1.361e-10	0.000e+00	3.990e+00	1.022e-04
+GO:0007093	GO:0071174	mitotic spindle checkpoint signaling	7.259e-06	0.000e+00	4.288e+00	5.151e-05
+GO:0007093	GO:0000083	regulation of transcription involved in G1/S transition of mitotic cell cycle	5.514e-06	0.000e+00	4.788e+00	1.628e-05
+GO:0007093	GO:0044774	mitotic DNA integrity checkpoint signaling	3.662e-08	0.000e+00	4.324e+00	4.746e-05
+GO:0007093	GO:0007095	mitotic G2 DNA damage checkpoint signaling	5.850e-05	0.000e+00	4.578e+00	2.640e-05
+GO:0007093	GO:0042770	signal transduction in response to DNA damage	8.278e-06	0.000e+00	3.927e+00	1.183e-04
+GO:0007093	GO:0044773	mitotic DNA damage checkpoint signaling	4.419e-05	0.000e+00	4.417e+00	3.829e-05
+GO:0007093	GO:0000281	mitotic cytokinesis	1.772e-06	0.000e+00	4.324e+00	4.739e-05
+GO:0007093	GO:0061640	cytoskeleton-dependent cytokinesis	2.180e-06	0.000e+00	4.203e+00	6.263e-05
+GO:0007093	GO:0000910	cytokinesis	2.122e-06	0.000e+00	3.164e+00	6.862e-04
+GO:0007093	GO:0033206	meiotic cytokinesis	3.120e-06	0.000e+00	5.370e+00	4.266e-06
+GO:0007093	GO:0040038	polar body extrusion after meiotic divisions	1.402e-03	0.000e+00	5.998e+00	1.004e-06
+GO:2001252	GO:2001252	positive regulation of chromosome organization	8.231e-09	0.000e+00	4.621e+00	2.391e-05
+GO:2001252	GO:0032206	positive regulation of telomere maintenance	3.244e-06	0.000e+00	4.839e+00	1.449e-05
+GO:2001252	GO:0032212	positive regulation of telomere maintenance via telomerase	1.397e-07	0.000e+00	5.267e+00	5.408e-06
+GO:2001252	GO:1904358	positive regulation of telomere maintenance via telomere lengthening	3.476e-07	0.000e+00	5.213e+00	6.120e-06
+GO:0034502	GO:0034502	protein localization to chromosome	2.820e-18	0.000e+00	4.257e+00	5.532e-05
+GO:0034502	GO:0071168	protein localization to chromatin	1.031e-04	0.000e+00	4.551e+00	2.813e-05
+GO:0034502	GO:1903083	protein localization to condensed chromosome	8.935e-08	0.000e+00	4.692e+00	2.033e-05
+GO:0034502	GO:0070200	establishment of protein localization to telomere	1.764e-07	0.000e+00	5.901e+00	1.256e-06
+GO:0034502	GO:0070199	establishment of protein localization to chromosome	2.236e-06	0.000e+00	5.493e+00	3.214e-06
+GO:0034502	GO:0070198	protein localization to chromosome, telomeric region	2.683e-05	0.000e+00	5.488e+00	3.248e-06
+GO:0034502	GO:0034504	protein localization to nucleus	4.635e-05	0.000e+00	3.669e+00	2.143e-04
+GO:0034502	GO:0006606	protein import into nucleus	3.716e-03	0.000e+00	3.696e+00	2.012e-04
+GO:0034502	GO:0030150	protein import into mitochondrial matrix	8.994e-04	0.000e+00	4.090e+00	8.131e-05
+GO:0034502	GO:1990542	mitochondrial transmembrane transport	6.283e-03	0.000e+00	3.935e+00	1.161e-04
+GO:0034502	GO:0065002	intracellular protein transmembrane transport	8.068e-04	0.000e+00	3.071e+00	8.489e-04
+GO:0034502	GO:0044743	protein transmembrane import into intracellular organelle	1.524e-03	0.000e+00	3.819e+00	1.518e-04
+GO:0034502	GO:0006620	post-translational protein targeting to endoplasmic reticulum membrane	4.475e-03	0.000e+00	5.084e+00	8.246e-06
+GO:0034502	GO:0090435	protein localization to nuclear envelope	9.662e-03	0.000e+00	5.568e+00	2.704e-06
+GO:0034502	GO:0071459	protein localization to chromosome, centromeric region	7.461e-09	0.000e+00	4.662e+00	2.178e-05
+GO:0034502	GO:0034501	protein localization to kinetochore	8.935e-08	0.000e+00	4.692e+00	2.033e-05
+GO:0034502	GO:1904867	protein localization to Cajal body	4.005e-06	0.000e+00	6.605e+00	2.486e-07
+GO:0034502	GO:1903405	protein localization to nuclear body	4.005e-06	0.000e+00	6.605e+00	2.486e-07
+GO:0034502	GO:1990173	protein localization to nucleoplasm	2.368e-05	0.000e+00	6.243e+00	5.710e-07
+GO:0051302	GO:0051302	regulation of cell division	6.743e-06	0.000e+00	3.705e+00	1.974e-04
+GO:0051302	GO:0051781	positive regulation of cell division	6.822e-05	0.000e+00	4.119e+00	7.597e-05
+GO:0051302	GO:0032465	regulation of cytokinesis	2.119e-04	0.000e+00	4.259e+00	5.513e-05
+GO:0051302	GO:0032467	positive regulation of cytokinesis	7.825e-04	0.000e+00	4.844e+00	1.432e-05
+GO:0061351	GO:0061351	neural precursor cell proliferation	2.490e-04	0.000e+00	4.714e+00	1.932e-05
+GO:0061351	GO:0007405	neuroblast proliferation	3.927e-03	0.000e+00	5.066e+00	8.599e-06
+GO:0061351	GO:0072089	stem cell proliferation	4.028e-03	0.000e+00	4.852e+00	1.406e-05
+GO:0061351	GO:0021846	cell proliferation in forebrain	8.810e-03	0.000e+00	5.657e+00	2.203e-06
+GO:0061351	GO:0001833	inner cell mass cell proliferation	1.413e-03	0.000e+00	5.693e+00	2.029e-06
+GO:2000278	GO:2000278	regulation of DNA biosynthetic process	3.225e-12	0.000e+00	4.506e+00	3.117e-05
+GO:2000278	GO:2000573	positive regulation of DNA biosynthetic process	3.200e-09	0.000e+00	4.722e+00	1.898e-05
+GO:2000278	GO:0051973	positive regulation of telomerase activity	7.272e-04	0.000e+00	5.027e+00	9.398e-06
+GO:2000278	GO:0051972	regulation of telomerase activity	2.438e-03	0.000e+00	4.926e+00	1.186e-05
+GO:2000278	GO:1900264	positive regulation of DNA-directed DNA polymerase activity	3.290e-05	0.000e+00	5.564e+00	2.727e-06
+GO:2000278	GO:1900262	regulation of DNA-directed DNA polymerase activity	3.290e-05	0.000e+00	5.564e+00	2.727e-06
+GO:2000278	GO:0032210	regulation of telomere maintenance via telomerase	3.061e-11	0.000e+00	4.953e+00	1.114e-05
+GO:2000278	GO:1904356	regulation of telomere maintenance via telomere lengthening	8.826e-10	0.000e+00	4.886e+00	1.302e-05
+GO:2000278	GO:0032204	regulation of telomere maintenance	2.072e-08	0.000e+00	4.554e+00	2.791e-05
+GO:2000278	GO:0032211	negative regulation of telomere maintenance via telomerase	1.320e-05	0.000e+00	5.334e+00	4.635e-06
+GO:2000278	GO:2000279	negative regulation of DNA biosynthetic process	1.456e-04	0.000e+00	5.074e+00	8.434e-06
+GO:2000278	GO:1904357	negative regulation of telomere maintenance via telomere lengthening	2.736e-04	0.000e+00	5.252e+00	5.603e-06
+GO:2000278	GO:0032205	negative regulation of telomere maintenance	3.301e-03	0.000e+00	5.049e+00	8.941e-06
+GO:0070646	GO:0070646	protein modification by small protein removal	5.741e-04	0.000e+00	3.087e+00	8.179e-04
+GO:0070646	GO:0016579	protein deubiquitination	2.164e-03	0.000e+00	3.106e+00	7.839e-04
+GO:0070646	GO:0016570	histone modification	1.011e-03	0.000e+00	2.981e+00	1.045e-03
+GO:0070646	GO:0018205	peptidyl-lysine modification	2.293e-03	0.000e+00	2.916e+00	1.213e-03
+GO:0070646	GO:0043414	macromolecule methylation	2.456e-03	0.000e+00	2.112e+00	7.725e-03
+GO:0070646	GO:0032259	methylation	2.882e-03	0.000e+00	1.679e+00	2.093e-02
+GO:0070646	GO:0031167	rRNA methylation	7.848e-03	0.000e+00	2.727e+00	1.877e-03
+GO:0070646	GO:0006304	DNA modification	6.687e-03	0.000e+00	2.569e+00	2.695e-03
+GO:0033047	GO:0033047	regulation of mitotic sister chromatid segregation	1.090e-12	0.000e+00	4.196e+00	6.374e-05
+GO:0033047	GO:0033048	negative regulation of mitotic sister chromatid segregation	5.989e-07	0.000e+00	4.284e+00	5.199e-05
+GO:0033047	GO:0045841	negative regulation of mitotic metaphase/anaphase transition	6.991e-07	0.000e+00	4.284e+00	5.198e-05
+GO:0033047	GO:0007094	mitotic spindle assembly checkpoint signaling	2.978e-06	0.000e+00	4.292e+00	5.103e-05
+GO:0033047	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle	1.855e-06	0.000e+00	4.273e+00	5.337e-05
+GO:0051028	GO:0051028	mRNA transport	4.674e-05	0.000e+00	3.233e+00	5.851e-04
+GO:0051028	GO:0050658	RNA transport	1.300e-03	0.000e+00	3.184e+00	6.547e-04
+GO:0051028	GO:0050657	nucleic acid transport	1.300e-03	0.000e+00	3.180e+00	6.601e-04
+GO:0051028	GO:0015931	nucleobase-containing compound transport	8.678e-03	0.000e+00	2.919e+00	1.204e-03
+GO:0051028	GO:0051236	establishment of RNA localization	1.474e-03	0.000e+00	3.184e+00	6.551e-04
+GO:0050000	GO:0050000	chromosome localization	3.522e-12	0.000e+00	4.527e+00	2.975e-05
+GO:0050000	GO:0051303	establishment of chromosome localization	1.734e-09	0.000e+00	4.805e+00	1.568e-05
+GO:0050000	GO:0051305	chromosome movement towards spindle pole	4.532e-05	0.000e+00	5.667e+00	2.153e-06
+GO:0050000	GO:0051310	metaphase plate congression	3.200e-09	0.000e+00	4.871e+00	1.346e-05
+GO:0050000	GO:0007080	mitotic metaphase plate congression	2.672e-07	0.000e+00	4.991e+00	1.022e-05
+GO:0071166	GO:0071166	ribonucleoprotein complex localization	4.178e-06	0.000e+00	6.733e+00	1.847e-07
+GO:0043200	GO:0034620	cellular response to unfolded protein	9.890e-03	0.000e+00	5.200e+00	6.308e-06
+GO:0043200	GO:0043200	response to amino acid	1.575e-03	0.000e+00	4.394e+00	4.033e-05
+GO:0043200	GO:0070301	cellular response to hydrogen peroxide	5.069e-03	0.000e+00	5.094e+00	8.048e-06
+GO:0035825	GO:0035825	homologous recombination	8.426e-08	0.000e+00	4.185e+00	6.534e-05
+GO:0035825	GO:0007131	reciprocal meiotic recombination	1.766e-07	0.000e+00	4.254e+00	5.567e-05
+GO:0035825	GO:0140527	reciprocal homologous recombination	1.766e-07	0.000e+00	4.254e+00	5.567e-05
+GO:2000177	GO:2000177	regulation of neural precursor cell proliferation	1.474e-03	0.000e+00	4.759e+00	1.743e-05
+GO:0006271	GO:0022616	DNA strand elongation	7.689e-13	0.000e+00	4.435e+00	3.677e-05
+GO:0006271	GO:0006271	DNA strand elongation involved in DNA replication	3.156e-14	0.000e+00	4.446e+00	3.584e-05
+GO:0006271	GO:0006272	leading strand elongation	3.290e-05	0.000e+00	5.532e+00	2.936e-06
+GO:0006271	GO:0006273	lagging strand elongation	8.758e-05	0.000e+00	5.748e+00	1.787e-06
+GO:0045448	GO:0045448	mitotic cell cycle, embryonic	1.255e-05	0.000e+00	5.912e+00	1.226e-06
+GO:0045448	GO:0035186	syncytial blastoderm mitotic cell cycle	1.402e-03	0.000e+00	6.262e+00	5.475e-07
+GO:0045448	GO:0033301	cell cycle comprising mitosis without cytokinesis	1.938e-04	0.000e+00	6.005e+00	9.875e-07
+GO:0045005	GO:0045005	DNA-templated DNA replication maintenance of fidelity	2.683e-05	0.000e+00	4.379e+00	4.175e-05
+GO:0045005	GO:0031297	replication fork processing	1.099e-03	0.000e+00	4.410e+00	3.889e-05
+GO:0072527	GO:0072527	pyrimidine-containing compound metabolic process	3.799e-03	0.000e+00	1.927e+00	1.182e-02
+GO:0009069	GO:0009069	serine family amino acid metabolic process	1.458e-03	0.000e+00	2.360e+00	4.366e-03
+GO:0009069	GO:1901607	alpha-amino acid biosynthetic process	7.852e-04	0.000e+00	1.572e+00	2.680e-02
+GO:0009069	GO:1901605	alpha-amino acid metabolic process	4.236e-04	0.000e+00	1.419e+00	3.812e-02
+GO:0009069	GO:0008652	amino acid biosynthetic process	1.524e-03	0.000e+00	1.377e+00	4.195e-02
+GO:0009069	GO:0006520	amino acid metabolic process	1.295e-07	0.000e+00	1.132e+00	7.385e-02
+GO:0009069	GO:0009070	serine family amino acid biosynthetic process	8.810e-03	0.000e+00	2.565e+00	2.722e-03
+GO:0009069	GO:0050667	homocysteine metabolic process	4.263e-03	0.000e+00	3.332e+00	4.655e-04
+GO:0072350	GO:0072350	tricarboxylic acid metabolic process	8.032e-04	0.000e+00	3.359e+00	4.374e-04
+GO:0070849	GO:0070849	response to epidermal growth factor	3.955e-03	0.000e+00	5.196e+00	6.368e-06
+GO:1904872	GO:1904872	regulation of telomerase RNA localization to Cajal body	7.333e-09	0.000e+00	5.838e+00	1.451e-06
+GO:1904872	GO:1904874	positive regulation of telomerase RNA localization to Cajal body	1.764e-07	0.000e+00	6.129e+00	7.423e-07
+GO:1904872	GO:1904871	positive regulation of protein localization to Cajal body	1.419e-06	0.000e+00	6.428e+00	3.728e-07
+GO:1904872	GO:1900182	positive regulation of protein localization to nucleus	4.282e-03	0.000e+00	4.826e+00	1.493e-05
+GO:1904872	GO:1904869	regulation of protein localization to Cajal body	1.419e-06	0.000e+00	6.428e+00	3.728e-07
+GO:1904872	GO:1904851	positive regulation of establishment of protein localization to telomere	1.419e-06	0.000e+00	5.758e+00	1.747e-06
+GO:1904872	GO:0070203	regulation of establishment of protein localization to telomere	1.419e-06	0.000e+00	5.717e+00	1.918e-06
+GO:1904872	GO:1904816	positive regulation of protein localization to chromosome, telomeric region	3.244e-06	0.000e+00	5.678e+00	2.099e-06
+GO:1904872	GO:1904814	regulation of protein localization to chromosome, telomeric region	6.935e-06	0.000e+00	5.608e+00	2.465e-06
+GO:1904872	GO:0070202	regulation of establishment of protein localization to chromosome	4.005e-06	0.000e+00	5.669e+00	2.143e-06
+GO:0090671	GO:0090671	telomerase RNA localization to Cajal body	1.841e-08	0.000e+00	6.741e+00	1.814e-07
+GO:0090671	GO:0090672	telomerase RNA localization	1.841e-08	0.000e+00	6.741e+00	1.814e-07
+GO:0090671	GO:0090670	RNA localization to Cajal body	1.841e-08	0.000e+00	5.958e+00	1.102e-06
+GO:0090671	GO:0006403	RNA localization	2.572e-08	0.000e+00	5.027e+00	9.398e-06
+GO:0090671	GO:0090685	RNA localization to nucleus	1.841e-08	0.000e+00	5.958e+00	1.102e-06
+GO:0002183	GO:0002183	cytoplasmic translational initiation	3.228e-04	0.000e+00	3.869e+00	1.353e-04
+GO:0006297	GO:0006297	nucleotide-excision repair, DNA gap filling	3.876e-06	0.000e+00	5.633e+00	2.328e-06
+GO:0000729	GO:0000729	DNA double-strand break processing	5.850e-05	0.000e+00	5.334e+00	4.635e-06
+GO:0032042	GO:0032042	mitochondrial DNA metabolic process	5.652e-03	0.000e+00	5.029e+00	9.354e-06
+GO:0035999	GO:0006730	one-carbon metabolic process	7.393e-03	0.000e+00	2.576e+00	2.655e-03
+GO:0035999	GO:0035999	tetrahydrofolate interconversion	5.568e-04	0.000e+00	3.111e+00	7.737e-04
+GO:0035999	GO:0046653	tetrahydrofolate metabolic process	4.179e-04	0.000e+00	2.739e+00	1.823e-03
+GO:0035999	GO:0042398	cellular modified amino acid biosynthetic process	9.430e-03	0.000e+00	2.305e+00	4.953e-03
+GO:0035999	GO:0046655	folic acid metabolic process	7.934e-03	0.000e+00	3.278e+00	5.277e-04
+GO:0035999	GO:0043648	dicarboxylic acid metabolic process	4.296e-03	0.000e+00	2.090e+00	8.129e-03
+GO:0038065	GO:0038065	collagen-activated signaling pathway	1.066e-03	0.000e+00	4.930e+00	1.175e-05
+GO:0038065	GO:0038063	collagen-activated tyrosine kinase receptor signaling pathway	6.097e-03	0.000e+00	4.966e+00	1.081e-05
+GO:1905214	GO:1905214	regulation of RNA binding	4.475e-03	0.000e+00	5.745e+00	1.800e-06
+GO:1905214	GO:1902415	regulation of mRNA binding	9.890e-03	0.000e+00	5.975e+00	1.058e-06
+GO:0016446	GO:0016446	somatic hypermutation of immunoglobulin genes	6.721e-03	0.000e+00	5.737e+00	1.834e-06
+GO:0016446	GO:0002562	somatic diversification of immune receptors via germline recombination within a single locus	5.779e-03	0.000e+00	3.504e+00	3.133e-04
+GO:0016446	GO:0016444	somatic cell DNA recombination	6.822e-03	0.000e+00	3.503e+00	3.144e-04

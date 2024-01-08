@@ -1,0 +1,64 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0022836	GO:0022836	gated channel activity	3.195e-10	0.000e+00	2.763e+00	1.727e-03
+GO:0022836	GO:0022839	monoatomic ion gated channel activity	2.228e-07	0.000e+00	2.765e+00	1.718e-03
+GO:0022836	GO:0022803	passive transmembrane transporter activity	4.191e-09	0.000e+00	2.200e+00	6.313e-03
+GO:0022836	GO:0005216	monoatomic ion channel activity	1.220e-08	0.000e+00	2.261e+00	5.486e-03
+GO:0022836	GO:0005261	monoatomic cation channel activity	2.228e-07	0.000e+00	2.503e+00	3.142e-03
+GO:0022836	GO:0005244	voltage-gated monoatomic ion channel activity	1.819e-06	0.000e+00	3.122e+00	7.548e-04
+GO:0022836	GO:0022832	voltage-gated channel activity	1.819e-06	0.000e+00	3.117e+00	7.633e-04
+GO:0022836	GO:0022843	voltage-gated monoatomic cation channel activity	1.298e-05	0.000e+00	3.490e+00	3.235e-04
+GO:0022836	GO:0005245	voltage-gated calcium channel activity	9.573e-03	0.000e+00	4.020e+00	9.545e-05
+GO:0022836	GO:0015276	ligand-gated monoatomic ion channel activity	5.350e-07	0.000e+00	3.183e+00	6.561e-04
+GO:0022836	GO:0022834	ligand-gated channel activity	5.350e-07	0.000e+00	3.183e+00	6.562e-04
+GO:0022836	GO:0005230	extracellular ligand-gated monoatomic ion channel activity	3.145e-06	0.000e+00	3.456e+00	3.500e-04
+GO:0022836	GO:0099094	ligand-gated monoatomic cation channel activity	6.147e-05	0.000e+00	3.731e+00	1.856e-04
+GO:0022836	GO:0005231	excitatory extracellular ligand-gated monoatomic ion channel activity	4.388e-04	0.000e+00	4.098e+00	7.977e-05
+GO:0022836	GO:0005234	extracellularly glutamate-gated ion channel activity	3.358e-03	0.000e+00	6.721e+00	1.901e-07
+GO:0022836	GO:0005267	potassium channel activity	1.196e-04	0.000e+00	3.284e+00	5.196e-04
+GO:0022836	GO:0015079	potassium ion transmembrane transporter activity	1.772e-03	0.000e+00	2.993e+00	1.017e-03
+GO:0022836	GO:0005272	sodium channel activity	6.669e-05	0.000e+00	3.759e+00	1.741e-04
+GO:0022836	GO:0015081	sodium ion transmembrane transporter activity	4.341e-05	0.000e+00	3.204e+00	6.250e-04
+GO:0022836	GO:0005248	voltage-gated sodium channel activity	7.090e-03	0.000e+00	4.461e+00	3.460e-05
+GO:0042277	GO:0033218	amide binding	5.963e-04	0.000e+00	2.923e+00	1.193e-03
+GO:0042277	GO:0042277	peptide binding	3.354e-04	0.000e+00	3.856e+00	1.392e-04
+GO:0042277	GO:0017046	peptide hormone binding	2.942e-03	0.000e+00	5.068e+00	8.558e-06
+GO:0008528	GO:0001653	peptide receptor activity	2.132e-04	0.000e+00	3.670e+00	2.139e-04
+GO:0008528	GO:0008528	G protein-coupled peptide receptor activity	3.962e-04	0.000e+00	3.687e+00	2.054e-04
+GO:0008528	GO:0008188	neuropeptide receptor activity	5.426e-03	0.000e+00	4.108e+00	7.793e-05
+GO:0008528	GO:0004948	calcitonin receptor activity	8.360e-03	0.000e+00	5.058e+00	8.752e-06
+GO:0008528	GO:0009881	photoreceptor activity	6.806e-04	0.000e+00	3.792e+00	1.614e-04
+GO:0008528	GO:0008020	G protein-coupled photoreceptor activity	1.610e-03	0.000e+00	5.705e+00	1.973e-06
+GO:0001664	GO:0001664	G protein-coupled receptor binding	1.396e-04	0.000e+00	3.900e+00	1.258e-04
+GO:0001664	GO:0031690	adrenergic receptor binding	6.406e-03	0.000e+00	5.821e+00	1.511e-06
+GO:0001664	GO:0001965	G-protein alpha-subunit binding	3.162e-03	0.000e+00	4.910e+00	1.231e-05
+GO:0001664	GO:0019905	syntaxin binding	2.882e-04	0.000e+00	4.536e+00	2.911e-05
+GO:0001664	GO:0000149	SNARE binding	2.186e-04	0.000e+00	4.368e+00	4.288e-05
+GO:0001664	GO:0005179	hormone activity	2.322e-04	0.000e+00	3.653e+00	2.224e-04
+GO:0001664	GO:0030165	PDZ domain binding	3.162e-03	0.000e+00	5.051e+00	8.900e-06
+GO:0016247	GO:0016247	channel regulator activity	2.562e-05	0.000e+00	4.213e+00	6.123e-05
+GO:0016247	GO:0099106	ion channel regulator activity	7.816e-05	0.000e+00	4.222e+00	6.002e-05
+GO:0016247	GO:0005246	calcium channel regulator activity	3.692e-03	0.000e+00	4.839e+00	1.449e-05
+GO:0016247	GO:0008200	ion channel inhibitor activity	2.448e-03	0.000e+00	4.777e+00	1.671e-05
+GO:0016247	GO:0016248	channel inhibitor activity	2.942e-03	0.000e+00	4.771e+00	1.693e-05
+GO:0004970	GO:0008066	glutamate receptor activity	1.287e-07	0.000e+00	4.056e+00	8.785e-05
+GO:0004970	GO:0004970	ionotropic glutamate receptor activity	1.287e-07	0.000e+00	4.075e+00	8.420e-05
+GO:0004970	GO:0022824	transmitter-gated monoatomic ion channel activity	2.228e-07	0.000e+00	3.825e+00	1.496e-04
+GO:0004970	GO:0030594	neurotransmitter receptor activity	4.267e-07	0.000e+00	3.725e+00	1.882e-04
+GO:0004970	GO:0022835	transmitter-gated channel activity	2.228e-07	0.000e+00	3.825e+00	1.496e-04
+GO:0004970	GO:0099529	neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential	6.147e-05	0.000e+00	4.255e+00	5.556e-05
+GO:0004970	GO:1904315	transmitter-gated monoatomic ion channel activity involved in regulation of postsynaptic membrane potential	2.882e-04	0.000e+00	4.257e+00	5.538e-05
+GO:0004970	GO:0098960	postsynaptic neurotransmitter receptor activity	3.046e-04	0.000e+00	4.048e+00	8.961e-05
+GO:0004970	GO:0099583	neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration	8.360e-03	0.000e+00	6.287e+00	5.162e-07
+GO:0042562	GO:0042562	hormone binding	3.746e-03	0.000e+00	4.446e+00	3.579e-05
+GO:0005326	GO:0005326	neurotransmitter transmembrane transporter activity	5.073e-04	0.000e+00	5.365e+00	4.316e-06
+GO:0005326	GO:0005328	neurotransmitter:sodium symporter activity	3.358e-03	0.000e+00	5.778e+00	1.669e-06
+GO:0005326	GO:0015294	solute:monoatomic cation symporter activity	5.426e-03	0.000e+00	3.299e+00	5.020e-04
+GO:0070405	GO:0070405	ammonium ion binding	1.920e-03	0.000e+00	8.699e+00	2.001e-09
+GO:0016597	GO:0016597	amino acid binding	5.683e-03	0.000e+00	3.586e+00	2.594e-04
+GO:0004383	GO:0004383	guanylate cyclase activity	2.942e-03	0.000e+00	4.238e+00	5.780e-05
+GO:0004383	GO:0009975	cyclase activity	5.426e-03	0.000e+00	3.273e+00	5.333e-04
+GO:0004383	GO:0016849	phosphorus-oxygen lyase activity	7.638e-03	0.000e+00	3.017e+00	9.607e-04
+GO:0004383	GO:0016829	lyase activity	8.360e-03	0.000e+00	1.490e+00	3.239e-02
+GO:0005544	GO:0005544	calcium-dependent phospholipid binding	3.162e-03	0.000e+00	3.866e+00	1.362e-04
+GO:0008504	GO:0008504	monoamine transmembrane transporter activity	5.808e-03	0.000e+00	5.176e+00	6.661e-06
+GO:1901338	GO:1901338	catecholamine binding	7.090e-03	0.000e+00	5.391e+00	4.062e-06

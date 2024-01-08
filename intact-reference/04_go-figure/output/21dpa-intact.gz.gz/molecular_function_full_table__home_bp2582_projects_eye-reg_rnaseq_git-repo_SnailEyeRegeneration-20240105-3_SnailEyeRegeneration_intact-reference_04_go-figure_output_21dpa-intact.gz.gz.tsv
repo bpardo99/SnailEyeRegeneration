@@ -1,0 +1,31 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0140097	GO:0140097	catalytic activity, acting on DNA	1.200e-12	0.000e+00	1.802e+00	1.576e-02
+GO:0140097	GO:0034061	DNA polymerase activity	4.036e-03	0.000e+00	2.327e+00	4.712e-03
+GO:0008017	GO:0015631	tubulin binding	4.689e-05	0.000e+00	3.172e+00	6.727e-04
+GO:0008017	GO:0008017	microtubule binding	6.760e-07	0.000e+00	3.272e+00	5.341e-04
+GO:0008017	GO:0051015	actin filament binding	4.335e-03	0.000e+00	3.643e+00	2.276e-04
+GO:0008017	GO:0042393	histone binding	1.865e-05	0.000e+00	3.711e+00	1.945e-04
+GO:0008017	GO:0019838	growth factor binding	1.391e-04	0.000e+00	4.289e+00	5.136e-05
+GO:0008017	GO:0042826	histone deacetylase binding	9.154e-03	0.000e+00	4.900e+00	1.260e-05
+GO:0001228	GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific	2.264e-04	0.000e+00	4.028e+00	9.372e-05
+GO:0001228	GO:0001216	DNA-binding transcription activator activity	2.264e-04	0.000e+00	3.809e+00	1.552e-04
+GO:0003697	GO:0003697	single-stranded DNA binding	6.760e-07	0.000e+00	3.045e+00	9.024e-04
+GO:0008094	GO:0008094	ATP-dependent activity, acting on DNA	1.248e-08	0.000e+00	2.406e+00	3.928e-03
+GO:0008094	GO:0003678	DNA helicase activity	3.338e-07	0.000e+00	2.811e+00	1.546e-03
+GO:0008094	GO:0004386	helicase activity	4.269e-04	0.000e+00	2.173e+00	6.710e-03
+GO:0008094	GO:0017116	single-stranded DNA helicase activity	2.160e-06	0.000e+00	4.803e+00	1.574e-05
+GO:0008094	GO:0043138	3'-5' DNA helicase activity	4.655e-06	0.000e+00	4.112e+00	7.734e-05
+GO:0008094	GO:0008574	plus-end-directed microtubule motor activity	4.802e-04	0.000e+00	5.344e+00	4.532e-06
+GO:0008094	GO:0003777	microtubule motor activity	9.606e-03	0.000e+00	3.442e+00	3.618e-04
+GO:0003684	GO:0003684	damaged DNA binding	7.063e-06	0.000e+00	3.179e+00	6.627e-04
+GO:0005201	GO:0005201	extracellular matrix structural constituent	5.031e-04	0.000e+00	4.239e+00	5.773e-05
+GO:0005201	GO:0005200	structural constituent of cytoskeleton	4.426e-03	0.000e+00	3.662e+00	2.176e-04
+GO:0000217	GO:0000217	DNA secondary structure binding	7.063e-06	0.000e+00	3.679e+00	2.096e-04
+GO:0000217	GO:0000400	four-way junction DNA binding	4.084e-03	0.000e+00	3.774e+00	1.684e-04
+GO:0003688	GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	1.273e-03	0.000e+00	3.656e+00	2.208e-04
+GO:0003688	GO:0003688	DNA replication origin binding	1.588e-05	0.000e+00	3.717e+00	1.920e-04
+GO:0003688	GO:0000987	cis-regulatory region sequence-specific DNA binding	1.051e-03	0.000e+00	3.592e+00	2.560e-04
+GO:0035173	GO:0004674	protein serine/threonine kinase activity	6.891e-03	0.000e+00	2.454e+00	3.517e-03
+GO:0035173	GO:0035173	histone kinase activity	1.504e-03	0.000e+00	5.009e+00	9.796e-06
+GO:0016538	GO:0016538	cyclin-dependent protein serine/threonine kinase regulator activity	2.540e-03	0.000e+00	3.923e+00	1.194e-04
+GO:0097493	GO:0097493	structural molecule activity conferring elasticity	5.547e-03	0.000e+00	6.439e+00	3.642e-07

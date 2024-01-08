@@ -1,0 +1,50 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0097060	GO:0097060	synaptic membrane	3.004e-09	0.000e+00	2.921e+00	1.201e-03
+GO:0097060	GO:0045211	postsynaptic membrane	1.416e-08	0.000e+00	3.046e+00	8.999e-04
+GO:0097060	GO:0042734	presynaptic membrane	3.411e-06	0.000e+00	4.614e+00	2.432e-05
+GO:0097060	GO:0032589	neuron projection membrane	4.295e-06	0.000e+00	4.899e+00	1.261e-05
+GO:0097060	GO:0031253	cell projection membrane	8.747e-04	0.000e+00	3.772e+00	1.689e-04
+GO:0097060	GO:0031256	leading edge membrane	5.837e-04	0.000e+00	4.144e+00	7.179e-05
+GO:0097060	GO:0048787	presynaptic active zone membrane	5.858e-03	0.000e+00	5.463e+00	3.440e-06
+GO:0150034	GO:0150034	distal axon	1.338e-04	0.000e+00	6.583e+00	2.610e-07
+GO:0034703	GO:0034702	monoatomic ion channel complex	9.517e-08	0.000e+00	3.163e+00	6.863e-04
+GO:0034703	GO:0034703	cation channel complex	3.758e-08	0.000e+00	3.334e+00	4.639e-04
+GO:0034703	GO:0034705	potassium channel complex	7.922e-05	0.000e+00	3.809e+00	1.554e-04
+GO:0034703	GO:0034706	sodium channel complex	3.905e-05	0.000e+00	3.906e+00	1.242e-04
+GO:0034703	GO:0008076	voltage-gated potassium channel complex	3.746e-03	0.000e+00	3.821e+00	1.511e-04
+GO:0034703	GO:1902495	transmembrane transporter complex	4.295e-06	0.000e+00	2.247e+00	5.657e-03
+GO:0034703	GO:1990351	transporter complex	6.460e-06	0.000e+00	2.242e+00	5.723e-03
+GO:0034703	GO:0098878	neurotransmitter receptor complex	3.411e-06	0.000e+00	4.654e+00	2.219e-05
+GO:0034703	GO:0008328	ionotropic glutamate receptor complex	8.108e-06	0.000e+00	4.667e+00	2.152e-05
+GO:0034703	GO:0032281	AMPA glutamate receptor complex	4.600e-04	0.000e+00	5.339e+00	4.584e-06
+GO:0034703	GO:0032983	kainate selective glutamate receptor complex	3.746e-03	0.000e+00	6.041e+00	9.098e-07
+GO:0034703	GO:0043235	receptor complex	6.460e-06	0.000e+00	3.621e+00	2.391e-04
+GO:0034703	GO:0098802	plasma membrane signaling receptor complex	2.564e-04	0.000e+00	3.744e+00	1.803e-04
+GO:0043679	GO:0044306	neuron projection terminus	4.295e-06	0.000e+00	4.950e+00	1.122e-05
+GO:0043679	GO:0043679	axon terminus	4.295e-06	0.000e+00	5.095e+00	8.038e-06
+GO:0043679	GO:0043195	terminal bouton	9.005e-05	0.000e+00	5.091e+00	8.111e-06
+GO:0043204	GO:0043204	perikaryon	1.930e-05	0.000e+00	4.135e+00	7.324e-05
+GO:0008021	GO:0070382	exocytic vesicle	7.399e-04	0.000e+00	4.140e+00	7.245e-05
+GO:0008021	GO:0008021	synaptic vesicle	7.619e-04	0.000e+00	4.157e+00	6.962e-05
+GO:0008021	GO:0030133	transport vesicle	1.909e-03	0.000e+00	3.968e+00	1.077e-04
+GO:0032421	GO:0098862	cluster of actin-based cell projections	2.042e-03	0.000e+00	4.895e+00	1.274e-05
+GO:0032421	GO:0032421	stereocilium bundle	5.196e-05	0.000e+00	5.675e+00	2.111e-06
+GO:0032420	GO:0098858	actin-based cell projection	1.408e-03	0.000e+00	3.951e+00	1.119e-04
+GO:0032420	GO:0032420	stereocilium	6.797e-05	0.000e+00	4.805e+00	1.568e-05
+GO:0032420	GO:0043197	dendritic spine	4.560e-04	0.000e+00	4.330e+00	4.682e-05
+GO:0032420	GO:0044309	neuron spine	4.926e-04	0.000e+00	4.314e+00	4.850e-05
+GO:0032420	GO:0097733	photoreceptor cell cilium	7.399e-04	0.000e+00	5.839e+00	1.447e-06
+GO:0032420	GO:0097731	9+0 non-motile cilium	9.079e-04	0.000e+00	5.419e+00	3.808e-06
+GO:0032420	GO:0097730	non-motile cilium	7.010e-03	0.000e+00	4.704e+00	1.976e-05
+GO:0048786	GO:0048786	presynaptic active zone	4.107e-04	0.000e+00	4.900e+00	1.258e-05
+GO:0030672	GO:0030672	synaptic vesicle membrane	1.120e-03	0.000e+00	4.224e+00	5.965e-05
+GO:0030672	GO:0099501	exocytic vesicle membrane	1.159e-03	0.000e+00	4.224e+00	5.969e-05
+GO:0030672	GO:0030658	transport vesicle membrane	9.480e-03	0.000e+00	3.622e+00	2.385e-04
+GO:0060076	GO:0060076	excitatory synapse	1.082e-03	0.000e+00	5.082e+00	8.280e-06
+GO:0044304	GO:0044304	main axon	2.762e-03	0.000e+00	6.248e+00	5.643e-07
+GO:0001750	GO:0001750	photoreceptor outer segment	9.480e-03	0.000e+00	4.498e+00	3.176e-05
+GO:0008074	GO:0008074	guanylate cyclase complex, soluble	7.619e-04	0.000e+00	5.849e+00	1.417e-06
+GO:0002139	GO:0002139	stereocilia coupling link	5.837e-04	0.000e+00	6.196e+00	6.372e-07
+GO:0002139	GO:0002141	stereocilia ankle link	4.647e-03	0.000e+00	6.196e+00	6.372e-07
+GO:1990696	GO:1990696	USH2 complex	2.940e-03	0.000e+00	6.276e+00	5.298e-07
+GO:0002142	GO:0002142	stereocilia ankle link complex	3.746e-03	0.000e+00	6.089e+00	8.138e-07

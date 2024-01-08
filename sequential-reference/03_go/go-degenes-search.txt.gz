@@ -12135,6 +12135,7 @@ LOC112561041	visual pigment-like receptor peropsin	GO:0009582	detection of abiot
 LOC112561041	visual pigment-like receptor peropsin	GO:0009583	detection of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0009584	detection of visible light	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0009881	photoreceptor activity	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
+LOC112561041	visual pigment-like receptor peropsin	GO:0018298	obsolete protein-chromophore linkage	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0050953	sensory perception of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0051606	detection of stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0097730	non-motile cilium	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
@@ -12783,6 +12784,7 @@ LOC112566518	visual pigment-like receptor peropsin	GO:0009582	detection of abiot
 LOC112566518	visual pigment-like receptor peropsin	GO:0009583	detection of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0009584	detection of visible light	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0009881	photoreceptor activity	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
+LOC112566518	visual pigment-like receptor peropsin	GO:0018298	obsolete protein-chromophore linkage	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0050953	sensory perception of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0051606	detection of stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0097730	non-motile cilium	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
@@ -13317,6 +13319,7 @@ LOC112575522	visual pigment-like receptor peropsin	GO:0009582	detection of abiot
 LOC112575522	visual pigment-like receptor peropsin	GO:0009583	detection of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112575522	visual pigment-like receptor peropsin	GO:0009584	detection of visible light	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112575522	visual pigment-like receptor peropsin	GO:0009881	photoreceptor activity	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
+LOC112575522	visual pigment-like receptor peropsin	GO:0018298	obsolete protein-chromophore linkage	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112575522	visual pigment-like receptor peropsin	GO:0050953	sensory perception of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112575522	visual pigment-like receptor peropsin	GO:0051606	detection of stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112575522	visual pigment-like receptor peropsin	GO:0097730	non-motile cilium	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
@@ -13774,6 +13777,7 @@ LOC112570544	melanopsin-like	GO:0007602	phototransduction	de-up_s_9dpa-s_6dpa-se
 LOC112570544	melanopsin-like	GO:0008020	G protein-coupled photoreceptor activity	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0009583	detection of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0009881	photoreceptor activity	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
+LOC112570544	melanopsin-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0050953	sensory perception of light stimulus	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0001965	G-protein alpha-subunit binding	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0009584	detection of visible light	de-up_s_9dpa-s_6dpa-seq-ref_lfc0.csv.gz
@@ -14855,6 +14859,7 @@ LOC112561041	visual pigment-like receptor peropsin	GO:0009582	detection of abiot
 LOC112561041	visual pigment-like receptor peropsin	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112561041	visual pigment-like receptor peropsin	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112561041	visual pigment-like receptor peropsin	GO:0097733	photoreceptor cell cilium	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112561063	malate dehydrogenase, mitochondrial-like	GO:0043209	myelin sheath	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112561063	malate dehydrogenase, mitochondrial-like	GO:0051087	chaperone binding	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -15056,6 +15061,7 @@ LOC112563007	opsin-5-like	GO:0009582	detection of abiotic stimulus	de-up_s_12dpa
 LOC112563007	opsin-5-like	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112563007	opsin-5-like	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112563007	opsin-5-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112563007	opsin-5-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112563007	opsin-5-like	GO:0097733	photoreceptor cell cilium	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112563072	DDB1- and CUL4-associated factor 13-like	GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112563072	DDB1- and CUL4-associated factor 13-like	GO:0006364	rRNA processing	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -15340,6 +15346,7 @@ LOC112564690	cryptochrome-1-like	GO:0009583	detection of light stimulus	de-up_s_
 LOC112564690	cryptochrome-1-like	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112564690	cryptochrome-1-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112564690	cryptochrome-1-like	GO:0017038	protein import	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112564690	cryptochrome-1-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112564690	cryptochrome-1-like	GO:0034504	protein localization to nucleus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112564690	cryptochrome-1-like	GO:0051169	nuclear transport	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112564690	cryptochrome-1-like	GO:0051170	import into nucleus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -15471,6 +15478,7 @@ LOC112565634	cryptochrome-1-like	GO:0006606	protein import into nucleus	de-up_s_
 LOC112565634	cryptochrome-1-like	GO:0006913	nucleocytoplasmic transport	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112565634	cryptochrome-1-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112565634	cryptochrome-1-like	GO:0017038	protein import	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112565634	cryptochrome-1-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112565634	cryptochrome-1-like	GO:0034504	protein localization to nucleus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112565634	cryptochrome-1-like	GO:0051169	nuclear transport	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112565634	cryptochrome-1-like	GO:0051170	import into nucleus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -15563,6 +15571,7 @@ LOC112566132	opsin-5-like	GO:0009582	detection of abiotic stimulus	de-up_s_12dpa
 LOC112566132	opsin-5-like	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566132	opsin-5-like	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566132	opsin-5-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112566132	opsin-5-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566132	opsin-5-like	GO:0097733	photoreceptor cell cilium	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566187	ATP-binding cassette sub-family B member 7, mitochondrial-like	GO:0005743	mitochondrial inner membrane	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566187	ATP-binding cassette sub-family B member 7, mitochondrial-like	GO:0019866	organelle inner membrane	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -15632,6 +15641,7 @@ LOC112566518	visual pigment-like receptor peropsin	GO:0009582	detection of abiot
 LOC112566518	visual pigment-like receptor peropsin	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112566518	visual pigment-like receptor peropsin	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566518	visual pigment-like receptor peropsin	GO:0097733	photoreceptor cell cilium	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566578	coatomer subunit beta-like	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566578	coatomer subunit beta-like	GO:0030126	COPI vesicle coat	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -15801,6 +15811,7 @@ LOC112570265	rhodopsin, GQ-coupled-like	GO:0009582	detection of abiotic stimulus
 LOC112570265	rhodopsin, GQ-coupled-like	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570265	rhodopsin, GQ-coupled-like	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570265	rhodopsin, GQ-coupled-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112570265	rhodopsin, GQ-coupled-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570265	rhodopsin, GQ-coupled-like	GO:0071482	cellular response to light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570265	rhodopsin, GQ-coupled-like	GO:0097381	photoreceptor disc membrane	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570265	rhodopsin, GQ-coupled-like	GO:0097733	photoreceptor cell cilium	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -17118,6 +17129,7 @@ LOC112566395	rhodopsin, G0-coupled-like	GO:0007602	phototransduction	de-up_s_12d
 LOC112566395	rhodopsin, G0-coupled-like	GO:0008020	G protein-coupled photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566395	rhodopsin, G0-coupled-like	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566395	rhodopsin, G0-coupled-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112566395	rhodopsin, G0-coupled-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566395	rhodopsin, G0-coupled-like	GO:0071482	cellular response to light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566395	rhodopsin, G0-coupled-like	GO:0009582	detection of abiotic stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112566395	rhodopsin, G0-coupled-like	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -17191,6 +17203,7 @@ LOC112570544	melanopsin-like	GO:0007602	phototransduction	de-up_s_12dpa-s_9dpa-s
 LOC112570544	melanopsin-like	GO:0008020	G protein-coupled photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112570544	melanopsin-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0071482	cellular response to light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0097381	photoreceptor disc membrane	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112570544	melanopsin-like	GO:0007603	phototransduction, visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
@@ -17355,6 +17368,7 @@ LOC112575332	rhodopsin, GQ-coupled-like	GO:0007602	phototransduction	de-up_s_12d
 LOC112575332	rhodopsin, GQ-coupled-like	GO:0008020	G protein-coupled photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112575332	rhodopsin, GQ-coupled-like	GO:0009584	detection of visible light	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112575332	rhodopsin, GQ-coupled-like	GO:0009881	photoreceptor activity	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
+LOC112575332	rhodopsin, GQ-coupled-like	GO:0018298	obsolete protein-chromophore linkage	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112575332	rhodopsin, GQ-coupled-like	GO:0071482	cellular response to light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112575332	rhodopsin, GQ-coupled-like	GO:0009582	detection of abiotic stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz
 LOC112575332	rhodopsin, GQ-coupled-like	GO:0009583	detection of light stimulus	de-up_s_12dpa-s_9dpa-seq-ref_lfc0.csv.gz

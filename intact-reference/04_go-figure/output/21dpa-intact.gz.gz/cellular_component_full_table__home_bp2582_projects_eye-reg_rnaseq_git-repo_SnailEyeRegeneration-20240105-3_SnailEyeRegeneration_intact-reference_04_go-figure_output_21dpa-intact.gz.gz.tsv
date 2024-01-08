@@ -1,0 +1,57 @@
+Cluster representative	Cluster member	Cluster member description	Member P-value	Member user defined value	Member IC	Member frequency
+GO:0098687	GO:0098687	chromosomal region	9.973e-31	0.000e+00	3.130e+00	7.411e-04
+GO:0098687	GO:0000775	chromosome, centromeric region	2.882e-25	0.000e+00	3.398e+00	4.000e-04
+GO:0098687	GO:0000779	condensed chromosome, centromeric region	2.674e-19	0.000e+00	4.722e+00	1.897e-05
+GO:0098687	GO:0000781	chromosome, telomeric region	1.793e-07	0.000e+00	3.474e+00	3.359e-04
+GO:0000793	GO:0000793	condensed chromosome	1.651e-33	0.000e+00	4.612e+00	2.444e-05
+GO:0000793	GO:0000794	condensed nuclear chromosome	4.124e-12	0.000e+00	4.817e+00	1.522e-05
+GO:0000793	GO:0000803	sex chromosome	9.827e-03	0.000e+00	5.212e+00	6.142e-06
+GO:0005819	GO:0005819	spindle	3.708e-12	0.000e+00	3.456e+00	3.503e-04
+GO:0005819	GO:0072686	mitotic spindle	5.642e-10	0.000e+00	4.179e+00	6.629e-05
+GO:0005819	GO:0072687	meiotic spindle	2.614e-04	0.000e+00	5.512e+00	3.075e-06
+GO:0000776	GO:0005874	microtubule	3.054e-06	0.000e+00	2.729e+00	1.867e-03
+GO:0000776	GO:0000776	kinetochore	5.117e-19	0.000e+00	3.503e+00	3.143e-04
+GO:0000776	GO:0005876	spindle microtubule	1.070e-09	0.000e+00	4.371e+00	4.256e-05
+GO:0000776	GO:0030016	myofibril	3.525e-04	0.000e+00	4.683e+00	2.074e-05
+GO:0000776	GO:0043292	contractile fiber	4.352e-04	0.000e+00	4.624e+00	2.375e-05
+GO:0000776	GO:0005828	kinetochore microtubule	9.774e-04	0.000e+00	5.135e+00	7.324e-06
+GO:0000776	GO:0005818	aster	1.943e-03	0.000e+00	6.292e+00	5.106e-07
+GO:0015629	GO:0015629	actin cytoskeleton	7.093e-03	0.000e+00	3.697e+00	2.008e-04
+GO:0062023	GO:0031012	extracellular matrix	2.280e-04	0.000e+00	3.305e+00	4.952e-04
+GO:0062023	GO:0062023	collagen-containing extracellular matrix	1.696e-05	0.000e+00	3.565e+00	2.724e-04
+GO:0062023	GO:0005604	basement membrane	2.280e-04	0.000e+00	3.746e+00	1.794e-04
+GO:0005657	GO:0005657	replication fork	1.746e-15	0.000e+00	4.175e+00	6.690e-05
+GO:0005657	GO:0043596	nuclear replication fork	2.516e-12	0.000e+00	4.305e+00	4.955e-05
+GO:0032993	GO:0032993	protein-DNA complex	2.600e-10	0.000e+00	2.655e+00	2.215e-03
+GO:0032993	GO:0031261	DNA replication preinitiation complex	3.115e-07	0.000e+00	4.040e+00	9.113e-05
+GO:0032993	GO:0071162	CMG complex	5.115e-08	0.000e+00	4.997e+00	1.007e-05
+GO:0032993	GO:0005721	pericentric heterochromatin	2.737e-03	0.000e+00	5.020e+00	9.555e-06
+GO:0032993	GO:0036387	pre-replicative complex	5.856e-03	0.000e+00	4.316e+00	4.836e-05
+GO:0032993	GO:0030894	replisome	5.329e-05	0.000e+00	4.810e+00	1.548e-05
+GO:0032993	GO:0043601	nuclear replisome	7.584e-04	0.000e+00	8.416e+00	3.839e-09
+GO:0030017	GO:0030017	sarcomere	4.851e-04	0.000e+00	4.350e+00	4.462e-05
+GO:0000922	GO:0000922	spindle pole	5.975e-06	0.000e+00	3.791e+00	1.618e-04
+GO:0030496	GO:0030496	midbody	2.392e-04	0.000e+00	3.976e+00	1.058e-04
+GO:0005788	GO:0005788	endoplasmic reticulum lumen	1.572e-03	0.000e+00	3.706e+00	1.968e-04
+GO:0051233	GO:0051233	spindle midzone	2.851e-15	0.000e+00	4.860e+00	1.381e-05
+GO:0051233	GO:1990023	mitotic spindle midzone	3.368e-07	0.000e+00	5.255e+00	5.555e-06
+GO:0031672	GO:0031672	A band	9.833e-04	0.000e+00	5.000e+00	1.000e-05
+GO:0043073	GO:0043073	germ cell nucleus	4.035e-06	0.000e+00	4.813e+00	1.538e-05
+GO:0043073	GO:0001673	male germ cell nucleus	4.592e-04	0.000e+00	4.971e+00	1.068e-05
+GO:0005581	GO:0005581	collagen trimer	4.622e-04	0.000e+00	3.729e+00	1.868e-04
+GO:0000940	GO:0000940	outer kinetochore	3.203e-09	0.000e+00	4.823e+00	1.504e-05
+GO:0045120	GO:0045120	pronucleus	7.182e-07	0.000e+00	5.331e+00	4.672e-06
+GO:0045120	GO:0001940	male pronucleus	5.856e-03	0.000e+00	5.820e+00	1.512e-06
+GO:0005871	GO:0005871	kinesin complex	3.986e-04	0.000e+00	3.878e+00	1.325e-04
+GO:0042555	GO:0042555	MCM complex	3.203e-09	0.000e+00	3.685e+00	2.066e-04
+GO:0031298	GO:0031298	replication fork protection complex	1.198e-07	0.000e+00	5.154e+00	7.010e-06
+GO:0031298	GO:0030532	small nuclear ribonucleoprotein complex	6.229e-03	0.000e+00	2.778e+00	1.668e-03
+GO:0031298	GO:0005656	nuclear pre-replicative complex	5.856e-03	0.000e+00	4.316e+00	4.836e-05
+GO:0000795	GO:0000795	synaptonemal complex	2.369e-04	0.000e+00	4.644e+00	2.271e-05
+GO:0000795	GO:0099086	synaptonemal structure	2.369e-04	0.000e+00	4.640e+00	2.289e-05
+GO:0000307	GO:0000307	cyclin-dependent protein kinase holoenzyme complex	4.758e-04	0.000e+00	4.351e+00	4.451e-05
+GO:0036379	GO:0036379	myofilament	1.090e-04	0.000e+00	5.486e+00	3.267e-06
+GO:0000800	GO:0000800	lateral element	4.014e-05	0.000e+00	5.507e+00	3.109e-06
+GO:0010369	GO:0010369	chromocenter	3.498e-03	0.000e+00	5.389e+00	4.081e-06
+GO:0005732	GO:0005732	sno(s)RNA-containing ribonucleoprotein complex	7.768e-03	0.000e+00	3.823e+00	1.503e-04
+GO:0031616	GO:0031616	spindle pole centrosome	7.368e-03	0.000e+00	5.482e+00	3.294e-06
