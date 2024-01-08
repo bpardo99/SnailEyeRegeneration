@@ -44,6 +44,7 @@ GOFIGURE="/home/ejr/miniconda3/envs/go-figure/bin/gofigure.py"
 PYTHON="/home/ejr/miniconda3/envs/go-figure/bin/python3.11"
 ###############################################
 
+
 ###############################################
 # Expression Analysis using 1dpa as reference
 ###############################################
@@ -90,7 +91,7 @@ echo "Run Differential Expression Analysis"
 Rscript ${DIR}/02_dea/01_dea-intact-ref.R
 Rscript ${DIR}/02_dea/02_create-logFC-table.R
 Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
-Rscript ${DIR}/02_dea/04_dea-plots.R
+#Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
 echo "Run GO enrichment Analysis"
