@@ -122,28 +122,28 @@ DIR=sequential-reference
 echo "Start sequential-reference"
 
 #Run Differential Expression Analysis
-echo "Run Differential Expression Analysis"
-Rscript ${DIR}/02_dea/01_dea-seq-ref.R
-Rscript ${DIR}/02_dea/02_create-logFC-table.R
-Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
-Rscript ${DIR}/02_dea/04_dea-plots.R
+#echo "Run Differential Expression Analysis"
+#Rscript ${DIR}/02_dea/01_dea-seq-ref.R
+#Rscript ${DIR}/02_dea/02_create-logFC-table.R
+#Rscript ${DIR}/02_dea/03_create-logFC-logCPM-pval-table.R
+#Rscript ${DIR}/02_dea/04_dea-plots.R
 
 #Run GO enrichment Analysis
 echo "Run GO enrichment Analysis"
 mkdir -p ${DIR}/03_go/input
-mkdir -p ${DIR}/03_go/output
-Rscript ${DIR}/03_go/01_go-input.R
-Rscript ${DIR}/03_go/02_clusterProfiler.R
-Rscript ${DIR}/03_go/03_go-degenes-search.R
-Rscript ${DIR}/03_go/04_go-plot.R
+#mkdir -p ${DIR}/03_go/output
+#Rscript ${DIR}/03_go/01_go-input.R
+#Rscript ${DIR}/03_go/02_clusterProfiler.R
+#Rscript ${DIR}/03_go/03_go-degenes-search.R
+#Rscript ${DIR}/03_go/04_go-plot.R
 
 #GO-figure
-echo "Run GO-figure"
-mkdir -p ${DIR}/04_go-figure/input
-mkdir -p ${DIR}/04_go-figure/output
-Rscript ${DIR}/04_go-figure/01_go-figure-input.R
-Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
-touch sequential-reference.finished
+#echo "Run GO-figure"
+#mkdir -p ${DIR}/04_go-figure/input
+#mkdir -p ${DIR}/04_go-figure/output
+#Rscript ${DIR}/04_go-figure/01_go-figure-input.R
+#Rscript ${DIR}/04_go-figure/02_run-go-figure.R ${GOFIGURE} ${PYTHON}
+#touch sequential-reference.finished
 fi
 ###############################################
 # analysis combining results from more than one previous analysis
