@@ -104,7 +104,7 @@ plot_order <- c(
       theme(axis.text.x = element_text(angle = 45, vjust = 1.1, hjust=1.1)) +
       scale_x_discrete(limits = plot_order)
     
-    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_id_fc", x, "-selection-subselection-20230714.pdf")),p2, height=10, width=11.5)
+    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_id_fc", x, "-selection-subselection-20230714-2.pdf")),p2, height=10, width=11.5)
     
     
     
@@ -118,6 +118,6 @@ plot_order <- c(
       theme(axis.text.x = element_text(angle = 45, vjust = 1.1, hjust=1.1))+
       scale_x_discrete(limits = plot_order)
     
-    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_noid_fc", x, "-selection-subselection-20230714.pdf")), p3, height=10, width=10.5)
+    ggsave(here(paste0("mixed-analysis/02_go/figures/GO_noid_fc", x, "-selection-subselection-20230714-2.pdf")), p3, height=10, width=10.5)
     
 

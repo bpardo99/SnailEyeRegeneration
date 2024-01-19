@@ -55,8 +55,8 @@ filter.genes.by.go<- go.gen.ref %>% #31 genes of the selected in the selected go
   filter(go_term %in% sel.go) %>%
   filter(gene_id %in% genl)
 ##(make a table with gene and all go)
-write.table(filter.genes.by.go, file=here(paste0("mixed-analysis/02_go/tables/genes-sel_to_go-sel-corresp-2.txt")), row.names = FALSE, col.names= FALSE, 
-            quote = FALSE, sep = '\t')
+#write.table(filter.genes.by.go, file=here(paste0("mixed-analysis/02_go/tables/genes-sel_to_go-sel-corresp.txt")), row.names = FALSE, col.names= FALSE, 
+            #quote = FALSE, sep = '\t')
 #Get genes selected by gene and go
 genl.w.go<- unique(filter.genes.by.go$gene_id)
 
@@ -128,7 +128,7 @@ plot <- ggplot(d.p3, aes(x=factor(st, levels = lev), y=order)) +
   labs(fill=nam)
 
 
-ggsave(here(paste0("mixed-analysis/02_go/figures/go-genes-plot-mixed-reference-just-selected-genes-de-selected-go-lfc0-", nam, "-2.pdf")), plot, height=20, width=10, limitsize=FALSE)
+ggsave(here(paste0("mixed-analysis/02_go/figures/go-genes-plot-mixed-reference-just-selected-genes-de-selected-go-lfc0-", nam, "-20240109.pdf")), plot, height=20, width=10, limitsize=FALSE)
 
 return(row.order)
 })
@@ -136,6 +136,6 @@ return(row.order)
 
 g.to.wr<- l[[2]] 
 
-write.table(g.to.wr, file=here(paste0("mixed-analysis/02_go/tables/go-genes-plot-mixed-reference-just-selected-genes-de-selected-go-lfc0-2.txt")), row.names = FALSE, col.names= FALSE, 
-            quote = FALSE, sep = '\t')
+#write.table(g.to.wr, file=here(paste0("mixed-analysis/02_go/tables/go-genes-plot-mixed-reference-just-selected-genes-de-selected-go-lfc0-20240109.txt")), row.names = FALSE, col.names= FALSE, 
+           # quote = FALSE, sep = '\t')
 

@@ -1,0 +1,162 @@
+LOC112554359	retinal homeobox protein Rx2-like	GO:0007601	visual perception
+LOC112554359	retinal homeobox protein Rx2-like	GO:0043010	camera-type eye development
+LOC112554359	retinal homeobox protein Rx2-like	GO:0050953	sensory perception of light stimulus
+LOC112554782	transcription factor SOX-2-like	GO:0007399	nervous system development
+LOC112554782	transcription factor SOX-2-like	GO:0022008	neurogenesis
+LOC112554782	transcription factor SOX-2-like	GO:0042060	wound healing
+LOC112554782	transcription factor SOX-2-like	GO:0043010	camera-type eye development
+LOC112554782	transcription factor SOX-2-like	GO:0045595	regulation of cell differentiation
+LOC112554782	transcription factor SOX-2-like	GO:0051726	regulation of cell cycle
+LOC112554782	transcription factor SOX-2-like	GO:0060041	retina development in camera-type eye
+LOC112554782	transcription factor SOX-2-like	GO:0061564	axon development
+LOC112554782	transcription factor SOX-2-like	GO:0090596	sensory organ morphogenesis
+LOC112555129	retinoblastoma-associated protein-like	GO:0007399	nervous system development
+LOC112555129	retinoblastoma-associated protein-like	GO:0022008	neurogenesis
+LOC112555129	retinoblastoma-associated protein-like	GO:0045595	regulation of cell differentiation
+LOC112555129	retinoblastoma-associated protein-like	GO:0051726	regulation of cell cycle
+LOC112555259	retinal homeobox protein Rx-like	GO:0007399	nervous system development
+LOC112555259	retinal homeobox protein Rx-like	GO:0022008	neurogenesis
+LOC112555761	NT-3 growth factor receptor-like	GO:0001764	neuron migration
+LOC112555761	NT-3 growth factor receptor-like	GO:0007399	nervous system development
+LOC112555761	NT-3 growth factor receptor-like	GO:0016477	cell migration
+LOC112555761	NT-3 growth factor receptor-like	GO:0022008	neurogenesis
+LOC112555761	NT-3 growth factor receptor-like	GO:0043010	camera-type eye development
+LOC112555761	NT-3 growth factor receptor-like	GO:0045595	regulation of cell differentiation
+LOC112555761	NT-3 growth factor receptor-like	GO:0060041	retina development in camera-type eye
+LOC112555761	NT-3 growth factor receptor-like	GO:0061564	axon development
+LOC112555761	NT-3 growth factor receptor-like	GO:0090596	sensory organ morphogenesis
+LOC112557455	homeobox protein Dlx6a-like	GO:0007399	nervous system development
+LOC112557455	homeobox protein Dlx6a-like	GO:0022008	neurogenesis
+LOC112557455	homeobox protein Dlx6a-like	GO:0045595	regulation of cell differentiation
+LOC112557554	transcription factor HES-1-like	GO:0007399	nervous system development
+LOC112557554	transcription factor HES-1-like	GO:0016477	cell migration
+LOC112557554	transcription factor HES-1-like	GO:0022008	neurogenesis
+LOC112557554	transcription factor HES-1-like	GO:0045595	regulation of cell differentiation
+LOC112557554	transcription factor HES-1-like	GO:0051726	regulation of cell cycle
+LOC112559185	cyclin-G2-like	GO:0007399	nervous system development
+LOC112559185	cyclin-G2-like	GO:0051726	regulation of cell cycle
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0007399	nervous system development
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0022008	neurogenesis
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0042060	wound healing
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0043010	camera-type eye development
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0045595	regulation of cell differentiation
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0051726	regulation of cell cycle
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0060041	retina development in camera-type eye
+LOC112559435	retinoic acid receptor alpha-A-like	GO:0090596	sensory organ morphogenesis
+LOC112559942	paired box protein Pax-6-like	GO:0001764	neuron migration
+LOC112559942	paired box protein Pax-6-like	GO:0007399	nervous system development
+LOC112559942	paired box protein Pax-6-like	GO:0007601	visual perception
+LOC112559942	paired box protein Pax-6-like	GO:0016477	cell migration
+LOC112559942	paired box protein Pax-6-like	GO:0022008	neurogenesis
+LOC112559942	paired box protein Pax-6-like	GO:0043010	camera-type eye development
+LOC112559942	paired box protein Pax-6-like	GO:0045595	regulation of cell differentiation
+LOC112559942	paired box protein Pax-6-like	GO:0050953	sensory perception of light stimulus
+LOC112559942	paired box protein Pax-6-like	GO:0060041	retina development in camera-type eye
+LOC112559942	paired box protein Pax-6-like	GO:0061564	axon development
+LOC112559942	paired box protein Pax-6-like	GO:0090596	sensory organ morphogenesis
+LOC112560122	forkhead box protein N4-like	GO:0007399	nervous system development
+LOC112560122	forkhead box protein N4-like	GO:0022008	neurogenesis
+LOC112560122	forkhead box protein N4-like	GO:0043010	camera-type eye development
+LOC112560122	forkhead box protein N4-like	GO:0060041	retina development in camera-type eye
+LOC112560122	forkhead box protein N4-like	GO:0090596	sensory organ morphogenesis
+LOC112560487	G2/mitotic-specific cyclin-A-like	GO:0051726	regulation of cell cycle
+LOC112562800	homeobox protein six1-like	GO:0007399	nervous system development
+LOC112562800	homeobox protein six1-like	GO:0016477	cell migration
+LOC112562800	homeobox protein six1-like	GO:0022008	neurogenesis
+LOC112562800	homeobox protein six1-like	GO:0043010	camera-type eye development
+LOC112562800	homeobox protein six1-like	GO:0045595	regulation of cell differentiation
+LOC112562800	homeobox protein six1-like	GO:0090596	sensory organ morphogenesis
+LOC112562885	hairy/enhancer-of-split related with YRPW motif protein 1-like	GO:0007399	nervous system development
+LOC112562885	hairy/enhancer-of-split related with YRPW motif protein 1-like	GO:0022008	neurogenesis
+LOC112562885	hairy/enhancer-of-split related with YRPW motif protein 1-like	GO:0045595	regulation of cell differentiation
+LOC112563571	proliferation marker protein Ki-67-like	GO:0051726	regulation of cell cycle
+LOC112564198	mitotic spindle assembly checkpoint protein MAD2A-like	GO:0051726	regulation of cell cycle
+LOC112564260	neurogenic differentiation factor 1-like	GO:0007399	nervous system development
+LOC112564260	neurogenic differentiation factor 1-like	GO:0022008	neurogenesis
+LOC112564260	neurogenic differentiation factor 1-like	GO:0043010	camera-type eye development
+LOC112564260	neurogenic differentiation factor 1-like	GO:0045595	regulation of cell differentiation
+LOC112564260	neurogenic differentiation factor 1-like	GO:0051726	regulation of cell cycle
+LOC112564260	neurogenic differentiation factor 1-like	GO:0060041	retina development in camera-type eye
+LOC112564260	neurogenic differentiation factor 1-like	GO:0061564	axon development
+LOC112564260	neurogenic differentiation factor 1-like	GO:0090596	sensory organ morphogenesis
+LOC112564753	ventral anterior homeobox 1-like	GO:0001764	neuron migration
+LOC112564753	ventral anterior homeobox 1-like	GO:0007399	nervous system development
+LOC112564753	ventral anterior homeobox 1-like	GO:0016477	cell migration
+LOC112564753	ventral anterior homeobox 1-like	GO:0022008	neurogenesis
+LOC112564753	ventral anterior homeobox 1-like	GO:0043010	camera-type eye development
+LOC112564753	ventral anterior homeobox 1-like	GO:0045595	regulation of cell differentiation
+LOC112564753	ventral anterior homeobox 1-like	GO:0060041	retina development in camera-type eye
+LOC112564753	ventral anterior homeobox 1-like	GO:0061564	axon development
+LOC112564753	ventral anterior homeobox 1-like	GO:0090596	sensory organ morphogenesis
+LOC112565132	integrin alpha-IIb-like	GO:0007399	nervous system development
+LOC112565132	integrin alpha-IIb-like	GO:0016477	cell migration
+LOC112565132	integrin alpha-IIb-like	GO:0022008	neurogenesis
+LOC112565132	integrin alpha-IIb-like	GO:0042060	wound healing
+LOC112565132	integrin alpha-IIb-like	GO:0061564	axon development
+LOC112567296	oligodendrocyte transcription factor 2-like	GO:0001764	neuron migration
+LOC112567296	oligodendrocyte transcription factor 2-like	GO:0007399	nervous system development
+LOC112567296	oligodendrocyte transcription factor 2-like	GO:0016477	cell migration
+LOC112567296	oligodendrocyte transcription factor 2-like	GO:0022008	neurogenesis
+LOC112568932	plasminogen-like	GO:0016477	cell migration
+LOC112568932	plasminogen-like	GO:0042060	wound healing
+LOC112570915	homeobox protein SIX6-like	GO:0007399	nervous system development
+LOC112570915	homeobox protein SIX6-like	GO:0007601	visual perception
+LOC112570915	homeobox protein SIX6-like	GO:0016477	cell migration
+LOC112570915	homeobox protein SIX6-like	GO:0022008	neurogenesis
+LOC112570915	homeobox protein SIX6-like	GO:0043010	camera-type eye development
+LOC112570915	homeobox protein SIX6-like	GO:0045595	regulation of cell differentiation
+LOC112570915	homeobox protein SIX6-like	GO:0050953	sensory perception of light stimulus
+LOC112570915	homeobox protein SIX6-like	GO:0051726	regulation of cell cycle
+LOC112570915	homeobox protein SIX6-like	GO:0090596	sensory organ morphogenesis
+LOC112571029	visual system homeobox 2-like	GO:0001764	neuron migration
+LOC112571029	visual system homeobox 2-like	GO:0007399	nervous system development
+LOC112571029	visual system homeobox 2-like	GO:0007601	visual perception
+LOC112571029	visual system homeobox 2-like	GO:0016477	cell migration
+LOC112571029	visual system homeobox 2-like	GO:0022008	neurogenesis
+LOC112571029	visual system homeobox 2-like	GO:0043010	camera-type eye development
+LOC112571029	visual system homeobox 2-like	GO:0050953	sensory perception of light stimulus
+LOC112571029	visual system homeobox 2-like	GO:0060041	retina development in camera-type eye
+LOC112571029	visual system homeobox 2-like	GO:0090596	sensory organ morphogenesis
+LOC112571089	visual system homeobox 1-like	GO:0001764	neuron migration
+LOC112571089	visual system homeobox 1-like	GO:0007399	nervous system development
+LOC112571089	visual system homeobox 1-like	GO:0007601	visual perception
+LOC112571089	visual system homeobox 1-like	GO:0016477	cell migration
+LOC112571089	visual system homeobox 1-like	GO:0022008	neurogenesis
+LOC112571089	visual system homeobox 1-like	GO:0043010	camera-type eye development
+LOC112571089	visual system homeobox 1-like	GO:0045595	regulation of cell differentiation
+LOC112571089	visual system homeobox 1-like	GO:0050953	sensory perception of light stimulus
+LOC112571089	visual system homeobox 1-like	GO:0060041	retina development in camera-type eye
+LOC112571089	visual system homeobox 1-like	GO:0090596	sensory organ morphogenesis
+LOC112571127	forkhead box protein G1-like	GO:0001764	neuron migration
+LOC112571127	forkhead box protein G1-like	GO:0007399	nervous system development
+LOC112571127	forkhead box protein G1-like	GO:0016477	cell migration
+LOC112571127	forkhead box protein G1-like	GO:0022008	neurogenesis
+LOC112571127	forkhead box protein G1-like	GO:0045595	regulation of cell differentiation
+LOC112571127	forkhead box protein G1-like	GO:0051726	regulation of cell cycle
+LOC112571127	forkhead box protein G1-like	GO:0061564	axon development
+LOC112571127	forkhead box protein G1-like	GO:0090596	sensory organ morphogenesis
+LOC112572019	protein Wnt-2b-like	GO:0007399	nervous system development
+LOC112572019	protein Wnt-2b-like	GO:0022008	neurogenesis
+LOC112572019	protein Wnt-2b-like	GO:0043010	camera-type eye development
+LOC112572019	protein Wnt-2b-like	GO:0045595	regulation of cell differentiation
+LOC112572019	protein Wnt-2b-like	GO:0060041	retina development in camera-type eye
+LOC112572019	protein Wnt-2b-like	GO:0061564	axon development
+LOC112572019	protein Wnt-2b-like	GO:0090596	sensory organ morphogenesis
+LOC112575485	retina and anterior neural fold homeobox protein 2-like	GO:0001764	neuron migration
+LOC112575485	retina and anterior neural fold homeobox protein 2-like	GO:0007399	nervous system development
+LOC112575485	retina and anterior neural fold homeobox protein 2-like	GO:0016477	cell migration
+LOC112575485	retina and anterior neural fold homeobox protein 2-like	GO:0022008	neurogenesis
+LOC112575485	retina and anterior neural fold homeobox protein 2-like	GO:0045595	regulation of cell differentiation
+LOC112555129	retinoblastoma-associated protein-like	GO:0007601	visual perception
+LOC112555129	retinoblastoma-associated protein-like	GO:0050953	sensory perception of light stimulus
+LOC112562988	matrix metalloproteinase-19-like	GO:0016477	cell migration
+LOC112567380	rhodopsin, GQ-coupled-like	GO:0007601	visual perception
+LOC112567380	rhodopsin, GQ-coupled-like	GO:0007602	phototransduction
+LOC112567380	rhodopsin, GQ-coupled-like	GO:0050953	sensory perception of light stimulus
+LOC112570544	melanopsin-like	GO:0007601	visual perception
+LOC112570544	melanopsin-like	GO:0007602	phototransduction
+LOC112570544	melanopsin-like	GO:0050953	sensory perception of light stimulus
+LOC112570544	melanopsin-like	GO:0060041	retina development in camera-type eye
+LOC112572084	visual pigment-like receptor peropsin	GO:0007601	visual perception
+LOC112572084	visual pigment-like receptor peropsin	GO:0007602	phototransduction
+LOC112572084	visual pigment-like receptor peropsin	GO:0050953	sensory perception of light stimulus

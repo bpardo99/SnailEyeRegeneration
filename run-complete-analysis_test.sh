@@ -45,8 +45,8 @@ PYTHON="/home/ejr/miniconda3/envs/go-figure/bin/python3.11"
 ###############################################
 touch 1dp1-reference.finished
 touch intact-reference.finished
-touch mixed.finished
-#touch sequential-reference.finished
+#touch mixed.finished
+touch sequential-reference.finished
 
 ###############################################
 # Expression Analysis using 1dpa as reference
@@ -153,7 +153,9 @@ then
 DIR=mixed-analysis
 echo "Start mixed-analysis"
 #Make go plots
-Rscript ${DIR}/02_go/01_go-plot-mixed-analysis.R
-Rscript ${DIR}/02_go/02_go-genes-plot-mixed-analysis.R
+#Rscript ${DIR}/02_go/01_go-plot-mixed-analysis.R
+#Rscript ${DIR}/02_go/02_go-genes-plot-mixed-analysis.R
+Rscript ${DIR}/02_go/01_go-plot-mixed-analysis-subselection-20230714.R
+Rscript ${DIR}/02_go/03_go-genes-plot-mixed-analysis-heatmap-genesngoselected-20230820.R
 touch mixed.finished
 fi

@@ -1,0 +1,31 @@
+LOC112559435_retinoic acid receptor alpha-A
+LOC112570544_melanopsin
+LOC112572084_visual pigment receptor peropsin
+LOC112567380_rhodopsin, GQ-coupled
+LOC112555761_NT-3 growth factor receptor
+LOC112575485_retina and anterior neural fold homeobox protein 2
+LOC112571029_visual system homeobox 2
+LOC112557455_homeobox protein Dlx6a
+LOC112571127_forkhead box protein G1
+LOC112557554_transcription factor HES-1
+LOC112559942_paired box protein Pax-6
+LOC112555259_retinal homeobox protein Rx
+LOC112554782_transcription factor SOX-2
+LOC112567296_oligodendrocyte transcription factor 2
+LOC112562800_homeobox protein six1
+LOC112570915_homeobox protein SIX6
+LOC112554359_retinal homeobox protein Rx2
+LOC112562885_hairy/enhancer-of-split related with YRPW motif protein 1
+LOC112564260_neurogenic differentiation factor 1
+LOC112560122_forkhead box protein N4
+LOC112572019_protein Wnt-2b
+LOC112571089_visual system homeobox 1
+LOC112564753_ventral anterior homeobox 1
+LOC112555129_retinoblastoma-associated protein
+LOC112564198_mitotic spindle assembly checkpoint protein MAD2A
+LOC112560487_G2/mitotic-specific cyclin-A
+LOC112563571_proliferation marker protein Ki-67
+LOC112559185_cyclin-G2
+LOC112565132_integrin alpha-IIb
+LOC112562988_matrix metalloproteinase-19
+LOC112568932_plasminogen
